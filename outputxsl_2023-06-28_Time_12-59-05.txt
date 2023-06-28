@@ -1,0 +1,2466 @@
+[
+    {
+        "NombreAgente": "MINCOM SOLUCIONES AMBIENTALES S.A.C.",
+        "Telf": "924343366",
+        "Ubigeo": "40124",
+        "Direccion": "Calle 1 Etp Estrella Cural Nro. -- Fundo Rustico Nro 1264 Lateral 12, Uchumayo, Arequipa, Arequipa",
+        "latlng": "38.89037,-77.03196",
+        "estado": "1"
+    },
+    {
+        "NombreAgente": "AGIP DIAZ DORIS",
+        "Telf": "964778345",
+        "Ubigeo": "60612",
+        "Direccion": "Av. Buenaventura Julca S.N. 3 Cuadras De La Pnp Rural Santos, Santo Domingo De La Capilla, Cutervo, Cajamarca",
+        "latlng": "-6.25767,-78.86369",
+        "estado": "1"
+    },
+    {
+        "NombreAgente": "AGUILAR IDROGO EDWIN MELVIN",
+        "Telf": "948143395",
+        "Ubigeo": "60701",
+        "Direccion": "Cas. Machaypungo Alto S/N (Ref.: A 200M De La I.E. 10985 Machaypungo Alto), Bambamarca, Hualgayoc, Cajamarca",
+        "latlng": "-6.68095,-78.52053",
+        "estado": "1"
+    },
+    {
+        "NombreAgente": "AGUILAR PEREZ ALAMIRO",
+        "Telf": "969288296",
+        "Ubigeo": "60606",
+        "Direccion": "Cas. Pucala Mza. N Lote. 21 (Frenten Iglesia Catolica-2Pisos-Adobe), Pimpingos, Cutervo, Cajamarca",
+        "latlng": "-6.07142,-78.76155",
+        "estado": "1"
+    },
+    {
+        "NombreAgente": "ALARCON TELLO PEPE",
+        "Telf": "982489693",
+        "Ubigeo": "60409",
+        "Direccion": "Jr. 27 De Mayo Sn (Centro Poblado Chabarbamba A 50 Metros De La Institución Educativa 10564), Huambos, Chota, Cajamarca",
+        "latlng": "38.89037,-77.03196",
+        "estado": "1"
+    },
+    {
+        "NombreAgente": "ALARCON VARGAS MELISSA JHULIANA",
+        "Telf": "904696813",
+        "Ubigeo": "60613",
+        "Direccion": "Jr. Victor Raul S/N, Santo Tomas, Cutervo, Cajamarca",
+        "latlng": "-6.13632,-78.69733",
+        "estado": "1"
+    },
+    {
+        "NombreAgente": "ALVARO RAFAEL CUBAS FERNANDEZ",
+        "Telf": "926591380",
+        "Ubigeo": "60415",
+        "Direccion": "Calle Comercio S/N (Salida A Querocotillo, Frente Al Puesto De Salud), Querocoto, Chota, Cajamarca",
+        "latlng": "-6.35725,-79.03595",
+        "estado": "1"
+    },
+    {
+        "NombreAgente": "AREVALO FERNANDEZ DIOMEDES",
+        "Telf": "913531872",
+        "Ubigeo": "60604",
+        "Direccion": "C.P. Yunchaco S/N (Ca. La Viña -Final De Calle-2Pisos-Adobe), Cujillo, Cutervo, Cajamarca",
+        "latlng": "-6.37559,-78.82037",
+        "estado": "1"
+    },
+    {
+        "NombreAgente": "BARBOZA ACUNA TEOFILO JULIAN",
+        "Telf": "976883060",
+        "Ubigeo": "60703",
+        "Direccion": "Ca. Muya 00038 Cpme. Muya (Ref.: A 100M Del Puesto De Salud Muya), Hualgayoc, Hualgayoc, Cajamarca",
+        "latlng": "-7.1521,-78.52063",
+        "estado": "1"
+    },
+    {
+        "NombreAgente": "BARRANTES CALDERON JOSE LENIN",
+        "Telf": "990182365",
+        "Ubigeo": "61311",
+        "Direccion": "Av. Magisterial C.P. Yauyucan S/N (En La Entrada Del Pueblo), Yauyucan, Santa Cruz, Cajamarca",
+        "latlng": "-6.68093,-78.82664",
+        "estado": "1"
+    },
+    {
+        "NombreAgente": "BARTUREN CORREA LINOR",
+        "Telf": "958602477",
+        "Ubigeo": "61301",
+        "Direccion": "Av. Aviacion S/N, Santa Cruz, Santa Cruz, Cajamarca",
+        "latlng": "-6.62543,-78.94515",
+        "estado": "1"
+    },
+    {
+        "NombreAgente": "BAZAN RAMIREZ MIGUEL",
+        "Telf": "976279151",
+        "Ubigeo": "60418",
+        "Direccion": "Calle Tacna N° S/N, Tocmoche, Chota, Cajamarca",
+        "latlng": "-6.40342,-79.33371",
+        "estado": "1"
+    },
+    {
+        "NombreAgente": "BOCANEGRA TERRONES AUGUSTO",
+        "Telf": "951688352",
+        "Ubigeo": "60613",
+        "Direccion": "Calle Socota Sn (A 20 Mt Del Parque Cruz Del Recuerdo), Santo Tomas, Cutervo, Cajamarca",
+        "latlng": "-6.13632,-78.69733",
+        "estado": "1"
+    },
+    {
+        "NombreAgente": "BONILLA BONILLA ELIDIA SOLEDAD",
+        "Telf": "958876694",
+        "Ubigeo": "60412",
+        "Direccion": "Av. Circunvalacion Mza. 1A Lote. 1, Miracosta, Chota, Cajamarca",
+        "latlng": "-6.40302,-79.2858",
+        "estado": "1"
+    },
+    {
+        "NombreAgente": "BURGA ROJAS CESAR WILDER",
+        "Telf": "978768439",
+        "Ubigeo": "60401",
+        "Direccion": "Calle. Pan De Azucar 198-Centro Poblado Iraca Grande, Chota, Chota, Cajamarca",
+        "latlng": "-6.55972,-78.65235",
+        "estado": "1"
+    },
+    {
+        "NombreAgente": "BURGA SILVA CHRISTIAN SEGUNDO",
+        "Telf": "969560270",
+        "Ubigeo": "60401",
+        "Direccion": "Jr. Jose Arana 764, Chota, Chota, Cajamarca",
+        "latlng": "-6.56369,-78.65174",
+        "estado": "1"
+    },
+    {
+        "NombreAgente": "BURGA SILVA CHRISTIAN SEGUNDO",
+        "Telf": "969560270",
+        "Ubigeo": "60401",
+        "Direccion": "Jr. Exequiel Montoya 853, Chota, Chota, Cajamarca",
+        "latlng": "-6.5603,-78.65572",
+        "estado": "1"
+    },
+    {
+        "NombreAgente": "BUSTAMANTE DIAZ MIRIAM",
+        "Telf": "976147333",
+        "Ubigeo": "60401",
+        "Direccion": "Paseo San Mateo S/N, Chota, Chota, Cajamarca",
+        "latlng": "-6.5545,-78.65268",
+        "estado": "1"
+    },
+    {
+        "NombreAgente": "CABRERA DIAZ JOSE NELBER",
+        "Telf": "940139188",
+        "Ubigeo": "60601",
+        "Direccion": "Av. San Juan Sn (A 3 Cdras. Del Coliseo Deportivo Fachada De Ladrillo Color Rojo Y Frente Al Colegio San Antonio De Padua) , Cutervo, Cutervo, Cajamarca",
+        "latlng": "38.89037,-77.03196",
+        "estado": "1"
+    },
+    {
+        "NombreAgente": "CARRASCO CARUAJULCA ANA FRESMILA",
+        "Telf": "978045345",
+        "Ubigeo": "60601",
+        "Direccion": "Calle Las Rosas Sn Ref. A Media Cuadra Del Grifo Sarita Colonia, Cutervo, Cutervo, Cajamarca",
+        "latlng": "-6.37827,-78.81704",
+        "estado": "1"
+    },
+    {
+        "NombreAgente": "CARRERO CARRERO PERSI",
+        "Telf": "953373533",
+        "Ubigeo": "60409",
+        "Direccion": "Calle 24 De Junio S/N (A 3 Cuadras Plaza De Armas), Huambos, Chota, Cajamarca",
+        "latlng": "38.89037,-77.03196",
+        "estado": "1"
+    },
+    {
+        "NombreAgente": "CARRERO TELLO RAMOS",
+        "Telf": "988193098",
+        "Ubigeo": "60601",
+        "Direccion": "Psje. Cruz De Chalpom N° 100 (A Espaldas Institución Educatica N10236), Cutervo, Cutervo, Cajamarca",
+        "latlng": "-6.37827,-78.81704",
+        "estado": "1"
+    },
+    {
+        "NombreAgente": "CASTANEDA RAMOS ANGELA MARIA",
+        "Telf": "955819036",
+        "Ubigeo": "60602",
+        "Direccion": "Calle Comercio Lt1 Barrio Alto Huallaga, Callayuc, Cutervo, Cajamarca",
+        "latlng": "-6.01533,-78.96837",
+        "estado": "1"
+    },
+    {
+        "NombreAgente": "CASTILLO CASTRO MARIA ESTHER",
+        "Telf": "925739599",
+        "Ubigeo": "60608",
+        "Direccion": "Av.Salomon Vilchez Murga S/N, San Andres De Cutervo, Cutervo, Cajamarca",
+        "latlng": "-6.19937,-78.70073",
+        "estado": "1"
+    },
+    {
+        "NombreAgente": "CAXAMARCA GAS S.A",
+        "Telf": "976585002",
+        "Ubigeo": "60601",
+        "Direccion": "Av. Salomon Vilchez N° 841 (Al Frente De La Botica Rox Y Ana Farma), Cutervo, Cutervo, Cajamarca",
+        "latlng": "-6.37827,-78.81704",
+        "estado": "1"
+    },
+    {
+        "NombreAgente": "CAXAMARCA GAS S.A ",
+        "Telf": "959243960",
+        "Ubigeo": "60101",
+        "Direccion": "Av. San Martin De Porres N° 1837, Cajamarca, Cajamarca, Cajamarca",
+        "latlng": "-7.17857,-78.49458",
+        "estado": "1"
+    },
+    {
+        "NombreAgente": "CAXAMARCA GAS S.A.",
+        "Telf": "947545404",
+        "Ubigeo": "60701",
+        "Direccion": "Jr. Jorge Chavez N° 849, Bambamarca, Hualgayoc, Cajamarca",
+        "latlng": "-6.67774,-78.52064",
+        "estado": "1"
+    },
+    {
+        "NombreAgente": "CAXAMARCA GAS S.A.",
+        "Telf": "947545404",
+        "Ubigeo": "60401",
+        "Direccion": "Jr. Adriano Novoa N° 816, Chota, Chota, Cajamarca",
+        "latlng": "-6.55906,-78.65222",
+        "estado": "1"
+    },
+    {
+        "NombreAgente": "CAYOTOPA VASQUEZ MARIA EDITH",
+        "Telf": "944599694",
+        "Ubigeo": "60409",
+        "Direccion": "Jr. 24 De Junio 533, Huambos, Chota, Cajamarca",
+        "latlng": "-6.45271,-78.9603",
+        "estado": "1"
+    },
+    {
+        "NombreAgente": "CENTURION AGUILAR FELIX HELI",
+        "Telf": "951951248",
+        "Ubigeo": "60612",
+        "Direccion": "Av. Buenventura Julca Pedraza Sn (Costado De Cernan-1 Piso- De Ladrillo), Santo Domingo De La Capilla, Cutervo, Cajamarca",
+        "latlng": "-6.25767,-78.86369",
+        "estado": "1"
+    },
+    {
+        "NombreAgente": "CHAVEZ GUERRERO FREDY",
+        "Telf": "950434370",
+        "Ubigeo": "61307",
+        "Direccion": "Calle Pulan S/N C.P Menor Pulan , Pulan, Santa Cruz, Cajamarca",
+        "latlng": "-6.74649,-78.92102",
+        "estado": "1"
+    },
+    {
+        "NombreAgente": "CHAVEZ TIRADO ELSA NOEMI",
+        "Telf": "961872161",
+        "Ubigeo": "60701",
+        "Direccion": "Calle Pomagon Bajo No S/N, Bambamarca, Hualgayoc, Cajamarca",
+        "latlng": "-6.68095,-78.52053",
+        "estado": "1"
+    },
+    {
+        "NombreAgente": "CHOTA GAS SAC",
+        "Telf": "992734969",
+        "Ubigeo": "60401",
+        "Direccion": "Comunidad Pingobamba Bedoya S/N Sector Pedro Soro Carretera Chota, Chota, Chota, Cajamarca",
+        "latlng": "-6.55972,-78.65235",
+        "estado": "1"
+    },
+    {
+        "NombreAgente": "CIEZA ALARCON ELMER",
+        "Telf": "948475290",
+        "Ubigeo": "60601",
+        "Direccion": "Jr. Pedro Montenegro N° 159, Por El Centro Inicial Paquisha, Cutervo, Cutervo, Cajamarca",
+        "latlng": "-6.37827,-78.81704",
+        "estado": "1"
+    },
+    {
+        "NombreAgente": "CIEZA DIAZ JUSTINIANO",
+        "Telf": "941467437",
+        "Ubigeo": "60401",
+        "Direccion": "Calle Mariscal Castilla N° 360, Chota, Chota, Cajamarca",
+        "latlng": "-6.55972,-78.65235",
+        "estado": "1"
+    },
+    {
+        "NombreAgente": "COMERCIALIZADORA Y SERVICIOS ALDAIR S.R.L.",
+        "Telf": "989407270",
+        "Ubigeo": "61301",
+        "Direccion": "Jr. Atahualpa N° 519, Santa Cruz, Santa Cruz, Cajamarca",
+        "latlng": "-6.62543,-78.94515",
+        "estado": "1"
+    },
+    {
+        "NombreAgente": "CORONADO BARAHONA RONALD GENIS",
+        "Telf": "940591995",
+        "Ubigeo": "60601",
+        "Direccion": "Av. Cajamarca Sn Cuadra 02 Barrio 15 De Setiembre, Cutervo, Cutervo, Cajamarca",
+        "latlng": "-6.37827,-78.81704",
+        "estado": "1"
+    },
+    {
+        "NombreAgente": "CORONEL HEREDIA NATALY LISBETH",
+        "Telf": "930529670",
+        "Ubigeo": "60612",
+        "Direccion": "Cas. Playa Hermosa Sn - Referencia Km 70 Carretera Chiple Cutervo Frente A La Casa Del Gobernador , Santo Domingo De La Capilla, Cutervo, Cajamarca",
+        "latlng": "-6.25767,-78.86369",
+        "estado": "1"
+    },
+    {
+        "NombreAgente": "CORONEL SANCHEZ JOSE YONY",
+        "Telf": "980846324",
+        "Ubigeo": "60602",
+        "Direccion": "Cal. Comercio Sn (2 Cdras De Plaza De Armas - 1 Piso) , Callayuc, Cutervo, Cajamarca",
+        "latlng": "-6.37741,-78.81855",
+        "estado": "1"
+    },
+    {
+        "NombreAgente": "CRUZADO ALZAMORA ANDREA",
+        "Telf": "941713001",
+        "Ubigeo": "60701",
+        "Direccion": "Calle Simon Bolivar Nro. 194 , Bambamarca, Hualgayoc, Cajamarca",
+        "latlng": "-6.6811,-78.51918",
+        "estado": "1"
+    },
+    {
+        "NombreAgente": "CUBAS MILLAN DE FERNANDEZ NISIDA",
+        "Telf": "965155204",
+        "Ubigeo": "60808",
+        "Direccion": "Calle Mariscal Castilla N° 661, Pucara, Jaen, Cajamarca",
+        "latlng": "-5.70688,-78.80881",
+        "estado": "1"
+    },
+    {
+        "NombreAgente": "CUBAS PEREZ JOSE BRUNO",
+        "Telf": "977402520",
+        "Ubigeo": "60608",
+        "Direccion": "Calle Cesar Vallejo Sn (Fer. Entre Las Calles Salomon Vilchez Murga Y Parque Nacional), San Andres De Cutervo, Cutervo, Cajamarca",
+        "latlng": "38.89037,-77.03196",
+        "estado": "0"
+    },
+    {
+        "NombreAgente": "DAVILA MEJIA NILSON IVAN",
+        "Telf": "992515744",
+        "Ubigeo": "60601",
+        "Direccion": "Jr. Miraflores N° 600, Cutervo, Cutervo, Cajamarca",
+        "latlng": "-7.14539,-78.52417",
+        "estado": "1"
+    },
+    {
+        "NombreAgente": "DELGADO DAVILA FIORELLA MARIA",
+        "Telf": "920466594",
+        "Ubigeo": "60808",
+        "Direccion": "Av. Jaen 549, Pucara, Jaen, Cajamarca",
+        "latlng": "-6.00848,-79.15962",
+        "estado": "1"
+    },
+    {
+        "NombreAgente": "DELGADO DAVILA FIORELLA MARIA",
+        "Telf": "920466594",
+        "Ubigeo": "60804",
+        "Direccion": "Calle San Martin S/N, Colasay, Jaen, Cajamarca",
+        "latlng": "-5.70983,-78.80989",
+        "estado": "1"
+    },
+    {
+        "NombreAgente": "DELGADO EFUS DELIRA",
+        "Telf": "958086845",
+        "Ubigeo": "60410",
+        "Direccion": "Avenida Chiclayo 399, Lajas, Chota, Cajamarca",
+        "latlng": "-6.56084,-78.73489",
+        "estado": "1"
+    },
+    {
+        "NombreAgente": "DELGADO FERNANDEZ ROYER",
+        "Telf": "926432943",
+        "Ubigeo": "60614",
+        "Direccion": "Calle Amazonas 119, Socota, Cutervo, Cajamarca",
+        "latlng": "-6.37827,-78.81704",
+        "estado": "1"
+    },
+    {
+        "NombreAgente": "DELGADO RIVERA ROSA ELVIRA",
+        "Telf": "979847968",
+        "Ubigeo": "60614",
+        "Direccion": "Jr. Cutervo N° S/N , Socota, Cutervo, Cajamarca",
+        "latlng": "-6.37336,-78.80891",
+        "estado": "1"
+    },
+    {
+        "NombreAgente": "DIANIRA VASQUEZ DIAZ",
+        "Telf": "957562498",
+        "Ubigeo": "60410",
+        "Direccion": "Jr. Haya De La Torre S/N, Lajas, Chota, Cajamarca",
+        "latlng": "-6.56084,-78.73489",
+        "estado": "1"
+    },
+    {
+        "NombreAgente": "DIAZ RUIZ BRITALDO",
+        "Telf": "985684223",
+        "Ubigeo": "60701",
+        "Direccion": "Caserío Auque Mirador S/N (Ref.: Cerca Al Bosque De Piedras), Bambamarca, Hualgayoc, Cajamarca",
+        "latlng": "-6.68095,-78.52053",
+        "estado": "1"
+    },
+    {
+        "NombreAgente": "DISTRIBUCIONES E INVERSIONES DYD E.I.R.L",
+        "Telf": "942135425",
+        "Ubigeo": "60613",
+        "Direccion": "Jr Sucre 231 Santo Tomas, Santo Tomas, Cutervo, Cajamarca",
+        "latlng": "9.35834,-75.20929",
+        "estado": "1"
+    },
+    {
+        "NombreAgente": "DISTRIBUIDORA MI TATIANA",
+        "Telf": "954846153",
+        "Ubigeo": "60610",
+        "Direccion": "Jr. 28 De Julio Nro. 500 , San Luis De Lucma, Cutervo, Cajamarca",
+        "latlng": "-6.2888,-78.58546",
+        "estado": "1"
+    },
+    {
+        "NombreAgente": "ELMER GALVEZ CARUAJULCA",
+        "Telf": "932403756",
+        "Ubigeo": "60701",
+        "Direccion": "Cas. Maigasbamba Ref Km 196 (Cruce Cajamarca - Bambamarca), Bambamarca, Hualgayoc, Cajamarca",
+        "latlng": "-6.6843,-78.5209",
+        "estado": "1"
+    },
+    {
+        "NombreAgente": "ELSA MARLENY ORTIZ ROJAS",
+        "Telf": "970971038",
+        "Ubigeo": "60417",
+        "Direccion": "Jr. Aviación S/N (Ref. Esquina Con Jr. 28 De Julio), Tacabamba, Chota, Cajamarca",
+        "latlng": "-6.56074,-78.64515",
+        "estado": "1"
+    },
+    {
+        "NombreAgente": "FERNADEZ GONZALES FAUSTO",
+        "Telf": "972642225",
+        "Ubigeo": "60606",
+        "Direccion": "Jr. Libertadores 103, Pimpingos, Cutervo, Cajamarca",
+        "latlng": "-6.07142,-78.76155",
+        "estado": "1"
+    },
+    {
+        "NombreAgente": "FERNANDEZ VASQUEZ RICHARD",
+        "Telf": "972281151",
+        "Ubigeo": "60401",
+        "Direccion": "Sec. Ii Cabracancha 1 (A 100 Metros Del Hotel Sol Del Valle), Chota, Chota, Cajamarca",
+        "latlng": "38.89037,-77.03196",
+        "estado": "1"
+    },
+    {
+        "NombreAgente": "FERNANDEZ VASQUEZ ROSA AMANDA",
+        "Telf": "939308821",
+        "Ubigeo": "60415",
+        "Direccion": "Jr.Comercio Nro 421, Querocoto, Chota, Cajamarca",
+        "latlng": "-6.35725,-79.03595",
+        "estado": "1"
+    },
+    {
+        "NombreAgente": "FERNANDEZ VILCHEZ DORIS ELENA",
+        "Telf": "976588546",
+        "Ubigeo": "60801",
+        "Direccion": "Calle Huayna Capac N 351 Aa.Hh Fila Alta, Jaen, Jaen, Cajamarca",
+        "latlng": "37.76627,-3.79371",
+        "estado": "1"
+    },
+    {
+        "NombreAgente": "GALLARDO ZAMORA NELIDA",
+        "Telf": "970951155",
+        "Ubigeo": "60701",
+        "Direccion": "Av. Bambamarca S/N C.P. Moran Lirio, Bambamarca, Hualgayoc, Cajamarca",
+        "latlng": "-6.67854,-78.51895",
+        "estado": "1"
+    },
+    {
+        "NombreAgente": "GONZALES RODAS DE VASQUEZ YRMA",
+        "Telf": "932066926",
+        "Ubigeo": "61109",
+        "Direccion": "Progreso # 15 , Niepos, San Miguel, Cajamarca",
+        "latlng": "-6.89851,-79.13278",
+        "estado": "1"
+    },
+    {
+        "NombreAgente": "GRIFO Y TRANSPORTES SARITA COLONIA P & F E.I.R.L.",
+        "Telf": "950675722",
+        "Ubigeo": "60601",
+        "Direccion": "Ca. Las Rosas Lte24. Cutervo Sn (Con Esquina Salida A Lirio), Cutervo, Cutervo, Cajamarca",
+        "latlng": "-6.37827,-78.81704",
+        "estado": "1"
+    },
+    {
+        "NombreAgente": "GRUPO MEGAPOLIS S.A.C.",
+        "Telf": "953016048",
+        "Ubigeo": "60701",
+        "Direccion": "Av.Catalino Teran S/N , Bambamarca, Hualgayoc , Cajamarca",
+        "latlng": "-6.6815,-78.52558",
+        "estado": "1"
+    },
+    {
+        "NombreAgente": "GUERRERO CABRERA CELINA",
+        "Telf": "976614405",
+        "Ubigeo": "60408",
+        "Direccion": "Jr. Comercio Sn (A Media Cdra De La Comisaria Pnp Rural Cochan -A 10 Metros De La Ferretria Don Jorge) , Conchan, Chota, Cajamarca",
+        "latlng": "38.89037,-77.03196",
+        "estado": "1"
+    },
+    {
+        "NombreAgente": "GUEVARA ALEJANDRIA ALEX JHONKENY",
+        "Telf": "968861187",
+        "Ubigeo": "60601",
+        "Direccion": "Jr. Porvenir 100, Cutervo, Cutervo, Cajamarca",
+        "latlng": "-6.37827,-78.81704",
+        "estado": "1"
+    },
+    {
+        "NombreAgente": "GUEVARA BECERRA IRMA",
+        "Telf": "976405432",
+        "Ubigeo": "60606",
+        "Direccion": "Carretera Cuyna - Pimpingos Km 10 Sector La Esperanza, Pimpingos, Cutervo, Cajamarca",
+        "latlng": "-6.07142,-78.76155",
+        "estado": "1"
+    },
+    {
+        "NombreAgente": "GUEVARA GALLARDO EDGAR JESUS",
+        "Telf": "962612265",
+        "Ubigeo": "60404",
+        "Direccion": "Cal. San Juan 214, Chiguirip, Chota, Cajamarca",
+        "latlng": "-6.40823,-78.71791",
+        "estado": "1"
+    },
+    {
+        "NombreAgente": "GUEVARA GUERRA JULIO",
+        "Telf": "976844298",
+        "Ubigeo": "60105",
+        "Direccion": "Jr. Santa Rosa S/N Centro Poblado Chanta Alta, Encañada, Cajamarca, Cajamarca",
+        "latlng": "-6.86297,-78.48169",
+        "estado": "1"
+    },
+    {
+        "NombreAgente": "HERNANDEZ DIAZ GOMER",
+        "Telf": "967044171",
+        "Ubigeo": "60808",
+        "Direccion": "Car. Fernando Belaunde Terry Sec. Santa Rosa Km. 116 (A 50 Mts De Garita Del Control Forestal), Pucara, Jaen, Cajamarca",
+        "latlng": "38.89037,-77.03196",
+        "estado": "1"
+    },
+    {
+        "NombreAgente": "HORNA LLANOS ROYER EMILSER",
+        "Telf": "961926259",
+        "Ubigeo": "60601",
+        "Direccion": "Jr. Santiago Delgado Fernandez S/N (Paralela Al Cementerio - Intersección Jr. 15 De Agosto)), Cutervo, Cutervo, Cajamarca",
+        "latlng": "38.89037,-77.03196",
+        "estado": "1"
+    },
+    {
+        "NombreAgente": "IDELSO LUNA CARRANZA",
+        "Telf": "954863982",
+        "Ubigeo": "60701",
+        "Direccion": "Calle San Carlos 1047, Bambamarca, Hualgayoc, Cajamarca",
+        "latlng": "-6.68031,-78.52203",
+        "estado": "1"
+    },
+    {
+        "NombreAgente": "INVERSIONES AYD BAMBAMARCA S.A.C.",
+        "Telf": "978806494",
+        "Ubigeo": "60701",
+        "Direccion": "Jr. Malecon Quiliche S/N, Bambamarca, Hualgayoc, Cajamarca",
+        "latlng": "-6.6759,-78.52209",
+        "estado": "1"
+    },
+    {
+        "NombreAgente": "INVERSIONES AYD BAMBAMARCA S.A.C.",
+        "Telf": "978806494",
+        "Ubigeo": "60701",
+        "Direccion": "Av. Tupac Amaru N° 1105, Bambamarca, Hualgayoc, Cajamarca",
+        "latlng": "-6.68299,-78.52209",
+        "estado": "1"
+    },
+    {
+        "NombreAgente": "INVERSIONES DE GAS LUICHO",
+        "Telf": "976556965",
+        "Ubigeo": "60101",
+        "Direccion": "Jr. Mariscal Caceres N° 1120 - Barrio Mollepampa, Cajamarca, Cajamarca, Cajamarca",
+        "latlng": "-7.178,-78.50298",
+        "estado": "1"
+    },
+    {
+        "NombreAgente": "INVERSIONES R. T. GAS E.I.R.L.",
+        "Telf": "971003443",
+        "Ubigeo": "60801",
+        "Direccion": "Calle Mariscal Castilla Sector Pueblo Libre No 1624, Jaen, Jaen, Cajamarca",
+        "latlng": "-5.70688,-78.80881",
+        "estado": "1"
+    },
+    {
+        "NombreAgente": "ISMAEL PEREZ PEREZ",
+        "Telf": "976703835",
+        "Ubigeo": "60613",
+        "Direccion": "Carretera Santo Tomas -Jaen Km. 0.120, Santo Tomas, Cutervo, Cajamarca",
+        "latlng": "10.75748,-74.75688",
+        "estado": "1"
+    },
+    {
+        "NombreAgente": "JULCA FERNANDEZ LENIN VLADIMIR",
+        "Telf": "930861949",
+        "Ubigeo": "60612",
+        "Direccion": "Jr. Cutervo Sn (2 Piso.Fachada Verde-A 30 Mts Ie N 10349), Santo Domingo De La Capilla, Cutervo, Cajamarca",
+        "latlng": "-6.25767,-78.86369",
+        "estado": "1"
+    },
+    {
+        "NombreAgente": "KARINA BANDA YAHUANA",
+        "Telf": "996764418",
+        "Ubigeo": "60401",
+        "Direccion": "Micaela Bastidas 361, Chota, Chota, Cajamarca",
+        "latlng": "-6.56727,-78.64933",
+        "estado": "1"
+    },
+    {
+        "NombreAgente": "KEILY NATALY CARRANZA VASQUEZ",
+        "Telf": "967002240",
+        "Ubigeo": "60401",
+        "Direccion": "Jiron San Juan 691 Centro Chota, Chota, Chota, Cajamarca",
+        "latlng": "-6.5569,-78.65518",
+        "estado": "1"
+    },
+    {
+        "NombreAgente": "LA TORRE URIARTE SEGUNDO TIMOTEO",
+        "Telf": "957626841",
+        "Ubigeo": "60410",
+        "Direccion": "Jr. Rosendo Mendivel Nro 248, Lajas, Chota, Cajamarca",
+        "latlng": "-6.56084,-78.73489",
+        "estado": "1"
+    },
+    {
+        "NombreAgente": "LEYVA FLORES TEODOMIRO JOSE",
+        "Telf": "976550304",
+        "Ubigeo": "60601",
+        "Direccion": "Jr. Yawarinas S.N. (A Espaldas De La Oficina De Reclutamient), Cutervo, Cutervo, Cajamarca",
+        "latlng": "-6.37827,-78.81704",
+        "estado": "1"
+    },
+    {
+        "NombreAgente": "LLATAS LLATAS JOSE ORLANDO",
+        "Telf": "957690766",
+        "Ubigeo": "60601",
+        "Direccion": "Jr. Benjamin Duble N503 (Al Costado Del Banco De La Nacion), Cutervo, Cutervo, Cajamarca",
+        "latlng": "-6.3781,-78.81708",
+        "estado": "1"
+    },
+    {
+        "NombreAgente": "LOPEZ CHAVEZ LUZ MARLENY",
+        "Telf": "997864766",
+        "Ubigeo": "60401",
+        "Direccion": "Jr.Fray Jose Arana Nro 529, Chota, Chota, Cajamarca",
+        "latlng": "-6.56369,-78.65174",
+        "estado": "1"
+    },
+    {
+        "NombreAgente": "LOPEZ ROJAS CERAPIO",
+        "Telf": "966902417",
+        "Ubigeo": "60410",
+        "Direccion": "Jr. Rosendo Mendivel No 509, Lajas, Chota, Cajamarca",
+        "latlng": "-6.56084,-78.73489",
+        "estado": "1"
+    },
+    {
+        "NombreAgente": "MARRUFO GARCIA ESPERANZA",
+        "Telf": "970917232",
+        "Ubigeo": "60417",
+        "Direccion": "Calle Washington Cuadra 1, Tacabamba, Chota, Cajamarca",
+        "latlng": "-6.39232,-78.61031",
+        "estado": "1"
+    },
+    {
+        "NombreAgente": "MEDINA MIRANDA GREGORIO",
+        "Telf": "976425620",
+        "Ubigeo": "60701",
+        "Direccion": "Cal. Francisco Bolognesi 989, Bambamarca, Hualgayoc, Cajamarca",
+        "latlng": "-6.68071,-78.5215",
+        "estado": "1"
+    },
+    {
+        "NombreAgente": "MEJIA TIRADO DOER ALEX",
+        "Telf": "916238447",
+        "Ubigeo": "60701",
+        "Direccion": "Av. Tacabamba C.P. San Antonio S/N (Frente A La Plaza De Armas), Bambamarca, Hualgayoc, Cajamarca",
+        "latlng": "-6.67768,-78.51978",
+        "estado": "1"
+    },
+    {
+        "NombreAgente": "MESTANZA MENOR FLORIZA",
+        "Telf": "983063989",
+        "Ubigeo": "60407",
+        "Direccion": "Jr. Lima 724, Cochabamba, Chota, Cajamarca",
+        "latlng": "-6.47495,-78.88362",
+        "estado": "1"
+    },
+    {
+        "NombreAgente": "MONTALVAN PAREDES JHONY MIGUEL",
+        "Telf": "988114005",
+        "Ubigeo": "61106",
+        "Direccion": "Pueblo La Florida Calle Chiclayo 0210 0000, La Florida, San Miguel, Cajamarca",
+        "latlng": "-6.86902,-79.13701",
+        "estado": "1"
+    },
+    {
+        "NombreAgente": "MONTOYA ORTIZ HUGO LINO",
+        "Telf": "965274770",
+        "Ubigeo": "60401",
+        "Direccion": "Av. Todos Los Santos N° 405, Chota, Chota, Cajamarca",
+        "latlng": "-6.55917,-78.64802",
+        "estado": "1"
+    },
+    {
+        "NombreAgente": "MONTOYA ORTIZ WILLAN YANMARCOS",
+        "Telf": "929354689",
+        "Ubigeo": "60601",
+        "Direccion": "Jr. America N° 1016, Cutervo, Cutervo, Cajamarca",
+        "latlng": "-6.38065,-78.81807",
+        "estado": "1"
+    },
+    {
+        "NombreAgente": "MONTOYA ORTIZ YERI YOEL",
+        "Telf": "984539310",
+        "Ubigeo": "60401",
+        "Direccion": "Av. Todos Los Santos 403, Chota, Chota, Cajamarca",
+        "latlng": "-6.55917,-78.64802",
+        "estado": "1"
+    },
+    {
+        "NombreAgente": "MUNOZ LLAJA JORGE ARTIDORO",
+        "Telf": "975964854",
+        "Ubigeo": "60601",
+        "Direccion": "Jr. Santa Rosa 107 Centro Cutervo, Cutervo, Cutervo, Cajamarca",
+        "latlng": "-6.37783,-78.81568",
+        "estado": "1"
+    },
+    {
+        "NombreAgente": "MUNOZ QUINTANA ELI",
+        "Telf": "981896373",
+        "Ubigeo": "60610",
+        "Direccion": "Cal. Comercio 365, San Luis De Lucma, Cutervo, Cajamarca",
+        "latlng": "-6.2888,-78.58546",
+        "estado": "1"
+    },
+    {
+        "NombreAgente": "NORIEGA REYES DEYSY",
+        "Telf": "915187768",
+        "Ubigeo": "60807",
+        "Direccion": "Cal. Francisco Bolognesi Sn (A 60 Mts Del Centro De Salud), Pomahuaca, Jaen, Cajamarca",
+        "latlng": "38.89037,-77.03196",
+        "estado": "1"
+    },
+    {
+        "NombreAgente": "OBLITAS GUERRERO WILMAN ANTENOR",
+        "Telf": "980956259",
+        "Ubigeo": "60405",
+        "Direccion": "Calle Alameda N° 111 Cas. Chimban, Chimban, Chota, Cajamarca",
+        "latlng": "-6.28457,-78.44844",
+        "estado": "1"
+    },
+    {
+        "NombreAgente": "OLANO CHAVEZ MAY WENDOLY",
+        "Telf": "948963832",
+        "Ubigeo": "60417",
+        "Direccion": "Jr. El Sol 235, Tacabamba, Chota, Cajamarca",
+        "latlng": "-6.39232,-78.61031",
+        "estado": "1"
+    },
+    {
+        "NombreAgente": "OLANO GONZALES CANDELARIO",
+        "Telf": "976627155",
+        "Ubigeo": "60609",
+        "Direccion": "Cal. Santa Rosa 314 , San Juan De Cutervo, Cutervo, Cajamarca",
+        "latlng": "-6.1723,-78.60072",
+        "estado": "1"
+    },
+    {
+        "NombreAgente": "OLIVARES CRUZADO FLORMIRA",
+        "Telf": "990186914",
+        "Ubigeo": "60701",
+        "Direccion": "Av. Tupac Amaru 226 (1 Cdra Dell Grifo Petrocentro Bambamarca), Bambamarca, Hualgayoc, Cajamarca",
+        "latlng": "-6.68276,-78.52142",
+        "estado": "1"
+    },
+    {
+        "NombreAgente": "ORRILLO VERA DANIEL",
+        "Telf": "999649955",
+        "Ubigeo": "60413",
+        "Direccion": "Ca.Concepción Goicochea Sn(C.P Paccha - Frente A La Plaza De Armas Del C.P La Paccha) , Paccha, Chota, Cajamarca",
+        "latlng": "38.89037,-77.03196",
+        "estado": "1"
+    },
+    {
+        "NombreAgente": "PERALTA HUAMAN JHON ABEL",
+        "Telf": "986287406",
+        "Ubigeo": "60701",
+        "Direccion": "Jr. Jaime De Martinez 116, Bambamarca, Hualgayoc, Cajamarca",
+        "latlng": "-6.678,-78.51724",
+        "estado": "1"
+    },
+    {
+        "NombreAgente": "PEREZ BANDA JHONATHAN",
+        "Telf": "978583062",
+        "Ubigeo": "60409",
+        "Direccion": "Jr. Tupac Amaru 144, Huambos, Chota, Cajamarca",
+        "latlng": "-11.97376,-77.04403",
+        "estado": "1"
+    },
+    {
+        "NombreAgente": "PEREZ CAMPOS CARMELA",
+        "Telf": "979011057",
+        "Ubigeo": "60701",
+        "Direccion": "Av. Las Manzanas S/N Centro Poblado Lucmacucho Llaucan, Bambamarca, Hualgayoc, Cajamarca",
+        "latlng": "-6.74766,-78.50803",
+        "estado": "1"
+    },
+    {
+        "NombreAgente": "PEREZ CHAPONAN GISELA MARIBEL ",
+        "Telf": "981816033",
+        "Ubigeo": "60601",
+        "Direccion": "Av. San Juan Cdra. 8 (Número De Suministro 28472702), Cutervo, Cutervo, Cajamarca",
+        "latlng": "-6.38148,-78.82014",
+        "estado": "1"
+    },
+    {
+        "NombreAgente": "PEREZ MESTANZA ALAN EMERSON",
+        "Telf": "973540875",
+        "Ubigeo": "60605",
+        "Direccion": "Av. Comercio No 157, La Ramada, Cutervo, Cajamarca",
+        "latlng": "-6.21671,-78.55412",
+        "estado": "1"
+    },
+    {
+        "NombreAgente": "QUINTOS REQUEJO EINER",
+        "Telf": "915338104",
+        "Ubigeo": "60601",
+        "Direccion": "Cas. Salabamba 100 (Tras De La Iglesia Del Caserio Cp Sinchimache), Cutervo, Cutervo, Cajamarca",
+        "latlng": "38.89037,-77.03196",
+        "estado": "1"
+    },
+    {
+        "NombreAgente": "QUISPE LEYVA ALMAGRO",
+        "Telf": "973088819",
+        "Ubigeo": "61106",
+        "Direccion": "Carr. Agua Azul - Mz.A Sn Cas. Agua Azul, La Florida, San Miguel, Cajamarca",
+        "latlng": "-6.86902,-79.13701",
+        "estado": "1"
+    },
+    {
+        "NombreAgente": "RAMIREZ VALDERRAMA YOANNY JACKELINE",
+        "Telf": "927632384",
+        "Ubigeo": "60808",
+        "Direccion": "Pasaje Santa Rosa S/N (Blanco Intencional) Cent Pucara, Pucara, Jaen, Cajamarca",
+        "latlng": "38.89037,-77.03196",
+        "estado": "1"
+    },
+    {
+        "NombreAgente": "REQUEJO GOMEZ NOE",
+        "Telf": "921602753",
+        "Ubigeo": "61303",
+        "Direccion": "Cal. 18 De Agosto S/N, Catache, Santa Cruz, Cajamarca",
+        "latlng": "-6.81279,-79.0861",
+        "estado": "1"
+    },
+    {
+        "NombreAgente": "REQUEJO GOMEZ NOE",
+        "Telf": "921602753",
+        "Ubigeo": "61303",
+        "Direccion": "Cal. 18 De Agosto S/N, Catache, Santa Cruz, Cajamarca",
+        "latlng": "-6.81279,-79.0861",
+        "estado": "1"
+    },
+    {
+        "NombreAgente": "RODRIGO CORONEL EDITA",
+        "Telf": "978447073",
+        "Ubigeo": "60602",
+        "Direccion": "Jr. Comercio S.N. (A 3 Cuadras De La Comisaria), Callayuc, Cutervo, Cajamarca",
+        "latlng": "-6.37902,-78.81805",
+        "estado": "1"
+    },
+    {
+        "NombreAgente": "RODRIGUEZ DELGADO FLOR MIRA",
+        "Telf": "932084638",
+        "Ubigeo": "60603",
+        "Direccion": "Jr. Tupac Amaru 105 Sec. Choros, Choros, Cutervo, Cajamarca",
+        "latlng": "38.89037,-77.03196",
+        "estado": "1"
+    },
+    {
+        "NombreAgente": "SALAZAR LEON JOSE LUIS",
+        "Telf": "939001700",
+        "Ubigeo": "61307",
+        "Direccion": "Avenida General Cabrejos S/N (Ref. Cruce Avenida Cajamarca), Pulan, Santa Cruz, Cajamarca",
+        "latlng": "-6.74649,-78.92102",
+        "estado": "1"
+    },
+    {
+        "NombreAgente": "SALDANA BUSTAMANTE DEINER",
+        "Telf": "976987557",
+        "Ubigeo": "60419",
+        "Direccion": "Centro Poblado El Verde S/N, Chalamarca, Chota, Cajamarca",
+        "latlng": "-6.50312,-78.48083",
+        "estado": "1"
+    },
+    {
+        "NombreAgente": "SALDANA BUSTAMANTE DENILSON",
+        "Telf": "993806807",
+        "Ubigeo": "60419",
+        "Direccion": "Av Santa Clara S/N - Cp El Verde, Chalamarca, Chota, Cajamarca",
+        "latlng": "-6.50312,-78.48083",
+        "estado": "1"
+    },
+    {
+        "NombreAgente": "SANCHEZ DAVILA RICHARD",
+        "Telf": "975120394",
+        "Ubigeo": "60607",
+        "Direccion": "Jr. Callao S/N, Querocotillo, Cutervo, Cajamarca",
+        "latlng": "-6.27459,-79.03767",
+        "estado": "1"
+    },
+    {
+        "NombreAgente": "SANCHEZ DAVILA RICHARD",
+        "Telf": "975120394",
+        "Ubigeo": "60607",
+        "Direccion": "Jr. Comercio Alto S/N (Costado De Escuela Antigua), Querocotillo, Cutervo, Cajamarca",
+        "latlng": "-6.27459,-79.03767",
+        "estado": "1"
+    },
+    {
+        "NombreAgente": "SANCHEZ YDROGO JOSE ABEL",
+        "Telf": "974795001",
+        "Ubigeo": "60408",
+        "Direccion": "Cpm Cutaxi Ref (Frente A Parque Principal), Conchan, Chota, Cajamarca",
+        "latlng": "-6.44466,-78.65496",
+        "estado": "1"
+    },
+    {
+        "NombreAgente": "SAUCEDO DELGADO JUBER ERLI",
+        "Telf": "966252613",
+        "Ubigeo": "60601",
+        "Direccion": "Av. Cajamarca S/N (Altura De Ovalo Los Leones), Cutervo, Cutervo, Cajamarca",
+        "latlng": "-6.37827,-78.81704",
+        "estado": "1"
+    },
+    {
+        "NombreAgente": "SERVICIOS NORGAS S.R.L.",
+        "Telf": "943111137",
+        "Ubigeo": "60801",
+        "Direccion": "Av. Mariscal Ureta N° 829, Jaen, Jaen, Cajamarca",
+        "latlng": "-5.70842,-78.81043",
+        "estado": "1"
+    },
+    {
+        "NombreAgente": "SHEEN ORDONEZ CARLOS RAMIRO",
+        "Telf": "964182570",
+        "Ubigeo": "61108",
+        "Direccion": "Av. La Colmena S/N, Nanchoc, San Miguel, Cajamarca",
+        "latlng": "-7.01369,-79.19409",
+        "estado": "1"
+    },
+    {
+        "NombreAgente": "SUAREZ LEYVA ALEXANDER",
+        "Telf": "913479203",
+        "Ubigeo": "61106",
+        "Direccion": "Mz.A S/N Serur Agua Azul La Florida, La Florida, San Miguel, Cajamarca",
+        "latlng": "-33.56183,-70.60892",
+        "estado": "1"
+    },
+    {
+        "NombreAgente": "TANTAJULCA HERRERA JOSE BARTOLO",
+        "Telf": "964667242",
+        "Ubigeo": "60401",
+        "Direccion": "P.J Rosas Nieto S/N Centro Chota, Chota, Chota, Cajamarca",
+        "latlng": "-6.55972,-78.65235",
+        "estado": "1"
+    },
+    {
+        "NombreAgente": "TANTALEAN SANCHEZ YSIDRO ABEL",
+        "Telf": "948671582",
+        "Ubigeo": "60408",
+        "Direccion": "Calle Grau N° 219 - Conchan, Conchan, Chota, Cajamarca",
+        "latlng": "-6.44466,-78.65496",
+        "estado": "1"
+    },
+    {
+        "NombreAgente": "TAPIA REGALADO NELLY",
+        "Telf": "956498896",
+        "Ubigeo": "60701",
+        "Direccion": "Jr. Ramon Castilla N° 816, Bambamarca, Hualgayoc, Cajamarca",
+        "latlng": "-6.67935,-78.5231",
+        "estado": "1"
+    },
+    {
+        "NombreAgente": "TARIFENO RIMAPA EDER",
+        "Telf": "976001965",
+        "Ubigeo": "60601",
+        "Direccion": "Jr. María Elena Medina 117, Cutervo, Cutervo, Cajamarca",
+        "latlng": "-6.38009,-78.81844",
+        "estado": "1"
+    },
+    {
+        "NombreAgente": "TENORIO BAZAN MERLY YURLISA",
+        "Telf": "965197402",
+        "Ubigeo": "60602",
+        "Direccion": "Chiple-Cutervo Km 76 C.S Lagunas Sn, Callayuc, Cutervo, Cajamarca",
+        "latlng": "-6.01533,-78.96837",
+        "estado": "1"
+    },
+    {
+        "NombreAgente": "TENORIO CARRANZA GENEBRARDO",
+        "Telf": "950248161",
+        "Ubigeo": "60602",
+        "Direccion": "Cas. Lagunas S/N (Ref Km 76 De La Carretera Chiple-Cutervo Entrada Al Pueblo Santa Clara), Callayuc, Cutervo, Cajamarca",
+        "latlng": "38.89037,-77.03196",
+        "estado": "1"
+    },
+    {
+        "NombreAgente": "TORRES GAMARRA LUCI",
+        "Telf": "968345499",
+        "Ubigeo": "61108",
+        "Direccion": "Av. Circunvalacion Mza. 1A Lote. 1, Nanchoc, San Miguel, Cajamarca",
+        "latlng": "-7.01369,-79.19409",
+        "estado": "1"
+    },
+    {
+        "NombreAgente": "TORRES GIL JEREMIAS",
+        "Telf": "968342780",
+        "Ubigeo": "61106",
+        "Direccion": "Cal. Ramon Castilla 40 , La Florida, San Miguel, Cajamarca",
+        "latlng": "-12.08642,-77.08074",
+        "estado": "1"
+    },
+    {
+        "NombreAgente": "TRANSPORTE Y DISTRIBUCIONES A&B EIRL",
+        "Telf": "960099364",
+        "Ubigeo": "60401",
+        "Direccion": "Jr. Anaximandro Vega Prolongacion Sur N° 162, Chota, Chota, Cajamarca",
+        "latlng": "-6.56224,-78.65078",
+        "estado": "1"
+    },
+    {
+        "NombreAgente": "TRANSPORTES CONDORPUNA S.R.L.",
+        "Telf": "988972727",
+        "Ubigeo": "60801",
+        "Direccion": "Av. A No 256 Sector Santa Emilia, Jaen, Jaen, Cajamarca",
+        "latlng": "38.89037,-77.03196",
+        "estado": "1"
+    },
+    {
+        "NombreAgente": "TRANSPORTES J&J MENOR E.I.R.L",
+        "Telf": "984825958",
+        "Ubigeo": "60601",
+        "Direccion": "Jr. Ramon Castilla N° 905 Segundo Piso - Centro Cutervo, Cutervo, Cutervo, Cajamarca",
+        "latlng": "-6.37882,-78.8175",
+        "estado": "1"
+    },
+    {
+        "NombreAgente": "Transportes Turismo y Servicios Multiples Sierra del Norte EIRL ",
+        "Telf": "961308121",
+        "Ubigeo": "60417",
+        "Direccion": "Jr. Educacion C.P. La Pucara, Tacabamba, Chota, Cajamarca",
+        "latlng": "-6.39232,-78.61031",
+        "estado": "1"
+    },
+    {
+        "NombreAgente": "VALLEJOS HURTADO MARCO ADRIAN",
+        "Telf": "990277589",
+        "Ubigeo": "61301",
+        "Direccion": "Jr. Cotorumi 280, Santa Cruz, Santa Cruz, Cajamarca",
+        "latlng": "-6.62543,-78.94515",
+        "estado": "1"
+    },
+    {
+        "NombreAgente": "VARGAS GARCIA ORLANDO",
+        "Telf": "998982466",
+        "Ubigeo": "60603",
+        "Direccion": "Car. Fernando Belaunde Terry Km. 167 (Puente De Chamaya Entrada A Chontali) , Choros, Cutervo, Cajamarca",
+        "latlng": "38.89037,-77.03196",
+        "estado": "1"
+    },
+    {
+        "NombreAgente": "VARGAS GUERRERO RAFAEL ",
+        "Telf": "932049512",
+        "Ubigeo": "60602",
+        "Direccion": "Cas. San Juan De Chiple S/N (Salida Para Cutervo 3Pisos Mat.Noble), Callayuc, Cutervo, Cajamarca",
+        "latlng": "-6.01533,-78.96837",
+        "estado": "1"
+    },
+    {
+        "NombreAgente": "VASQUEZ ALARCON BERTILDE",
+        "Telf": "943835723",
+        "Ubigeo": "60605",
+        "Direccion": "Cal. San Juan Bautista 120 (Cerca Al Centro Educativo 10308), La Ramada, Cutervo, Cajamarca",
+        "latlng": "38.89037,-77.03196",
+        "estado": "1"
+    },
+    {
+        "NombreAgente": "VASQUEZ AREVALO RAMIRO",
+        "Telf": "976744175",
+        "Ubigeo": "60604",
+        "Direccion": "C.P El Pago, Cujillo, Cutervo, Cajamarca",
+        "latlng": "-6.11694,-78.55896",
+        "estado": "1"
+    },
+    {
+        "NombreAgente": "VASQUEZ CORONEL SOVEIDA ",
+        "Telf": "938298677",
+        "Ubigeo": "60413",
+        "Direccion": "Jr. Mariscal Castilla 489, Paccha, Chota, Cajamarca",
+        "latlng": "-6.53396,-78.41845",
+        "estado": "1"
+    },
+    {
+        "NombreAgente": "VASQUEZ FERNANDEZ VICTOR ALBERTO",
+        "Telf": "925571172",
+        "Ubigeo": "60417",
+        "Direccion": "Jr. Tupac Amaru Crda 1 (Paradero A Chucmar. Altura Carretera Chota- Tacabamba), Tacabamba, Chota, Cajamarca",
+        "latlng": "-6.56517,-78.64886",
+        "estado": "1"
+    },
+    {
+        "NombreAgente": "VASQUEZ SALDANA WILDER ANIBAL",
+        "Telf": "952516177",
+        "Ubigeo": "60703",
+        "Direccion": "Cal. Yerba Santa Baja C.P. Yerba Santa Baja 17, Hualgayoc, Hualgayoc, Cajamarca",
+        "latlng": "38.89037,-77.03196",
+        "estado": "1"
+    },
+    {
+        "NombreAgente": "VENTAS Y SERVICIOS DAYANA EIRL",
+        "Telf": "968042224",
+        "Ubigeo": "60601",
+        "Direccion": "Jr. Cajamarca 835 Urb. San Isidro , Cutervo, Cutervo, Cajamarca",
+        "latlng": "-7.16719,-78.50896",
+        "estado": "1"
+    },
+    {
+        "NombreAgente": "VENTURA GARCIA JOSE ENRIQUE",
+        "Telf": "966137810",
+        "Ubigeo": "60801",
+        "Direccion": "Psj. Las Begonias 154, Jaen, Jaen, Cajamarca",
+        "latlng": "-5.70858,-78.80733",
+        "estado": "1"
+    },
+    {
+        "NombreAgente": "VERA REGALADO MERARDO",
+        "Telf": "931188702",
+        "Ubigeo": "60614",
+        "Direccion": "Jr. Carlos Ficher S/N, Cdra 2, Socota, Cutervo, Cajamarca",
+        "latlng": "-6.31529,-78.69948",
+        "estado": "1"
+    },
+    {
+        "NombreAgente": "VERA REGALADO MERARDO",
+        "Telf": "931188702",
+        "Ubigeo": "60614",
+        "Direccion": "Jr. Carlos Ficher S/N, Cdra 2, Socota, Cutervo, Cajamarca",
+        "latlng": "-6.31529,-78.69948",
+        "estado": "1"
+    },
+    {
+        "NombreAgente": "AGUINAGA PAREDES LEONARDO",
+        "Telf": "902309376",
+        "Ubigeo": "140116",
+        "Direccion": "Calle Los Girasoles - Mz H, Sub Lote 08, Sector 1, Reque, Chiclayo, Lambayeque",
+        "latlng": "-6.87811,-79.81553",
+        "estado": "1"
+    },
+    {
+        "NombreAgente": "ALDANA MACO MARIA YSABEL",
+        "Telf": "920413729",
+        "Ubigeo": "140101",
+        "Direccion": "P.J San Antonio Mza G Lote 13, Olmos, Lambayeque, Lambayeque",
+        "latlng": "-6.698,-79.91471",
+        "estado": "1"
+    },
+    {
+        "NombreAgente": "ALEMAN MEDINA MARIA DEL ROSARIO",
+        "Telf": "979235091",
+        "Ubigeo": "140101",
+        "Direccion": "Av. Jose Quiñones 416-Urb. Campodonico, Monsefu, Chiclayo, Lambayeque",
+        "latlng": "-6.87367,-79.86943",
+        "estado": "1"
+    },
+    {
+        "NombreAgente": "ALVARADO RAMOS OLGA LIDIA",
+        "Telf": "979805773",
+        "Ubigeo": "140101",
+        "Direccion": "Jose Quiñones N° 416 - Urb. Campodonico , Pitipo, Ferreñafe, Lambayeque",
+        "latlng": "-6.56454,-79.7797",
+        "estado": "1"
+    },
+    {
+        "NombreAgente": "BACA VALLEJOS JUAN PABLO",
+        "Telf": "937729014",
+        "Ubigeo": "140101",
+        "Direccion": "Calle Las Margaritas N° 527 - P.J. 09 De Octubre, Motupe, Lambayeque, Lambayeque",
+        "latlng": "-6.15865,-79.71966",
+        "estado": "1"
+    },
+    {
+        "NombreAgente": "BACA VALLEJOS JUAN PABLO",
+        "Telf": "937729014",
+        "Ubigeo": "140101",
+        "Direccion": "Cl Independencia Nro. 789 - Pueblo Joven San Antonio, Motupe, Lambayeque, Lambayeque",
+        "latlng": "-6.70243,-79.91439",
+        "estado": "1"
+    },
+    {
+        "NombreAgente": "BACA VALLEJOS YONI EDINSON",
+        "Telf": "954416566",
+        "Ubigeo": "140101",
+        "Direccion": "Mza. E Lote. 23 P.J. Santa Teresita, Jayanca, Lambayeque, Lambayeque",
+        "latlng": "-6.389,-79.82046",
+        "estado": "1"
+    },
+    {
+        "NombreAgente": "BALDERA DAMIAN WILMER",
+        "Telf": "954413147",
+        "Ubigeo": "140101",
+        "Direccion": "Juan Francisco Ugaz No 100 Pj Suazo, Picsi, Chiclayo, Lambayeque",
+        "latlng": "-6.77154,-79.83072",
+        "estado": "1"
+    },
+    {
+        "NombreAgente": "BALLENA PERALTA SEGUNDO EUFEMIO",
+        "Telf": "926541779",
+        "Ubigeo": "140101",
+        "Direccion": "Cl. Juan Francisco Ugaz 100 P.J. Suazo, Salas, Lambayeque, Lambayeque",
+        "latlng": "-6.10202,-79.54307",
+        "estado": "1"
+    },
+    {
+        "NombreAgente": "BARANDIARAN ZEGARRA JUAN MARIANO",
+        "Telf": "971623236",
+        "Ubigeo": "140101",
+        "Direccion": "Avenida Pedro Ruiz Gallo 1637 Campodonico, Olmos, Lambayeque, Lambayeque",
+        "latlng": "-6.70627,-79.9014",
+        "estado": "1"
+    },
+    {
+        "NombreAgente": "BENITES MACO GLADYS JANETT",
+        "Telf": "955999331",
+        "Ubigeo": "140101",
+        "Direccion": "Cal. Polonia Mza. E Lote 22 Urb. Santa Alejandrina , Olmos, Lambayeque, Lambayeque",
+        "latlng": "-5.98808,-79.74688",
+        "estado": "1"
+    },
+    {
+        "NombreAgente": "BERMEJO AYALA SEGUNDO GUILLERMO",
+        "Telf": "996998159",
+        "Ubigeo": "140101",
+        "Direccion": "Av. Elvira García Y García N° 230 Jose Olaya, Pomalca, Chiclayo, Lambayeque",
+        "latlng": "-6.7745,-79.84683",
+        "estado": "1"
+    },
+    {
+        "NombreAgente": "BOCANEGRA SABOYA RUTH CARMEN ",
+        "Telf": "902179329",
+        "Ubigeo": "140101",
+        "Direccion": "Urb. Derrama Magisterial Mz. Z1 Lote N°8, Olmos, Lambayeque, Lambayeque",
+        "latlng": "-5.98808,-79.74688",
+        "estado": "1"
+    },
+    {
+        "NombreAgente": "BRAVO ACUNA SIXTO",
+        "Telf": "988912398",
+        "Ubigeo": "140101",
+        "Direccion": "Santos Dumont N°170 Pp.Jj. Muro, Jose Leonardo Ortiz, Chiclayo, Lambayeque",
+        "latlng": "-6.74548,-79.83864",
+        "estado": "1"
+    },
+    {
+        "NombreAgente": "C. ADELITA E.I.R.L.",
+        "Telf": "984920214",
+        "Ubigeo": "140101",
+        "Direccion": "Pasaje Union N° 364, Urb. El Porvenir, Chiclayo, Chiclayo, Lambayeque",
+        "latlng": "-6.76882,-79.82922",
+        "estado": "1"
+    },
+    {
+        "NombreAgente": "CAMACHO GONZALES ENRIQUE",
+        "Telf": "978834302",
+        "Ubigeo": "140101",
+        "Direccion": "Av. Humbolt N° 905 P.J. Lopez Albujar, Tuman, Chiclayo, Lambayeque",
+        "latlng": "-6.74638,-79.70114",
+        "estado": "1"
+    },
+    {
+        "NombreAgente": "CARRANZA VERA LEONISA",
+        "Telf": "957557933",
+        "Ubigeo": "140101",
+        "Direccion": "Calle Los Heraldos Negros N° 119 Int. A Pp.Jj. Cesar Vallejo, Chongoyape, Chiclayo, Lambayeque",
+        "latlng": "-6.76019,-79.82509",
+        "estado": "1"
+    },
+    {
+        "NombreAgente": "CASTILLO OLAYA JUBER DANGER",
+        "Telf": "978001410",
+        "Ubigeo": "140101",
+        "Direccion": "Calle Humboldt Nro. 343 P.J. San Antonio, Lambayeque, Lambayeque, Lambayeque",
+        "latlng": "-6.70243,-79.91439",
+        "estado": "1"
+    },
+    {
+        "NombreAgente": "CESPEDES DURAND MARCO ANTONIO",
+        "Telf": "978086185",
+        "Ubigeo": "140101",
+        "Direccion": "Calle La Paz N° 287 Urb. Remigio Silva, Ferreñafe, Ferreñafe, Lambayeque",
+        "latlng": "-6.63167,-79.78962",
+        "estado": "1"
+    },
+    {
+        "NombreAgente": "CESPEDES FERNANDEZ TOMAS",
+        "Telf": "979912648",
+        "Ubigeo": "140101",
+        "Direccion": "Mz. Mi S/N Ex Fundo Oquendo, Pitipo, Ferreñafe, Lambayeque",
+        "latlng": "-6.56454,-79.7797",
+        "estado": "1"
+    },
+    {
+        "NombreAgente": "CHADIGAS S.A.C.",
+        "Telf": "950403517",
+        "Ubigeo": "140102",
+        "Direccion": "Pasaje La Libertad S/N Lote 4 Pj Ramón Castilla, Illimo, Lambayeque, Lambayeque",
+        "latlng": "-6.69712,-79.90171",
+        "estado": "1"
+    },
+    {
+        "NombreAgente": "CHAVEZ FLORES WILLY FERNANDO",
+        "Telf": "948282378",
+        "Ubigeo": "140102",
+        "Direccion": "Ca Atahualpa 1321, Olmos, Lambayeque, Lambayeque",
+        "latlng": "-5.98943,-79.74524",
+        "estado": "1"
+    },
+    {
+        "NombreAgente": "CHIROQUE MONJA ANA MILAGROS",
+        "Telf": "918375041",
+        "Ubigeo": "140102",
+        "Direccion": "Cl. Atahualpa 1322, Olmos, Lambayeque, Lambayeque",
+        "latlng": "-5.98943,-79.74524",
+        "estado": "1"
+    },
+    {
+        "NombreAgente": "CHOTA GAS SAC",
+        "Telf": "992734969",
+        "Ubigeo": "140102",
+        "Direccion": "Av. Tupac Amaru N° 181 C.P. Pampagrande, Chiclayo, Chiclayo, Lambayeque",
+        "latlng": "-6.75767,-79.82948",
+        "estado": "1"
+    },
+    {
+        "NombreAgente": "CHOTAGAS S.A.C",
+        "Telf": "968103632",
+        "Ubigeo": "140102",
+        "Direccion": "Ca. Lora Y Lora Sn Cent Chongoyape, Chiclayo, Chiclayo, Lambayeque",
+        "latlng": "-6.63629,-79.39586",
+        "estado": "1"
+    },
+    {
+        "NombreAgente": "CLAVIJO MARTINO GODOFREDO",
+        "Telf": "959886708",
+        "Ubigeo": "140102",
+        "Direccion": "Av. Simon Bolivar 1537, Olmos, Lambayeque, Lambayeque",
+        "latlng": "-6.74966,-79.84011",
+        "estado": "1"
+    },
+    {
+        "NombreAgente": "COLUNCHE LIVAQUE HUBERT",
+        "Telf": "958897688",
+        "Ubigeo": "140102",
+        "Direccion": "Calle El Porvenir Mz A Lote 1 Cp Carniche Bajo 1 Etapa, Jose Leonardo Ortiz, Chiclayo, Lambayeque",
+        "latlng": "-6.74754,-79.85816",
+        "estado": "1"
+    },
+    {
+        "NombreAgente": "COLUNCHE LIVAQUE YORLI ",
+        "Telf": "969010033",
+        "Ubigeo": "140103",
+        "Direccion": "Calle Miguel Grau N° 324, Jose Leonardo Ortiz, Chiclayo, Lambayeque",
+        "latlng": "-6.75572,-79.85304",
+        "estado": "1"
+    },
+    {
+        "NombreAgente": "COMERCIAL CINDY ROSS EIRL",
+        "Telf": "969464025",
+        "Ubigeo": "140103",
+        "Direccion": "Calle Gonzales Prada Nro. 503 , Lambayeque, Lambayeque, Lambayeque",
+        "latlng": "-6.69639,-79.91089",
+        "estado": "1"
+    },
+    {
+        "NombreAgente": "CORONADO ROJAS OSCAR WILDER ",
+        "Telf": "929300941",
+        "Ubigeo": "140201",
+        "Direccion": "Calle San Martin Nro.1133 P.J. Señor De La Justicia, Pacora, Lambayeque, Lambayeque",
+        "latlng": "-6.47156,-79.85342",
+        "estado": "1"
+    },
+    {
+        "NombreAgente": "CORPORACION DE GAS E.I.R.L.",
+        "Telf": "977298232",
+        "Ubigeo": "140201",
+        "Direccion": "Av. Tacna 1079 P.J. San Juan Bosco, Chiclayo, Chiclayo, Lambayeque",
+        "latlng": "-6.74626,-79.85136",
+        "estado": "1"
+    },
+    {
+        "NombreAgente": "CORPORACION SHEKINAH S.A.C.",
+        "Telf": "979284720",
+        "Ubigeo": "140201",
+        "Direccion": "Cal. Ilo Centro 117, Jose Leonardo Ortiz, Chiclayo, Lambayeque",
+        "latlng": "-6.74376,-79.84879",
+        "estado": "1"
+    },
+    {
+        "NombreAgente": "CUBAS FERNANDEZ ALVARO RAFAEL ",
+        "Telf": "943731189",
+        "Ubigeo": "140201",
+        "Direccion": "Cl. Francisco Gonzales Burga 217, Chiclayo, Chiclayo, Lambayeque",
+        "latlng": "-6.7742,-79.84214",
+        "estado": "1"
+    },
+    {
+        "NombreAgente": "CUMPA QUESQUEN AMADOR AUGUSTO",
+        "Telf": "978810816",
+        "Ubigeo": "140303",
+        "Direccion": "Carr. Panamericana 962 Centro Illimo, Eten, Chiclayo, Lambayeque",
+        "latlng": "-6.75922,-79.86196",
+        "estado": "1"
+    },
+    {
+        "NombreAgente": "CURINAMBE CHAVEZ MIGUEL ANGEL",
+        "Telf": "970104444",
+        "Ubigeo": "140303",
+        "Direccion": "Cal. Progreso 490, Jose Leonardo Ortiz, Chiclayo, Lambayeque",
+        "latlng": "-6.74938,-79.8544",
+        "estado": "1"
+    },
+    {
+        "NombreAgente": "DE LA CRUZ ROJAS EBER ROMAN",
+        "Telf": "949199951",
+        "Ubigeo": "140303",
+        "Direccion": "Calle Balta N° 046, A Una Cuadra Del Centro De Salud, Salas, Lambayeque, Lambayeque",
+        "latlng": "38.89037,-77.03196",
+        "estado": "1"
+    },
+    {
+        "NombreAgente": "DELGADO DAVILA PAMELA JAKELINE",
+        "Telf": "955860013",
+        "Ubigeo": "140203",
+        "Direccion": "Av. Juan Miguel Bernilla S/N Cp Uyurpampa, Motupe, Lambayeque, Lambayeque",
+        "latlng": "-6.15218,-79.71467",
+        "estado": "1"
+    },
+    {
+        "NombreAgente": "DIAZ DAVILA YOLANDO",
+        "Telf": "976413594",
+        "Ubigeo": "140203",
+        "Direccion": "Calle 6 Mzna Z1 Lote 105, Jose Leonardo Ortiz, Chiclayo, Lambayeque",
+        "latlng": "-6.74548,-79.83864",
+        "estado": "1"
+    },
+    {
+        "NombreAgente": "DIAZ VASQUEZ EDGAR JOVANY",
+        "Telf": "903328842",
+        "Ubigeo": "140304",
+        "Direccion": "Cal. Elias Aguirre 695, Patapo, Chiclayo, Lambayeque",
+        "latlng": "-6.77176,-79.83951",
+        "estado": "1"
+    },
+    {
+        "NombreAgente": "DISTRIBUCIONES ADRIANGAS E.I.R.L.",
+        "Telf": "964861592",
+        "Ubigeo": "140304",
+        "Direccion": "Mz. A S/N Caserío El Arenal, Jose Leonardo Ortiz, Chiclayo, Lambayeque",
+        "latlng": "-6.74548,-79.83864",
+        "estado": "1"
+    },
+    {
+        "NombreAgente": "DISTRIBUCIONES BECERRA S.A.C.",
+        "Telf": "979095196",
+        "Ubigeo": "140304",
+        "Direccion": "Ca Grau 893 , Chiclayo, Chiclayo, Lambayeque",
+        "latlng": "-6.77685,-79.84423",
+        "estado": "1"
+    },
+    {
+        "NombreAgente": "DISTRIBUIDORA AICAR E.I.R.L",
+        "Telf": "954161359",
+        "Ubigeo": "140105",
+        "Direccion": "Calle Santa Juanita N° 174 V Sector De Urrunaga, Chiclayo, Chiclayo, Lambayeque",
+        "latlng": "-6.75124,-79.82684",
+        "estado": "1"
+    },
+    {
+        "NombreAgente": "DISTRIBUIDORA AICAR E.I.R.L.",
+        "Telf": "913517541",
+        "Ubigeo": "140105",
+        "Direccion": "Cal. Los Eucaliptos P.J. Villa Hermosa Mza. C Lote. 18, Chiclayo, Chiclayo, Lambayeque",
+        "latlng": "-6.75412,-79.8244",
+        "estado": "1"
+    },
+    {
+        "NombreAgente": "DISTRIBUIDORA LUCYGAS S.R.L",
+        "Telf": "949475001",
+        "Ubigeo": "140105",
+        "Direccion": "Av. Venezuela 215, Jose Leonardo Ortiz, Chiclayo, Lambayeque",
+        "latlng": "-6.75415,-79.84412",
+        "estado": "1"
+    },
+    {
+        "NombreAgente": "DISTRIBUIDORA MI TATIANA E.I.R.L.",
+        "Telf": "928589429",
+        "Ubigeo": "140105",
+        "Direccion": "Asentamiento Humano Saul Cantoral Mz I Lote 15, Jose Leonardo Ortiz, Chiclayo, Lambayeque",
+        "latlng": "-6.74848,-79.82941",
+        "estado": "1"
+    },
+    {
+        "NombreAgente": "DISTRIBUIDORA VIMITA S.A.C.",
+        "Telf": "954869264",
+        "Ubigeo": "140105",
+        "Direccion": "Urb. Saul Cantoral Mza. E Lote. 11 , Chiclayo, Chiclayo, Lambayeque",
+        "latlng": "-6.77685,-79.84423",
+        "estado": "1"
+    },
+    {
+        "NombreAgente": "DISTRIGAS PAICO E.I.R.L.",
+        "Telf": "988467844",
+        "Ubigeo": "140105",
+        "Direccion": "Cl San Felipe N° 410 Nuevo San Lorenzo, Mochumi, Lambayeque, Lambayeque",
+        "latlng": "-6.54799,-79.86418",
+        "estado": "1"
+    },
+    {
+        "NombreAgente": "ELERA DE ZUNIGA MARIA ELIZABETH",
+        "Telf": "972607845",
+        "Ubigeo": "140105",
+        "Direccion": "Calle Luis Heysen N° 199 C.P. Encarnación, Patapo, Chiclayo, Lambayeque",
+        "latlng": "-6.76558,-79.82224",
+        "estado": "1"
+    },
+    {
+        "NombreAgente": "FERNANDEZ ORTIZ MAGALY SOLEDAD",
+        "Telf": "941958955",
+        "Ubigeo": "140105",
+        "Direccion": "Mza E Lote 32 Pp.Jj. Virgen De Guadalupe (Por La Derrama Magisterial), Saña, Chiclayo, Lambayeque",
+        "latlng": "38.89037,-77.03196",
+        "estado": "1"
+    },
+    {
+        "NombreAgente": "FLORES SANTOS MARIA IRENE",
+        "Telf": "902051414",
+        "Ubigeo": "140105",
+        "Direccion": "Mza. V Lote. 29 Habur Salamanca (Entre Calles San Jose Obrero Y Manuel Pardo), Jayanca, Lambayeque, Lambayeque",
+        "latlng": "40.94764,-5.65964",
+        "estado": "1"
+    },
+    {
+        "NombreAgente": "GALOC PINEDO JANETH",
+        "Telf": "971200219",
+        "Ubigeo": "140105",
+        "Direccion": "Calle Huascar N° 1135 A P.J Urrunaga, Jose Leonardo Ortiz, Chiclayo, Lambayeque",
+        "latlng": "-6.75047,-79.83813",
+        "estado": "1"
+    },
+    {
+        "NombreAgente": "GARCIA CONDEZO LUIS ANGEL",
+        "Telf": "902528226",
+        "Ubigeo": "140105",
+        "Direccion": "Mz B Lote 11 Sector 3 Ah Virgen De Guadalupe, Jose Leonardo Ortiz, Chiclayo, Lambayeque",
+        "latlng": "-6.7506,-79.86639",
+        "estado": "1"
+    },
+    {
+        "NombreAgente": "GARCIA LLAUCE CESAR AUGUSTO ",
+        "Telf": "987235044",
+        "Ubigeo": "140105",
+        "Direccion": "A.H Javier Castro Ii Mz H Lote 5, Tucume, Lambayeque, Lambayeque",
+        "latlng": "-6.69849,-79.90374",
+        "estado": "1"
+    },
+    {
+        "NombreAgente": "GIL VASQUEZ MARCOS ANTONIO ",
+        "Telf": "943894263",
+        "Ubigeo": "140105",
+        "Direccion": "Cl. Santa Rosa Mz A Lote 9 Pj Villa El Triunfo, Pueblo Nuevo, Ferreñafe, Lambayeque",
+        "latlng": "-6.63249,-79.78864",
+        "estado": "1"
+    },
+    {
+        "NombreAgente": "GOMEZ SANCHEZ LUCILA DEL MILAGRO",
+        "Telf": "978928763",
+        "Ubigeo": "140105",
+        "Direccion": "San Antonio 416, Pomalca, Chiclayo, Lambayeque",
+        "latlng": "-6.77803,-79.77812",
+        "estado": "1"
+    },
+    {
+        "NombreAgente": "GONZAGA MACO ITALO HERNAN",
+        "Telf": "973915373",
+        "Ubigeo": "140105",
+        "Direccion": "Calle Pardo Y Miguel N° 379 Urb. Latina  , Olmos, Lambayeque, Lambayeque",
+        "latlng": "38.89037,-77.03196",
+        "estado": "1"
+    },
+    {
+        "NombreAgente": "GONZALES LLONTOP CLARA TERESA",
+        "Telf": "922869083",
+        "Ubigeo": "140105",
+        "Direccion": "Calle Gran Chimu N° 108 P.J. Jorge Chavez, Monsefu, Chiclayo, Lambayeque",
+        "latlng": "-6.74884,-79.84052",
+        "estado": "1"
+    },
+    {
+        "NombreAgente": "GONZALES RINZA SANTOS VIOLETA",
+        "Telf": "979969030",
+        "Ubigeo": "140105",
+        "Direccion": "Calle Gran Chimu Nro. 108 Pp.Jj. Jorge Chavez, Olmos, Lambayeque, Lambayeque",
+        "latlng": "-6.69568,-79.90075",
+        "estado": "1"
+    },
+    {
+        "NombreAgente": "GONZALEZ AGUILAR ERIKA DONATILA",
+        "Telf": "978825881",
+        "Ubigeo": "140105",
+        "Direccion": "Calle Gran Chimú N° 108 Pj. Jorge Chavez, Tuman, Chiclayo, Lambayeque",
+        "latlng": "-6.74884,-79.84052",
+        "estado": "1"
+    },
+    {
+        "NombreAgente": "GRUPO DE GESTION C S.A.",
+        "Telf": "959957610",
+        "Ubigeo": "140105",
+        "Direccion": "Calle Gran Chimu Nro. 108 P.J. Jorge Chavez, La Victoria, Chiclayo, Lambayeque",
+        "latlng": "-6.80155,-79.84019",
+        "estado": "1"
+    },
+    {
+        "NombreAgente": "GRUPO DROMASELL SAC",
+        "Telf": "999425928",
+        "Ubigeo": "140105",
+        "Direccion": "Calle Gran Chimu Nro. 108 Pp.Jj. Jorge Chavez, La Victoria, Chiclayo, Lambayeque",
+        "latlng": "-6.80155,-79.84019",
+        "estado": "1"
+    },
+    {
+        "NombreAgente": "GUARNIZ PAREDES CARLOS ALONSO",
+        "Telf": "948117866",
+        "Ubigeo": "140105",
+        "Direccion": "Prolongacion Mexico Oeste No 901- P.J. Maria Parado De Bellido, Pimentel, Chiclayo, Lambayeque",
+        "latlng": "-6.75734,-79.82345",
+        "estado": "1"
+    },
+    {
+        "NombreAgente": "HERNANDEZ FERNANDEZ JUAN GRABIEL",
+        "Telf": "978726014",
+        "Ubigeo": "140105",
+        "Direccion": "Pardo Y Miguel No 379, Oyotun, Chiclayo, Lambayeque",
+        "latlng": "-6.75886,-79.83211",
+        "estado": "1"
+    },
+    {
+        "NombreAgente": "HERNANDEZ GONZALES RICARDO FERNANDO",
+        "Telf": "969586150",
+        "Ubigeo": "140105",
+        "Direccion": "Calle Panama Nro. 1749, Lagunas, Chiclayo, Lambayeque",
+        "latlng": "-6.76953,-79.78882",
+        "estado": "1"
+    },
+    {
+        "NombreAgente": "HUAMAN CALDERON VICTOR",
+        "Telf": "979090518",
+        "Ubigeo": "140105",
+        "Direccion": "Calle Lambayeque 199, Salas, Lambayeque, Lambayeque",
+        "latlng": "-6.70739,-79.89838",
+        "estado": "1"
+    },
+    {
+        "NombreAgente": "HUAMANCHUMO EFFIO MARIA DOLORES",
+        "Telf": "990360769",
+        "Ubigeo": "140105",
+        "Direccion": "P.J. Santa Lucia Mza. A Lote. 10 (Sal. A Ferreñafe, Pasado Grifo Rosario), Santa Rosa, Chiclayo, Lambayeque",
+        "latlng": "-6.88416,-79.91781",
+        "estado": "1"
+    },
+    {
+        "NombreAgente": "IDROGO MENIS JUAN CARLOS ",
+        "Telf": "900153795",
+        "Ubigeo": "140106",
+        "Direccion": "Av. Victor Raul Haya De La Torre N° 2396 Mz 1 Lt 5 , Patapo, Chiclayo, Lambayeque",
+        "latlng": "-6.79927,-79.8306",
+        "estado": "1"
+    },
+    {
+        "NombreAgente": "INVERSIONES LLAGUENTO ROMERO EIRL",
+        "Telf": "952064497",
+        "Ubigeo": "140106",
+        "Direccion": "Cl Demetrio Acosta Mz 147 Lote 36, Pitipo, Ferreñafe, Lambayeque",
+        "latlng": "-6.56454,-79.7797",
+        "estado": "1"
+    },
+    {
+        "NombreAgente": "INVERSIONES MY THIAGO JM E.I.R.L.",
+        "Telf": "981995135",
+        "Ubigeo": "140106",
+        "Direccion": "Pje. Coricancha 205, Int. M, Monsefu, Chiclayo, Lambayeque",
+        "latlng": "-6.7903,-79.84294",
+        "estado": "1"
+    },
+    {
+        "NombreAgente": "JHOFAS S.R.L.",
+        "Telf": "947834328",
+        "Ubigeo": "140106",
+        "Direccion": "Mz. 36 Lote 04 Chosica Del Norte, Jose Leonardo Ortiz, Chiclayo, Lambayeque",
+        "latlng": "-6.77399,-79.84547",
+        "estado": "1"
+    },
+    {
+        "NombreAgente": "JUAN CARLOS DELGADO TORRES",
+        "Telf": "978613610",
+        "Ubigeo": "140107",
+        "Direccion": "Mz L 05 Sector Rural-Pueblo Libre, Oyotun, Chiclayo, Lambayeque",
+        "latlng": "-6.84573,-79.30029",
+        "estado": "1"
+    },
+    {
+        "NombreAgente": "KELLY SERVICIOS GENERALES E.I.R.L ",
+        "Telf": "983269955",
+        "Ubigeo": "140107",
+        "Direccion": "Calle Victor Ramirez S/N Cp Ucupe, Chiclayo, Chiclayo, Lambayeque",
+        "latlng": "-6.77685,-79.84423",
+        "estado": "1"
+    },
+    {
+        "NombreAgente": "LEON SAMAME CARLOS ORLANDO",
+        "Telf": "988968975",
+        "Ubigeo": "140301",
+        "Direccion": "Cal. Prolongación Angel Gonzales Mz. B Lote 9 Aa.Hh. Pedro Ruiz Gallo, Jayanca, Lambayeque, Lambayeque",
+        "latlng": "-6.39372,-79.82049",
+        "estado": "1"
+    },
+    {
+        "NombreAgente": "LLAMA GAS S.A.",
+        "Telf": "968186915",
+        "Ubigeo": "140301",
+        "Direccion": "Calle Emiliano Niño Mza H Lote1 P.J. San Martin, Chiclayo, Chiclayo, Lambayeque",
+        "latlng": "-6.77518,-79.862",
+        "estado": "1"
+    },
+    {
+        "NombreAgente": "LLENQUE PINGO DEYSI MARIBEL",
+        "Telf": "965349237",
+        "Ubigeo": "140301",
+        "Direccion": "Jr. 22 De Octubre N° 1729, San Jose, Lambayeque, Lambayeque",
+        "latlng": "-6.76771,-79.96802",
+        "estado": "1"
+    },
+    {
+        "NombreAgente": "LLOCYA BANCES ABELARDO",
+        "Telf": "922868819",
+        "Ubigeo": "140301",
+        "Direccion": "Ca Las Dunas S/N Ppjj Santa Rosa, Tucume, Lambayeque, Lambayeque",
+        "latlng": "-6.50606,-79.85988",
+        "estado": "1"
+    },
+    {
+        "NombreAgente": "LLONTOP SALAZAR JOSE",
+        "Telf": "975527831",
+        "Ubigeo": "140301",
+        "Direccion": "Jr. 22 De Octubre N° 1729 Centro Cutervo, La Victoria, Chiclayo, Lambayeque",
+        "latlng": "-6.79576,-79.84883",
+        "estado": "1"
+    },
+    {
+        "NombreAgente": "LOPEZ CARLOS MARIA YOLANDA",
+        "Telf": "941747729",
+        "Ubigeo": "140301",
+        "Direccion": "Cal. La Marina Urb. Ramon Castilla 331 (En La Recta Del Inst Isatec), Oyotun, Chiclayo, Lambayeque",
+        "latlng": "-6.75682,-79.84317",
+        "estado": "1"
+    },
+    {
+        "NombreAgente": "LUCERO BERNILLA PEDRO DILMER",
+        "Telf": "986237414",
+        "Ubigeo": "140301",
+        "Direccion": "Calle San Antonio N° 427 - Pp.Jj. San Martin, Incahuasi, Ferreñafe, Lambayeque",
+        "latlng": "38.89037,-77.03196",
+        "estado": "1"
+    },
+    {
+        "NombreAgente": "LUCUMI QUINTEROS ANA CECILIA",
+        "Telf": "988663828",
+        "Ubigeo": "140305",
+        "Direccion": "Ca. 28 De Julio 679, Tuman, Chiclayo, Lambayeque",
+        "latlng": "-6.75969,-79.84512",
+        "estado": "1"
+    },
+    {
+        "NombreAgente": "MARIN TORRES DANIXA PAOLA",
+        "Telf": "981769186",
+        "Ubigeo": "140305",
+        "Direccion": "Mz A Lote S/N Caserio Solecape, Pitipo, Ferreñafe, Lambayeque",
+        "latlng": "-6.56454,-79.7797",
+        "estado": "1"
+    },
+    {
+        "NombreAgente": "MAYANGA BENITES RUBVI MANUEL",
+        "Telf": "915077578",
+        "Ubigeo": "140108",
+        "Direccion": "Pasaje Bolivar No 359, Olmos, Lambayeque, Lambayeque",
+        "latlng": "-5.98808,-79.74688",
+        "estado": "1"
+    },
+    {
+        "NombreAgente": "MILLONES DE SILVA TERESA DEL ROSARIO",
+        "Telf": "943881621",
+        "Ubigeo": "140108",
+        "Direccion": "Av. Centenario N° 342, Eten, Chiclayo, Lambayeque",
+        "latlng": "-6.87228,-79.86958",
+        "estado": "1"
+    },
+    {
+        "NombreAgente": "MOCARRO CORNETERO DE CAJUSOL JESUS YOLANDA",
+        "Telf": "978800129",
+        "Ubigeo": "140108",
+        "Direccion": "Pp.Jj San Jose Monsefu Mz K Lote 2, Ferreñafe, Ferreñafe, Lambayeque",
+        "latlng": "-6.63167,-79.78962",
+        "estado": "1"
+    },
+    {
+        "NombreAgente": "MONTALVAN FLORES MANUEL OSWALDO",
+        "Telf": "973303613",
+        "Ubigeo": "140306",
+        "Direccion": "Av. Tahuantinsuyo N° 303, Tucume, Lambayeque, Lambayeque",
+        "latlng": "-6.54194,-80.01236",
+        "estado": "1"
+    },
+    {
+        "NombreAgente": "MONTALVO DE LA TORRE NADINE CECILIA DEL CARMEN",
+        "Telf": "993464665",
+        "Ubigeo": "140306",
+        "Direccion": "Cal. Cristo Rey Cas. Casa Blanca 48, Pomalca, Chiclayo, Lambayeque",
+        "latlng": "-6.76084,-79.81557",
+        "estado": "1"
+    },
+    {
+        "NombreAgente": "MONTERO RIVERA GERARDO",
+        "Telf": "958652197",
+        "Ubigeo": "140306",
+        "Direccion": "Av. Los Incas Mz D Lte 15 A.H Los Arenales Centro, Pacora, Lambayeque, Lambayeque",
+        "latlng": "38.89037,-77.03196",
+        "estado": "1"
+    },
+    {
+        "NombreAgente": "MORENO NAVAL YULI ",
+        "Telf": "987860857",
+        "Ubigeo": "140307",
+        "Direccion": "Cal. Tres De Diciembre Nro.349 - Upis Cruz De Chalpon, Oyotun, Chiclayo, Lambayeque",
+        "latlng": "-6.76072,-79.83271",
+        "estado": "1"
+    },
+    {
+        "NombreAgente": "MULTISERVICIOS VILLACO C&C E.I.R.L.",
+        "Telf": "950913841",
+        "Ubigeo": "140307",
+        "Direccion": "Cal. Tres De Diciembre Nro.349 - Upis Cruz De Chalpon, Chiclayo, Chiclayo, Lambayeque",
+        "latlng": "-6.76072,-79.83271",
+        "estado": "1"
+    },
+    {
+        "NombreAgente": "NAVARRETE SANJINEZ LISBETH LILIANA",
+        "Telf": "979742058",
+        "Ubigeo": "140307",
+        "Direccion": "Calle Ismael Valiente 234 Sanchez Cerro, Chiclayo, Chiclayo, Lambayeque",
+        "latlng": "-6.74818,-79.81955",
+        "estado": "1"
+    },
+    {
+        "NombreAgente": "NEGOCIACIONES LEO NYB E.I.R.L. ",
+        "Telf": "978404191",
+        "Ubigeo": "140307",
+        "Direccion": "Calle San Jose N° 501, Pimentel, Chiclayo, Lambayeque",
+        "latlng": "-6.77095,-79.84134",
+        "estado": "1"
+    },
+    {
+        "NombreAgente": "NEGOCIOS Y SERVICIOS ANFERD C & J EIRL",
+        "Telf": "996975854",
+        "Ubigeo": "140307",
+        "Direccion": "Lotizacion Ascencio Mz 1 Lt 1 Sector Santa Julia, Lambayeque, Lambayeque, Lambayeque",
+        "latlng": "-6.69849,-79.90374",
+        "estado": "1"
+    },
+    {
+        "NombreAgente": "NEGOCIOS Y SERVICIOS ANFERD C & J EIRL",
+        "Telf": "996975854",
+        "Ubigeo": "140307",
+        "Direccion": "Av. Miraflores Mz A Lote S Cas, Tongorrape, Lambayeque, Lambayeque, Lambayeque",
+        "latlng": "38.89037,-77.03196",
+        "estado": "1"
+    },
+    {
+        "NombreAgente": "NEGOCIOS Y SERVICIOS ANFERD C & J EIRL",
+        "Telf": "996975854",
+        "Ubigeo": "140308",
+        "Direccion": "Caserio Playa De Cascajal S/N, Lambayeque, Lambayeque, Lambayeque",
+        "latlng": "-6.69849,-79.90374",
+        "estado": "1"
+    },
+    {
+        "NombreAgente": "NEIRA SANCHEZ ROSITA ELENA",
+        "Telf": "989383231",
+        "Ubigeo": "140308",
+        "Direccion": "Calle Santo Domingo N° 613, Jose Leonardo Ortiz, Chiclayo, Lambayeque",
+        "latlng": "-6.75279,-79.81521",
+        "estado": "1"
+    },
+    {
+        "NombreAgente": "NINO NAVARRETE JULIO ARMANDO",
+        "Telf": "979404224",
+        "Ubigeo": "140308",
+        "Direccion": "Mz. A Sn Serur Callejon Cascajal C.P. La Estancia, Motupe, Lambayeque, Lambayeque",
+        "latlng": "-6.15218,-79.71467",
+        "estado": "1"
+    },
+    {
+        "NombreAgente": "NUNURA ANGULLA ROSALIA ",
+        "Telf": "980344387",
+        "Ubigeo": "140308",
+        "Direccion": "Calle Tacna Mz. Z1 Lt 26, Olmos, Lambayeque, Lambayeque",
+        "latlng": "-5.9884,-79.74404",
+        "estado": "1"
+    },
+    {
+        "NombreAgente": "OLIVOS INCIO JUAN MARIO ",
+        "Telf": "970511519",
+        "Ubigeo": "140308",
+        "Direccion": "Calle Miguel Grau 812 - Cercado, Reque, Chiclayo, Lambayeque",
+        "latlng": "-6.85871,-79.81562",
+        "estado": "1"
+    },
+    {
+        "NombreAgente": "ORDONEZ CHOLAN DAVID RUBEN",
+        "Telf": "945696541",
+        "Ubigeo": "140308",
+        "Direccion": "C.P. M. Insculas S/N (Al Frente De La Iglesia Las Asambleas), Chiclayo, Chiclayo, Lambayeque",
+        "latlng": "-6.77685,-79.84423",
+        "estado": "1"
+    },
+    {
+        "NombreAgente": "PAQUIRACHI GUEVARA EFIGENIO",
+        "Telf": "974869156",
+        "Ubigeo": "140308",
+        "Direccion": "Caserio Cerro De Falla S/N, Olmos, Lambayeque, Lambayeque",
+        "latlng": "-5.98808,-79.74688",
+        "estado": "1"
+    },
+    {
+        "NombreAgente": "PARRAGUEZ CAPITAN OSWALDO ALBERTO",
+        "Telf": "956379012",
+        "Ubigeo": "140308",
+        "Direccion": "Cas. Las Norias . (A 10 Km De La Ciudad De Olmos), Pueblo Nuevo, Ferreñafe, Lambayeque",
+        "latlng": "-6.63962,-79.79768",
+        "estado": "1"
+    },
+    {
+        "NombreAgente": "PAZ JURUPE CORINA",
+        "Telf": "978102560",
+        "Ubigeo": "140308",
+        "Direccion": "Calle Atahualpa Sn Cuadra 11, Lambayeque, Lambayeque, Lambayeque",
+        "latlng": "-6.70449,-79.90361",
+        "estado": "1"
+    },
+    {
+        "NombreAgente": "PISCOYA ROMERO JORGE GIOVANNI",
+        "Telf": "978100064",
+        "Ubigeo": "140308",
+        "Direccion": "C.P. El Puente S/N (Al Lado Del Colegio), Ferreñafe, Ferreñafe, Lambayeque",
+        "latlng": "-6.63167,-79.78962",
+        "estado": "1"
+    },
+    {
+        "NombreAgente": "PIZARRO RODRIGUEZ JULIANA MAGDALENA",
+        "Telf": "987782220",
+        "Ubigeo": "140308",
+        "Direccion": "Calle Alfonso Ugarte Mz 47 Lte 06 P.J Sta Isabel , Cayalti, Chiclayo, Lambayeque",
+        "latlng": "-6.89064,-79.56141",
+        "estado": "1"
+    },
+    {
+        "NombreAgente": "RAMIREZ CANCINO WILBER MANUEL",
+        "Telf": "979279875",
+        "Ubigeo": "140308",
+        "Direccion": "Ca San Martin S/N Ppjj Santa Ana, Jose Leonardo Ortiz, Chiclayo, Lambayeque",
+        "latlng": "-6.7523,-79.83334",
+        "estado": "1"
+    },
+    {
+        "NombreAgente": "RAMIREZ MENDOZA JESSICA MARIBEL",
+        "Telf": "900644758",
+        "Ubigeo": "140308",
+        "Direccion": "Carretera Panamericana S/N Sector Rural La Pilca 1, Pomalca, Chiclayo, Lambayeque",
+        "latlng": "-6.76412,-79.85927",
+        "estado": "1"
+    },
+    {
+        "NombreAgente": "RAMIREZ MENDOZA JESSICA MARIBEL",
+        "Telf": "900644758",
+        "Ubigeo": "140308",
+        "Direccion": "Calle Santo Domingo N° 353 Olmos, Pomalca, Chiclayo, Lambayeque",
+        "latlng": "-6.76847,-79.78937",
+        "estado": "1"
+    },
+    {
+        "NombreAgente": "REYES BERNILLA OSCAR",
+        "Telf": "932956738",
+        "Ubigeo": "140110",
+        "Direccion": "Caserio El Espinal S/N, Incahuasi, Ferreñafe, Lambayeque",
+        "latlng": "-6.22678,-79.30481",
+        "estado": "1"
+    },
+    {
+        "NombreAgente": "RODRIGO CADENILLAS IRMA ASUNCIONA",
+        "Telf": "939443036",
+        "Ubigeo": "140110",
+        "Direccion": "Av. Tarapaca N° 240, Jose Leonardo Ortiz, Chiclayo, Lambayeque",
+        "latlng": "-6.76176,-79.83106",
+        "estado": "1"
+    },
+    {
+        "NombreAgente": "RODRIGUEZ QUISPE MARIA ESTHER",
+        "Telf": "932057716",
+        "Ubigeo": "140110",
+        "Direccion": "Mz.\"A\" 00007 Caserio Chilcal Alto S/N, Saña, Chiclayo, Lambayeque",
+        "latlng": "-6.77685,-79.84423",
+        "estado": "1"
+    },
+    {
+        "NombreAgente": "ROJAS NORIEGA MARIA DE LA FLOR",
+        "Telf": "982342706",
+        "Ubigeo": "140110",
+        "Direccion": "Av. San Martin 424, Chiclayo, Chiclayo, Lambayeque",
+        "latlng": "-6.76874,-79.84393",
+        "estado": "1"
+    },
+    {
+        "NombreAgente": "ROMERO VERASTIGUE HERNAN",
+        "Telf": "942103010",
+        "Ubigeo": "140110",
+        "Direccion": "Mz A Lote S/N Sector Rural El Progreso- Carretera La Florida, Jose Leonardo Ortiz, Chiclayo, Lambayeque",
+        "latlng": "-6.75331,-79.81708",
+        "estado": "1"
+    },
+    {
+        "NombreAgente": "RUIZ IZQUIERDO OSCAR JACINTO",
+        "Telf": "916327429",
+        "Ubigeo": "140309",
+        "Direccion": "- Ref Caserio Pueblo Viejo, Chongoyape, Chiclayo, Lambayeque",
+        "latlng": "-6.6403,-79.39067",
+        "estado": "1"
+    },
+    {
+        "NombreAgente": "RUIZ IZQUIERDO OSCAR JACINTO",
+        "Telf": "916327429",
+        "Ubigeo": "140309",
+        "Direccion": "Av. San Pablo No 133 , Chongoyape, Chiclayo, Lambayeque",
+        "latlng": "-6.76196,-79.84495",
+        "estado": "1"
+    },
+    {
+        "NombreAgente": "SAAVEDRA DIAZ MARIA",
+        "Telf": "979215871",
+        "Ubigeo": "140117",
+        "Direccion": "Calle Alan Garcia Mz C Lote 17 Sec Rural Posope Alto, Chongoyape, Chiclayo, Lambayeque",
+        "latlng": "-6.76535,-79.83513",
+        "estado": "1"
+    },
+    {
+        "NombreAgente": "SALAZAR SANCHEZ NERI",
+        "Telf": "979918053",
+        "Ubigeo": "140117",
+        "Direccion": "Mz K Lote 7 Cpm La Cria, Chiclayo, Chiclayo, Lambayeque",
+        "latlng": "-6.7496,-79.8131",
+        "estado": "1"
+    },
+    {
+        "NombreAgente": "SANCHEZ CAJUSOL KETTY MARIA",
+        "Telf": "979960450",
+        "Ubigeo": "140117",
+        "Direccion": "Caserio La Canteras, Tucume, Lambayeque, Lambayeque",
+        "latlng": "-6.50774,-79.85899",
+        "estado": "1"
+    },
+    {
+        "NombreAgente": "SANCHEZ ESPINOZA ISABEL MARLENE",
+        "Telf": "932311082",
+        "Ubigeo": "140117",
+        "Direccion": "Calle Alameda N° 10 Posope Alto, Lagunas, Chiclayo, Lambayeque",
+        "latlng": "-6.73452,-79.63136",
+        "estado": "1"
+    },
+    {
+        "NombreAgente": "SANCHEZ PALOMINO EFRAIN ENRIQUE",
+        "Telf": "979919033",
+        "Ubigeo": "140117",
+        "Direccion": "Cal. Acequia S-N (Por La Gallera), Santa Rosa, Chiclayo, Lambayeque",
+        "latlng": "-6.88416,-79.91781",
+        "estado": "1"
+    },
+    {
+        "NombreAgente": "SANCHEZ RAMIREZ ANTHONY DAVID",
+        "Telf": "954288082",
+        "Ubigeo": "140111",
+        "Direccion": "Vista Florida 119-B, Oyotun, Chiclayo, Lambayeque",
+        "latlng": "-6.76329,-79.85953",
+        "estado": "1"
+    },
+    {
+        "NombreAgente": "SANDOVAL SIESQUEN CRISTIAN GERARDO",
+        "Telf": "955201801",
+        "Ubigeo": "140112",
+        "Direccion": "Mz A Lote 36 Urb La Pradera , Santa Rosa, Chiclayo, Lambayeque",
+        "latlng": "-6.88416,-79.91781",
+        "estado": "1"
+    },
+    {
+        "NombreAgente": "SANDOVAL SIESQUEN CRISTIAN GERARDO",
+        "Telf": "955201801",
+        "Ubigeo": "140112",
+        "Direccion": "A.H. Virgen De Fatima Mza. O Lote. 18, Santa Rosa, Chiclayo, Lambayeque",
+        "latlng": "-6.78139,-79.86328",
+        "estado": "1"
+    },
+    {
+        "NombreAgente": "SANDOVAL VILLEGAS HENRY",
+        "Telf": "942992658",
+        "Ubigeo": "140205",
+        "Direccion": "Calle Luis Heysen N° 208, Lambayeque, Lambayeque, Lambayeque",
+        "latlng": "-6.69595,-79.91071",
+        "estado": "1"
+    },
+    {
+        "NombreAgente": "SANTAMARIA ALAMO, ELVIS JOSE",
+        "Telf": "954970393",
+        "Ubigeo": "140205",
+        "Direccion": "Av. Incahuasi N° 236 - Caserio La Traposa, Tucume, Lambayeque, Lambayeque",
+        "latlng": "-6.50774,-79.85899",
+        "estado": "1"
+    },
+    {
+        "NombreAgente": "SANTAMARIA MONTALBAN DEYSI MAGALLY",
+        "Telf": "993007707",
+        "Ubigeo": "140205",
+        "Direccion": "Av. Incahuasi Nro. 179 C.P. El Desaguadero, Tucume, Lambayeque, Lambayeque",
+        "latlng": "-6.50774,-79.85899",
+        "estado": "1"
+    },
+    {
+        "NombreAgente": "SANTISTEBAN ZENA MARIA ENMA",
+        "Telf": "979974620",
+        "Ubigeo": "140205",
+        "Direccion": "Cal. La Construccion Sn. Batangrande, Morrope, Lambayeque, Lambayeque",
+        "latlng": "-6.54165,-80.0129",
+        "estado": "1"
+    },
+    {
+        "NombreAgente": "SEGUNDO DIAZ VILLEGAS",
+        "Telf": "965976158",
+        "Ubigeo": "140205",
+        "Direccion": "Caserio La Zaranda, Chongoyape, Chiclayo, Lambayeque",
+        "latlng": "-6.6403,-79.39067",
+        "estado": "1"
+    },
+    {
+        "NombreAgente": "SEGUNDO GILBERTO BUSTAMANTE CIEZA",
+        "Telf": "979905213",
+        "Ubigeo": "140118",
+        "Direccion": "Cal. 24 De Junio Saltur 538, Patapo, Chiclayo, Lambayeque",
+        "latlng": "-6.74252,-79.54142",
+        "estado": "1"
+    },
+    {
+        "NombreAgente": "SERVICIOS GENERALES HAD S.A.C.",
+        "Telf": "999738266",
+        "Ubigeo": "140118",
+        "Direccion": "Av. San Martin S/N Mz. J Lote 06, Chiclayo, Chiclayo, Lambayeque",
+        "latlng": "-6.76874,-79.84393",
+        "estado": "1"
+    },
+    {
+        "NombreAgente": "SERVIGAS CHICLAYO E.I.R.L",
+        "Telf": "947713612",
+        "Ubigeo": "140118",
+        "Direccion": "Mz. 102 0008 Centro Pomalca 9 De Octubre, Jose Leonardo Ortiz, Chiclayo, Lambayeque",
+        "latlng": "-6.74977,-79.84057",
+        "estado": "1"
+    },
+    {
+        "NombreAgente": "SERVIGAS CHICLAYO E.I.R.L",
+        "Telf": "947713612",
+        "Ubigeo": "140118",
+        "Direccion": "Av. Apolinario Salcedo Mz. K Lt. 15 Cp. San Borja, Jose Leonardo Ortiz, Chiclayo, Lambayeque",
+        "latlng": "-6.74548,-79.83864",
+        "estado": "1"
+    },
+    {
+        "NombreAgente": "SERVIGAS CHICLAYO E.I.R.L.",
+        "Telf": "914677958",
+        "Ubigeo": "140118",
+        "Direccion": "Av. Apolinario Salcedo Mz. K Lt. 15 Cp. San Borja, Jose Leonardo Ortiz, Chiclayo, Lambayeque",
+        "latlng": "-6.74548,-79.83864",
+        "estado": "1"
+    },
+    {
+        "NombreAgente": "SERVIGAS CHICLAYO E.I.R.L",
+        "Telf": "947713612",
+        "Ubigeo": "140118",
+        "Direccion": "Mz. 68 Lt. 13 Centro De Pomalca, Jose Leonardo Ortiz, Chiclayo, Lambayeque",
+        "latlng": "-6.74548,-79.83864",
+        "estado": "1"
+    },
+    {
+        "NombreAgente": "SERVIGAS SAC",
+        "Telf": "922848265",
+        "Ubigeo": "140119",
+        "Direccion": "Cal. Alto Peru Nro. 2 Sector La Ladrillera, Jose Leonardo Ortiz, Chiclayo, Lambayeque",
+        "latlng": "-6.74548,-79.83864",
+        "estado": "1"
+    },
+    {
+        "NombreAgente": "SOPLAPUCO OLAZABAL FANY YOANY",
+        "Telf": "979455432",
+        "Ubigeo": "140206",
+        "Direccion": "Cal. Miguel Pasco 296, Pitipo, Ferreñafe, Lambayeque",
+        "latlng": "-6.56454,-79.7797",
+        "estado": "1"
+    },
+    {
+        "NombreAgente": "SUAREZ JIMENEZ LUBERLY",
+        "Telf": "955590944",
+        "Ubigeo": "140206",
+        "Direccion": "Cal. Casimiro Chuman 755, Salas, Lambayeque, Lambayeque",
+        "latlng": "-6.2735,-79.60404",
+        "estado": "1"
+    },
+    {
+        "NombreAgente": "SUCLUPE CHOZO, HILARIA",
+        "Telf": "912352278",
+        "Ubigeo": "140113",
+        "Direccion": "Manzana B Lote 1 Aa.Hh. Las Delicias, Mochumi, Lambayeque, Lambayeque",
+        "latlng": "-6.38433,-79.81851",
+        "estado": "1"
+    },
+    {
+        "NombreAgente": "SUCLUPE SANDOVAL ROXANA MARIBEL ",
+        "Telf": "976841104",
+        "Ubigeo": "140113",
+        "Direccion": "Aa.Hh. Nuevo Reque, Mz. A Lote 11, Illimo, Lambayeque, Lambayeque",
+        "latlng": "-6.47366,-79.85564",
+        "estado": "1"
+    },
+    {
+        "NombreAgente": "TABOADA GUEVARA VICTOR ARMANDO",
+        "Telf": "978532990",
+        "Ubigeo": "140310",
+        "Direccion": "Cal. Dos De Mayo 98, Ferreñafe, Ferreñafe, Lambayeque",
+        "latlng": "-6.64449,-79.78999",
+        "estado": "1"
+    },
+    {
+        "NombreAgente": "TICLIAHUANCA BARRIOS NORVIL",
+        "Telf": "923665149",
+        "Ubigeo": "140310",
+        "Direccion": "Mz. A. Lote S.N. Aa Hh Nueva Chita Alta, Olmos, Lambayeque, Lambayeque",
+        "latlng": "-6.69849,-79.90374",
+        "estado": "1"
+    },
+    {
+        "NombreAgente": "TIMANA MIO GANNINA DEL ROSIO ",
+        "Telf": "925781299",
+        "Ubigeo": "140310",
+        "Direccion": "Cas. El Sauce Mza. A , Olmos, Lambayeque, Lambayeque",
+        "latlng": "-5.99454,-79.74464",
+        "estado": "1"
+    },
+    {
+        "NombreAgente": "TORRES SAAVEDRA JOSE ANTONIO",
+        "Telf": "979698027",
+        "Ubigeo": "140310",
+        "Direccion": "Cal. Andres Avelino Caceres Mza. 50 Lote. 36 , Chongoyape, Chiclayo, Lambayeque",
+        "latlng": "-6.78103,-79.84633",
+        "estado": "1"
+    },
+    {
+        "NombreAgente": "TRANSPORTE & DISTRIBUCIONES A&B E.I.R.L. ",
+        "Telf": "976716560",
+        "Ubigeo": "140311",
+        "Direccion": "Calle José Galán López 266. Urb. El Pescador, Jose Leonardo Ortiz, Chiclayo, Lambayeque",
+        "latlng": "-6.74548,-79.83864",
+        "estado": "1"
+    },
+    {
+        "NombreAgente": "TRANSPORTES ANTONY ADRIAN EIRL",
+        "Telf": "968785488",
+        "Ubigeo": "140114",
+        "Direccion": "Calle 8 De Octubre No 351 Mz C Lote 2, Jose Leonardo Ortiz, Chiclayo, Lambayeque",
+        "latlng": "-6.74574,-79.84081",
+        "estado": "1"
+    },
+    {
+        "NombreAgente": "URCIA MEJIA JULIO ENRIQUE",
+        "Telf": "996518889",
+        "Ubigeo": "140114",
+        "Direccion": "Calle Augusto B. Leguia N° 1210 A.H. Ciudad Del Pescador, Pomalca, Chiclayo, Lambayeque",
+        "latlng": "-6.76235,-79.84459",
+        "estado": "1"
+    },
+    {
+        "NombreAgente": "VALDERA SANDOVAL JUAN ADALBERTO",
+        "Telf": "918098796",
+        "Ubigeo": "140114",
+        "Direccion": "Ca. Esteban Palma Cuadra 2 Sn, Morrope, Lambayeque, Lambayeque",
+        "latlng": "-6.51137,-79.95994",
+        "estado": "1"
+    },
+    {
+        "NombreAgente": "VELASQUEZ LLONTOP MARTHA ELIZABETH",
+        "Telf": "990647986",
+        "Ubigeo": "140114",
+        "Direccion": "Calle Cristian Barnard 304 Urb Los Balsares, Illimo, Lambayeque, Lambayeque",
+        "latlng": "-6.47366,-79.85564",
+        "estado": "1"
+    },
+    {
+        "NombreAgente": "VIDARTE RISCO JORGE ENRIQUE",
+        "Telf": "979455374",
+        "Ubigeo": "140115",
+        "Direccion": "Calle Real No 462, Jose Leonardo Ortiz, Chiclayo, Lambayeque",
+        "latlng": "-6.74901,-79.85786",
+        "estado": "1"
+    },
+    {
+        "NombreAgente": "VILLANUEVA VILLALOBOS RONAL",
+        "Telf": "962787789",
+        "Ubigeo": "140115",
+        "Direccion": "Calle Real 709 Cercado, Jose Leonardo Ortiz, Chiclayo, Lambayeque",
+        "latlng": "-6.74901,-79.85786",
+        "estado": "1"
+    },
+    {
+        "NombreAgente": "VILLEGAS QUINTANA DE ZAMBRANO VERONICA DEL PILAR",
+        "Telf": "974149156",
+        "Ubigeo": "140312",
+        "Direccion": "Calle San Marcelo 360 Centro, Pucala, Chiclayo, Lambayeque",
+        "latlng": "-6.77083,-79.84248",
+        "estado": "1"
+    },
+    {
+        "NombreAgente": "VIZCONDE DE DAVILA ALICIA TERESA",
+        "Telf": "979511395",
+        "Ubigeo": "140312",
+        "Direccion": "Caserio San Bernardino S/N, Chiclayo, Chiclayo, Lambayeque",
+        "latlng": "-6.77685,-79.84423",
+        "estado": "1"
+    },
+    {
+        "NombreAgente": "WONG FALLA CESAR AUGUSTO ",
+        "Telf": "934577396",
+        "Ubigeo": "140312",
+        "Direccion": "Campiña Zapotal S/N, Motupe, Lambayeque, Lambayeque",
+        "latlng": "-6.15218,-79.71467",
+        "estado": "1"
+    },
+    {
+        "NombreAgente": "ZAPATA ARELLANO MANUEL",
+        "Telf": "973329731",
+        "Ubigeo": "140312",
+        "Direccion": "Calle Federico Villarreal No 891, Motupe, Lambayeque, Lambayeque",
+        "latlng": "-6.1559,-79.72047",
+        "estado": "1"
+    },
+    {
+        "NombreAgente": "ZAPATA VALLEJOS FREDY ALMANZOR",
+        "Telf": "979583799",
+        "Ubigeo": "140312",
+        "Direccion": "Pasaje La Pintada 033 Caserio Tucume, Patapo, Chiclayo, Lambayeque",
+        "latlng": "-6.73642,-79.63531",
+        "estado": "1"
+    },
+    {
+        "NombreAgente": "ZETA GAS ANDINO S.A",
+        "Telf": "978178584",
+        "Ubigeo": "140312",
+        "Direccion": "Caserio ¿Los Reynozos Ii Etapa- Refe. Predio N° 2743, Miraflores, Lima, Lambayeque",
+        "latlng": "38.89037,-77.03196",
+        "estado": "1"
+    },
+    {
+        "NombreAgente": "ZETA GAS ANDINO S.A",
+        "Telf": "978178584",
+        "Ubigeo": "140120",
+        "Direccion": "Block 7 - 717A, Chiclayo, Chiclayo, Lambayeque",
+        "latlng": "-6.77685,-79.84423",
+        "estado": "1"
+    },
+    {
+        "NombreAgente": "ZETA GAS ANDINO S.A",
+        "Telf": "978178584",
+        "Ubigeo": "140120",
+        "Direccion": "Los Andes Mz.F Lote 01, Miraflores, Lima, Lambayeque",
+        "latlng": "38.89037,-77.03196",
+        "estado": "1"
+    },
+    {
+        "NombreAgente": "ZETA GAS ANDINO S.A",
+        "Telf": "978178584",
+        "Ubigeo": "140120",
+        "Direccion": "Mz. 43 Lote 03 Sector Acapulco, Miraflores, Lima, Lambayeque",
+        "latlng": "38.89037,-77.03196",
+        "estado": "1"
+    },
+    {
+        "NombreAgente": "ZETA GAS ANDINO S.A",
+        "Telf": "978178584",
+        "Ubigeo": "150122",
+        "Direccion": "Av. Diagonal 380 Oficina 201, La Victoria, Chiclayo, Lambayeque",
+        "latlng": "-6.79576,-79.84883",
+        "estado": "1"
+    },
+    {
+        "NombreAgente": "ZULOETA GUERRERO JOSUE HAROLD",
+        "Telf": "954849119",
+        "Ubigeo": "150122",
+        "Direccion": "Av. Diagonal No 380 Of. 201, Chongoyape, Chiclayo, Lambayeque",
+        "latlng": "-6.76025,-79.83187",
+        "estado": "1"
+    },
+    {
+        "NombreAgente": "ZULOETA HERNANDEZ RAUL YOEL",
+        "Telf": "969376448",
+        "Ubigeo": "150122",
+        "Direccion": "Av. Diagonal N° 380 Oficina 201, Morrope, Lambayeque, Lambayeque",
+        "latlng": "-6.51137,-79.95994",
+        "estado": "1"
+    },
+    {
+        "NombreAgente": "CANALIZA S.A.",
+        "Telf": "959054546",
+        "Ubigeo": "150101",
+        "Direccion": "Av. Colonial N° 1907 Int.3 (Direccion Suminitro Supervision), Lima, Lima, Lima",
+        "latlng": "-12.05071,-77.08162",
+        "estado": "1"
+    },
+    {
+        "NombreAgente": "CANALIZA S.A.",
+        "Telf": "959054546",
+        "Ubigeo": "150101",
+        "Direccion": "Av. Colonial Nro. 1907 Int. 3 (Av. Colonial 1907 Tienda Seccion 3), Lima, Lima, Lima",
+        "latlng": "-12.05071,-77.08162",
+        "estado": "1"
+    }
+]

@@ -1,0 +1,2672 @@
+[
+    {
+        "NumeroUbigeo": "140101",
+        "DepartamentoUbigeo": "LAMBAYEQUE",
+        "ProvinciaUbigeo": "CHICLAYO",
+        "DistritoUbigeo": "CHICLAYO"
+    },
+    {
+        "NumeroUbigeo": "140102",
+        "DepartamentoUbigeo": "LAMBAYEQUE",
+        "ProvinciaUbigeo": "CHICLAYO",
+        "DistritoUbigeo": "CHONGOYAPE"
+    },
+    {
+        "NumeroUbigeo": "140103",
+        "DepartamentoUbigeo": "LAMBAYEQUE",
+        "ProvinciaUbigeo": "CHICLAYO",
+        "DistritoUbigeo": "ETEN"
+    },
+    {
+        "NumeroUbigeo": "140104",
+        "DepartamentoUbigeo": "LAMBAYEQUE",
+        "ProvinciaUbigeo": "CHICLAYO",
+        "DistritoUbigeo": "ETEN PUERTO"
+    },
+    {
+        "NumeroUbigeo": "140105",
+        "DepartamentoUbigeo": "LAMBAYEQUE",
+        "ProvinciaUbigeo": "CHICLAYO",
+        "DistritoUbigeo": "JOSE LEONARDO ORTIZ"
+    },
+    {
+        "NumeroUbigeo": "140106",
+        "DepartamentoUbigeo": "LAMBAYEQUE",
+        "ProvinciaUbigeo": "CHICLAYO",
+        "DistritoUbigeo": "LA VICTORIA"
+    },
+    {
+        "NumeroUbigeo": "140107",
+        "DepartamentoUbigeo": "LAMBAYEQUE",
+        "ProvinciaUbigeo": "CHICLAYO",
+        "DistritoUbigeo": "LAGUNAS"
+    },
+    {
+        "NumeroUbigeo": "140108",
+        "DepartamentoUbigeo": "LAMBAYEQUE",
+        "ProvinciaUbigeo": "CHICLAYO",
+        "DistritoUbigeo": "MONSEFU"
+    },
+    {
+        "NumeroUbigeo": "140109",
+        "DepartamentoUbigeo": "LAMBAYEQUE",
+        "ProvinciaUbigeo": "CHICLAYO",
+        "DistritoUbigeo": "NUEVA ARICA"
+    },
+    {
+        "NumeroUbigeo": "140110",
+        "DepartamentoUbigeo": "LAMBAYEQUE",
+        "ProvinciaUbigeo": "CHICLAYO",
+        "DistritoUbigeo": "OYOTUN"
+    },
+    {
+        "NumeroUbigeo": "140111",
+        "DepartamentoUbigeo": "LAMBAYEQUE",
+        "ProvinciaUbigeo": "CHICLAYO",
+        "DistritoUbigeo": "PICSI"
+    },
+    {
+        "NumeroUbigeo": "140112",
+        "DepartamentoUbigeo": "LAMBAYEQUE",
+        "ProvinciaUbigeo": "CHICLAYO",
+        "DistritoUbigeo": "PIMENTEL"
+    },
+    {
+        "NumeroUbigeo": "140113",
+        "DepartamentoUbigeo": "LAMBAYEQUE",
+        "ProvinciaUbigeo": "CHICLAYO",
+        "DistritoUbigeo": "REQUE"
+    },
+    {
+        "NumeroUbigeo": "140114",
+        "DepartamentoUbigeo": "LAMBAYEQUE",
+        "ProvinciaUbigeo": "CHICLAYO",
+        "DistritoUbigeo": "SANTA ROSA"
+    },
+    {
+        "NumeroUbigeo": "140115",
+        "DepartamentoUbigeo": "LAMBAYEQUE",
+        "ProvinciaUbigeo": "CHICLAYO",
+        "DistritoUbigeo": "SAÑA"
+    },
+    {
+        "NumeroUbigeo": "140116",
+        "DepartamentoUbigeo": "LAMBAYEQUE",
+        "ProvinciaUbigeo": "CHICLAYO",
+        "DistritoUbigeo": "CAYALTI"
+    },
+    {
+        "NumeroUbigeo": "140117",
+        "DepartamentoUbigeo": "LAMBAYEQUE",
+        "ProvinciaUbigeo": "CHICLAYO",
+        "DistritoUbigeo": "PATAPO"
+    },
+    {
+        "NumeroUbigeo": "140118",
+        "DepartamentoUbigeo": "LAMBAYEQUE",
+        "ProvinciaUbigeo": "CHICLAYO",
+        "DistritoUbigeo": "POMALCA"
+    },
+    {
+        "NumeroUbigeo": "140119",
+        "DepartamentoUbigeo": "LAMBAYEQUE",
+        "ProvinciaUbigeo": "CHICLAYO",
+        "DistritoUbigeo": "PUCALA"
+    },
+    {
+        "NumeroUbigeo": "140120",
+        "DepartamentoUbigeo": "LAMBAYEQUE",
+        "ProvinciaUbigeo": "CHICLAYO",
+        "DistritoUbigeo": "TUMAN"
+    },
+    {
+        "NumeroUbigeo": "140201",
+        "DepartamentoUbigeo": "LAMBAYEQUE",
+        "ProvinciaUbigeo": "FERREÑAFE",
+        "DistritoUbigeo": "FERREÑAFE"
+    },
+    {
+        "NumeroUbigeo": "140202",
+        "DepartamentoUbigeo": "LAMBAYEQUE",
+        "ProvinciaUbigeo": "FERREÑAFE",
+        "DistritoUbigeo": "CAÑARIS"
+    },
+    {
+        "NumeroUbigeo": "140203",
+        "DepartamentoUbigeo": "LAMBAYEQUE",
+        "ProvinciaUbigeo": "FERREÑAFE",
+        "DistritoUbigeo": "INCAHUASI"
+    },
+    {
+        "NumeroUbigeo": "140204",
+        "DepartamentoUbigeo": "LAMBAYEQUE",
+        "ProvinciaUbigeo": "FERREÑAFE",
+        "DistritoUbigeo": "MANUEL ANTONIO MESONES"
+    },
+    {
+        "NumeroUbigeo": "140205",
+        "DepartamentoUbigeo": "LAMBAYEQUE",
+        "ProvinciaUbigeo": "FERREÑAFE",
+        "DistritoUbigeo": "PITIPO"
+    },
+    {
+        "NumeroUbigeo": "140206",
+        "DepartamentoUbigeo": "LAMBAYEQUE",
+        "ProvinciaUbigeo": "FERREÑAFE",
+        "DistritoUbigeo": "PUEBLO NUEVO"
+    },
+    {
+        "NumeroUbigeo": "140301",
+        "DepartamentoUbigeo": "LAMBAYEQUE",
+        "ProvinciaUbigeo": "LAMBAYEQUE",
+        "DistritoUbigeo": "LAMBAYEQUE"
+    },
+    {
+        "NumeroUbigeo": "140302",
+        "DepartamentoUbigeo": "LAMBAYEQUE",
+        "ProvinciaUbigeo": "LAMBAYEQUE",
+        "DistritoUbigeo": "CHOCHOPE"
+    },
+    {
+        "NumeroUbigeo": "140303",
+        "DepartamentoUbigeo": "LAMBAYEQUE",
+        "ProvinciaUbigeo": "LAMBAYEQUE",
+        "DistritoUbigeo": "ILLIMO"
+    },
+    {
+        "NumeroUbigeo": "140304",
+        "DepartamentoUbigeo": "LAMBAYEQUE",
+        "ProvinciaUbigeo": "LAMBAYEQUE",
+        "DistritoUbigeo": "JAYANCA"
+    },
+    {
+        "NumeroUbigeo": "140305",
+        "DepartamentoUbigeo": "LAMBAYEQUE",
+        "ProvinciaUbigeo": "LAMBAYEQUE",
+        "DistritoUbigeo": "MOCHUMI"
+    },
+    {
+        "NumeroUbigeo": "140306",
+        "DepartamentoUbigeo": "LAMBAYEQUE",
+        "ProvinciaUbigeo": "LAMBAYEQUE",
+        "DistritoUbigeo": "MORROPE"
+    },
+    {
+        "NumeroUbigeo": "140307",
+        "DepartamentoUbigeo": "LAMBAYEQUE",
+        "ProvinciaUbigeo": "LAMBAYEQUE",
+        "DistritoUbigeo": "MOTUPE"
+    },
+    {
+        "NumeroUbigeo": "140308",
+        "DepartamentoUbigeo": "LAMBAYEQUE",
+        "ProvinciaUbigeo": "LAMBAYEQUE",
+        "DistritoUbigeo": "OLMOS"
+    },
+    {
+        "NumeroUbigeo": "140309",
+        "DepartamentoUbigeo": "LAMBAYEQUE",
+        "ProvinciaUbigeo": "LAMBAYEQUE",
+        "DistritoUbigeo": "PACORA"
+    },
+    {
+        "NumeroUbigeo": "140310",
+        "DepartamentoUbigeo": "LAMBAYEQUE",
+        "ProvinciaUbigeo": "LAMBAYEQUE",
+        "DistritoUbigeo": "SALAS"
+    },
+    {
+        "NumeroUbigeo": "140311",
+        "DepartamentoUbigeo": "LAMBAYEQUE",
+        "ProvinciaUbigeo": "LAMBAYEQUE",
+        "DistritoUbigeo": "SAN JOSE"
+    },
+    {
+        "NumeroUbigeo": "140312",
+        "DepartamentoUbigeo": "LAMBAYEQUE",
+        "ProvinciaUbigeo": "LAMBAYEQUE",
+        "DistritoUbigeo": "TUCUME"
+    },
+    {
+        "NumeroUbigeo": "40101",
+        "DepartamentoUbigeo": "AREQUIPA",
+        "ProvinciaUbigeo": "AREQUIPA",
+        "DistritoUbigeo": "AREQUIPA"
+    },
+    {
+        "NumeroUbigeo": "40102",
+        "DepartamentoUbigeo": "AREQUIPA",
+        "ProvinciaUbigeo": "AREQUIPA",
+        "DistritoUbigeo": "ALTO SELVA ALEGRE"
+    },
+    {
+        "NumeroUbigeo": "40103",
+        "DepartamentoUbigeo": "AREQUIPA",
+        "ProvinciaUbigeo": "AREQUIPA",
+        "DistritoUbigeo": "CAYMA"
+    },
+    {
+        "NumeroUbigeo": "40104",
+        "DepartamentoUbigeo": "AREQUIPA",
+        "ProvinciaUbigeo": "AREQUIPA",
+        "DistritoUbigeo": "CERRO COLORADO"
+    },
+    {
+        "NumeroUbigeo": "40105",
+        "DepartamentoUbigeo": "AREQUIPA",
+        "ProvinciaUbigeo": "AREQUIPA",
+        "DistritoUbigeo": "CHARACATO"
+    },
+    {
+        "NumeroUbigeo": "40106",
+        "DepartamentoUbigeo": "AREQUIPA",
+        "ProvinciaUbigeo": "AREQUIPA",
+        "DistritoUbigeo": "CHIGUATA"
+    },
+    {
+        "NumeroUbigeo": "40107",
+        "DepartamentoUbigeo": "AREQUIPA",
+        "ProvinciaUbigeo": "AREQUIPA",
+        "DistritoUbigeo": "JACOBO HUNTER"
+    },
+    {
+        "NumeroUbigeo": "40108",
+        "DepartamentoUbigeo": "AREQUIPA",
+        "ProvinciaUbigeo": "AREQUIPA",
+        "DistritoUbigeo": "LA JOYA"
+    },
+    {
+        "NumeroUbigeo": "40109",
+        "DepartamentoUbigeo": "AREQUIPA",
+        "ProvinciaUbigeo": "AREQUIPA",
+        "DistritoUbigeo": "MARIANO MELGAR"
+    },
+    {
+        "NumeroUbigeo": "40110",
+        "DepartamentoUbigeo": "AREQUIPA",
+        "ProvinciaUbigeo": "AREQUIPA",
+        "DistritoUbigeo": "MIRAFLORES"
+    },
+    {
+        "NumeroUbigeo": "40111",
+        "DepartamentoUbigeo": "AREQUIPA",
+        "ProvinciaUbigeo": "AREQUIPA",
+        "DistritoUbigeo": "MOLLEBAYA"
+    },
+    {
+        "NumeroUbigeo": "40112",
+        "DepartamentoUbigeo": "AREQUIPA",
+        "ProvinciaUbigeo": "AREQUIPA",
+        "DistritoUbigeo": "PAUCARPATA"
+    },
+    {
+        "NumeroUbigeo": "40113",
+        "DepartamentoUbigeo": "AREQUIPA",
+        "ProvinciaUbigeo": "AREQUIPA",
+        "DistritoUbigeo": "POCSI"
+    },
+    {
+        "NumeroUbigeo": "40114",
+        "DepartamentoUbigeo": "AREQUIPA",
+        "ProvinciaUbigeo": "AREQUIPA",
+        "DistritoUbigeo": "POLOBAYA"
+    },
+    {
+        "NumeroUbigeo": "40115",
+        "DepartamentoUbigeo": "AREQUIPA",
+        "ProvinciaUbigeo": "AREQUIPA",
+        "DistritoUbigeo": "QUEQUEÑA"
+    },
+    {
+        "NumeroUbigeo": "40116",
+        "DepartamentoUbigeo": "AREQUIPA",
+        "ProvinciaUbigeo": "AREQUIPA",
+        "DistritoUbigeo": "SABANDIA"
+    },
+    {
+        "NumeroUbigeo": "40117",
+        "DepartamentoUbigeo": "AREQUIPA",
+        "ProvinciaUbigeo": "AREQUIPA",
+        "DistritoUbigeo": "SACHACA"
+    },
+    {
+        "NumeroUbigeo": "40118",
+        "DepartamentoUbigeo": "AREQUIPA",
+        "ProvinciaUbigeo": "AREQUIPA",
+        "DistritoUbigeo": "SAN JUAN DE SIGUAS"
+    },
+    {
+        "NumeroUbigeo": "40119",
+        "DepartamentoUbigeo": "AREQUIPA",
+        "ProvinciaUbigeo": "AREQUIPA",
+        "DistritoUbigeo": "SAN JUAN DE TARUCANI"
+    },
+    {
+        "NumeroUbigeo": "40120",
+        "DepartamentoUbigeo": "AREQUIPA",
+        "ProvinciaUbigeo": "AREQUIPA",
+        "DistritoUbigeo": "SANTA ISABEL DE SIGUAS"
+    },
+    {
+        "NumeroUbigeo": "40121",
+        "DepartamentoUbigeo": "AREQUIPA",
+        "ProvinciaUbigeo": "AREQUIPA",
+        "DistritoUbigeo": "SANTA RITA DE SIGUAS"
+    },
+    {
+        "NumeroUbigeo": "40122",
+        "DepartamentoUbigeo": "AREQUIPA",
+        "ProvinciaUbigeo": "AREQUIPA",
+        "DistritoUbigeo": "SOCABAYA"
+    },
+    {
+        "NumeroUbigeo": "40123",
+        "DepartamentoUbigeo": "AREQUIPA",
+        "ProvinciaUbigeo": "AREQUIPA",
+        "DistritoUbigeo": "TIABAYA"
+    },
+    {
+        "NumeroUbigeo": "40124",
+        "DepartamentoUbigeo": "AREQUIPA",
+        "ProvinciaUbigeo": "AREQUIPA",
+        "DistritoUbigeo": "UCHUMAYO"
+    },
+    {
+        "NumeroUbigeo": "40125",
+        "DepartamentoUbigeo": "AREQUIPA",
+        "ProvinciaUbigeo": "AREQUIPA",
+        "DistritoUbigeo": "VITOR"
+    },
+    {
+        "NumeroUbigeo": "40126",
+        "DepartamentoUbigeo": "AREQUIPA",
+        "ProvinciaUbigeo": "AREQUIPA",
+        "DistritoUbigeo": "YANAHUARA"
+    },
+    {
+        "NumeroUbigeo": "40127",
+        "DepartamentoUbigeo": "AREQUIPA",
+        "ProvinciaUbigeo": "AREQUIPA",
+        "DistritoUbigeo": "YARABAMBA"
+    },
+    {
+        "NumeroUbigeo": "40128",
+        "DepartamentoUbigeo": "AREQUIPA",
+        "ProvinciaUbigeo": "AREQUIPA",
+        "DistritoUbigeo": "YURA"
+    },
+    {
+        "NumeroUbigeo": "40129",
+        "DepartamentoUbigeo": "AREQUIPA",
+        "ProvinciaUbigeo": "AREQUIPA",
+        "DistritoUbigeo": "JOSE LUIS BUSTAMANTE Y"
+    },
+    {
+        "NumeroUbigeo": "40201",
+        "DepartamentoUbigeo": "AREQUIPA",
+        "ProvinciaUbigeo": "CAMANA",
+        "DistritoUbigeo": "CAMANA"
+    },
+    {
+        "NumeroUbigeo": "40202",
+        "DepartamentoUbigeo": "AREQUIPA",
+        "ProvinciaUbigeo": "CAMANA",
+        "DistritoUbigeo": "JOSE MARIA QUIMPER"
+    },
+    {
+        "NumeroUbigeo": "40203",
+        "DepartamentoUbigeo": "AREQUIPA",
+        "ProvinciaUbigeo": "CAMANA",
+        "DistritoUbigeo": "MARIANO NICOLAS VALCARCEL"
+    },
+    {
+        "NumeroUbigeo": "40204",
+        "DepartamentoUbigeo": "AREQUIPA",
+        "ProvinciaUbigeo": "CAMANA",
+        "DistritoUbigeo": "MARISCAL CACERES"
+    },
+    {
+        "NumeroUbigeo": "40205",
+        "DepartamentoUbigeo": "AREQUIPA",
+        "ProvinciaUbigeo": "CAMANA",
+        "DistritoUbigeo": "NICOLAS DE PIEROLA"
+    },
+    {
+        "NumeroUbigeo": "40206",
+        "DepartamentoUbigeo": "AREQUIPA",
+        "ProvinciaUbigeo": "CAMANA",
+        "DistritoUbigeo": "OCOÑA"
+    },
+    {
+        "NumeroUbigeo": "40207",
+        "DepartamentoUbigeo": "AREQUIPA",
+        "ProvinciaUbigeo": "CAMANA",
+        "DistritoUbigeo": "QUILCA"
+    },
+    {
+        "NumeroUbigeo": "40208",
+        "DepartamentoUbigeo": "AREQUIPA",
+        "ProvinciaUbigeo": "CAMANA",
+        "DistritoUbigeo": "SAMUEL PASTOR"
+    },
+    {
+        "NumeroUbigeo": "40301",
+        "DepartamentoUbigeo": "AREQUIPA",
+        "ProvinciaUbigeo": "CARAVELI",
+        "DistritoUbigeo": "CARAVELI"
+    },
+    {
+        "NumeroUbigeo": "40302",
+        "DepartamentoUbigeo": "AREQUIPA",
+        "ProvinciaUbigeo": "CARAVELI",
+        "DistritoUbigeo": "ACARI"
+    },
+    {
+        "NumeroUbigeo": "40303",
+        "DepartamentoUbigeo": "AREQUIPA",
+        "ProvinciaUbigeo": "CARAVELI",
+        "DistritoUbigeo": "ATICO"
+    },
+    {
+        "NumeroUbigeo": "40304",
+        "DepartamentoUbigeo": "AREQUIPA",
+        "ProvinciaUbigeo": "CARAVELI",
+        "DistritoUbigeo": "ATIQUIPA"
+    },
+    {
+        "NumeroUbigeo": "40305",
+        "DepartamentoUbigeo": "AREQUIPA",
+        "ProvinciaUbigeo": "CARAVELI",
+        "DistritoUbigeo": "BELLA UNION"
+    },
+    {
+        "NumeroUbigeo": "40306",
+        "DepartamentoUbigeo": "AREQUIPA",
+        "ProvinciaUbigeo": "CARAVELI",
+        "DistritoUbigeo": "CAHUACHO"
+    },
+    {
+        "NumeroUbigeo": "40307",
+        "DepartamentoUbigeo": "AREQUIPA",
+        "ProvinciaUbigeo": "CARAVELI",
+        "DistritoUbigeo": "CHALA"
+    },
+    {
+        "NumeroUbigeo": "40308",
+        "DepartamentoUbigeo": "AREQUIPA",
+        "ProvinciaUbigeo": "CARAVELI",
+        "DistritoUbigeo": "CHAPARRA"
+    },
+    {
+        "NumeroUbigeo": "40309",
+        "DepartamentoUbigeo": "AREQUIPA",
+        "ProvinciaUbigeo": "CARAVELI",
+        "DistritoUbigeo": "HUANUHUANU"
+    },
+    {
+        "NumeroUbigeo": "40310",
+        "DepartamentoUbigeo": "AREQUIPA",
+        "ProvinciaUbigeo": "CARAVELI",
+        "DistritoUbigeo": "JAQUI"
+    },
+    {
+        "NumeroUbigeo": "40311",
+        "DepartamentoUbigeo": "AREQUIPA",
+        "ProvinciaUbigeo": "CARAVELI",
+        "DistritoUbigeo": "LOMAS"
+    },
+    {
+        "NumeroUbigeo": "40312",
+        "DepartamentoUbigeo": "AREQUIPA",
+        "ProvinciaUbigeo": "CARAVELI",
+        "DistritoUbigeo": "QUICACHA"
+    },
+    {
+        "NumeroUbigeo": "40313",
+        "DepartamentoUbigeo": "AREQUIPA",
+        "ProvinciaUbigeo": "CARAVELI",
+        "DistritoUbigeo": "YAUCA"
+    },
+    {
+        "NumeroUbigeo": "40401",
+        "DepartamentoUbigeo": "AREQUIPA",
+        "ProvinciaUbigeo": "CASTILLA",
+        "DistritoUbigeo": "APLAO"
+    },
+    {
+        "NumeroUbigeo": "40402",
+        "DepartamentoUbigeo": "AREQUIPA",
+        "ProvinciaUbigeo": "CASTILLA",
+        "DistritoUbigeo": "ANDAGUA"
+    },
+    {
+        "NumeroUbigeo": "40403",
+        "DepartamentoUbigeo": "AREQUIPA",
+        "ProvinciaUbigeo": "CASTILLA",
+        "DistritoUbigeo": "AYO"
+    },
+    {
+        "NumeroUbigeo": "40404",
+        "DepartamentoUbigeo": "AREQUIPA",
+        "ProvinciaUbigeo": "CASTILLA",
+        "DistritoUbigeo": "CHACHAS"
+    },
+    {
+        "NumeroUbigeo": "40405",
+        "DepartamentoUbigeo": "AREQUIPA",
+        "ProvinciaUbigeo": "CASTILLA",
+        "DistritoUbigeo": "CHILCAYMARCA"
+    },
+    {
+        "NumeroUbigeo": "40406",
+        "DepartamentoUbigeo": "AREQUIPA",
+        "ProvinciaUbigeo": "CASTILLA",
+        "DistritoUbigeo": "CHOCO"
+    },
+    {
+        "NumeroUbigeo": "40407",
+        "DepartamentoUbigeo": "AREQUIPA",
+        "ProvinciaUbigeo": "CASTILLA",
+        "DistritoUbigeo": "HUANCARQUI"
+    },
+    {
+        "NumeroUbigeo": "40408",
+        "DepartamentoUbigeo": "AREQUIPA",
+        "ProvinciaUbigeo": "CASTILLA",
+        "DistritoUbigeo": "MACHAGUAY"
+    },
+    {
+        "NumeroUbigeo": "40409",
+        "DepartamentoUbigeo": "AREQUIPA",
+        "ProvinciaUbigeo": "CASTILLA",
+        "DistritoUbigeo": "ORCOPAMPA"
+    },
+    {
+        "NumeroUbigeo": "40410",
+        "DepartamentoUbigeo": "AREQUIPA",
+        "ProvinciaUbigeo": "CASTILLA",
+        "DistritoUbigeo": "PAMPACOLCA"
+    },
+    {
+        "NumeroUbigeo": "40411",
+        "DepartamentoUbigeo": "AREQUIPA",
+        "ProvinciaUbigeo": "CASTILLA",
+        "DistritoUbigeo": "TIPAN"
+    },
+    {
+        "NumeroUbigeo": "40412",
+        "DepartamentoUbigeo": "AREQUIPA",
+        "ProvinciaUbigeo": "CASTILLA",
+        "DistritoUbigeo": "UÑON"
+    },
+    {
+        "NumeroUbigeo": "40413",
+        "DepartamentoUbigeo": "AREQUIPA",
+        "ProvinciaUbigeo": "CASTILLA",
+        "DistritoUbigeo": "URACA"
+    },
+    {
+        "NumeroUbigeo": "40414",
+        "DepartamentoUbigeo": "AREQUIPA",
+        "ProvinciaUbigeo": "CASTILLA",
+        "DistritoUbigeo": "VIRACO"
+    },
+    {
+        "NumeroUbigeo": "40501",
+        "DepartamentoUbigeo": "AREQUIPA",
+        "ProvinciaUbigeo": "CAYLLOMA",
+        "DistritoUbigeo": "CHIVAY"
+    },
+    {
+        "NumeroUbigeo": "40502",
+        "DepartamentoUbigeo": "AREQUIPA",
+        "ProvinciaUbigeo": "CAYLLOMA",
+        "DistritoUbigeo": "ACHOMA"
+    },
+    {
+        "NumeroUbigeo": "40503",
+        "DepartamentoUbigeo": "AREQUIPA",
+        "ProvinciaUbigeo": "CAYLLOMA",
+        "DistritoUbigeo": "CABANACONDE"
+    },
+    {
+        "NumeroUbigeo": "40504",
+        "DepartamentoUbigeo": "AREQUIPA",
+        "ProvinciaUbigeo": "CAYLLOMA",
+        "DistritoUbigeo": "CALLALLI"
+    },
+    {
+        "NumeroUbigeo": "40505",
+        "DepartamentoUbigeo": "AREQUIPA",
+        "ProvinciaUbigeo": "CAYLLOMA",
+        "DistritoUbigeo": "CAYLLOMA"
+    },
+    {
+        "NumeroUbigeo": "40506",
+        "DepartamentoUbigeo": "AREQUIPA",
+        "ProvinciaUbigeo": "CAYLLOMA",
+        "DistritoUbigeo": "COPORAQUE"
+    },
+    {
+        "NumeroUbigeo": "40507",
+        "DepartamentoUbigeo": "AREQUIPA",
+        "ProvinciaUbigeo": "CAYLLOMA",
+        "DistritoUbigeo": "HUAMBO"
+    },
+    {
+        "NumeroUbigeo": "40508",
+        "DepartamentoUbigeo": "AREQUIPA",
+        "ProvinciaUbigeo": "CAYLLOMA",
+        "DistritoUbigeo": "HUANCA"
+    },
+    {
+        "NumeroUbigeo": "40509",
+        "DepartamentoUbigeo": "AREQUIPA",
+        "ProvinciaUbigeo": "CAYLLOMA",
+        "DistritoUbigeo": "ICHUPAMPA"
+    },
+    {
+        "NumeroUbigeo": "40510",
+        "DepartamentoUbigeo": "AREQUIPA",
+        "ProvinciaUbigeo": "CAYLLOMA",
+        "DistritoUbigeo": "LARI"
+    },
+    {
+        "NumeroUbigeo": "40511",
+        "DepartamentoUbigeo": "AREQUIPA",
+        "ProvinciaUbigeo": "CAYLLOMA",
+        "DistritoUbigeo": "LLUTA"
+    },
+    {
+        "NumeroUbigeo": "40512",
+        "DepartamentoUbigeo": "AREQUIPA",
+        "ProvinciaUbigeo": "CAYLLOMA",
+        "DistritoUbigeo": "MACA"
+    },
+    {
+        "NumeroUbigeo": "40513",
+        "DepartamentoUbigeo": "AREQUIPA",
+        "ProvinciaUbigeo": "CAYLLOMA",
+        "DistritoUbigeo": "MADRIGAL"
+    },
+    {
+        "NumeroUbigeo": "40514",
+        "DepartamentoUbigeo": "AREQUIPA",
+        "ProvinciaUbigeo": "CAYLLOMA",
+        "DistritoUbigeo": "SAN ANTONIO DE CHUCA"
+    },
+    {
+        "NumeroUbigeo": "40515",
+        "DepartamentoUbigeo": "AREQUIPA",
+        "ProvinciaUbigeo": "CAYLLOMA",
+        "DistritoUbigeo": "SIBAYO"
+    },
+    {
+        "NumeroUbigeo": "40516",
+        "DepartamentoUbigeo": "AREQUIPA",
+        "ProvinciaUbigeo": "CAYLLOMA",
+        "DistritoUbigeo": "TAPAY"
+    },
+    {
+        "NumeroUbigeo": "40517",
+        "DepartamentoUbigeo": "AREQUIPA",
+        "ProvinciaUbigeo": "CAYLLOMA",
+        "DistritoUbigeo": "TISCO"
+    },
+    {
+        "NumeroUbigeo": "40518",
+        "DepartamentoUbigeo": "AREQUIPA",
+        "ProvinciaUbigeo": "CAYLLOMA",
+        "DistritoUbigeo": "TUTI"
+    },
+    {
+        "NumeroUbigeo": "40519",
+        "DepartamentoUbigeo": "AREQUIPA",
+        "ProvinciaUbigeo": "CAYLLOMA",
+        "DistritoUbigeo": "YANQUE"
+    },
+    {
+        "NumeroUbigeo": "40520",
+        "DepartamentoUbigeo": "AREQUIPA",
+        "ProvinciaUbigeo": "CAYLLOMA",
+        "DistritoUbigeo": "MAJES"
+    },
+    {
+        "NumeroUbigeo": "40601",
+        "DepartamentoUbigeo": "AREQUIPA",
+        "ProvinciaUbigeo": "CONDESUYOS",
+        "DistritoUbigeo": "CHUQUIBAMBA"
+    },
+    {
+        "NumeroUbigeo": "40602",
+        "DepartamentoUbigeo": "AREQUIPA",
+        "ProvinciaUbigeo": "CONDESUYOS",
+        "DistritoUbigeo": "ANDARAY"
+    },
+    {
+        "NumeroUbigeo": "40603",
+        "DepartamentoUbigeo": "AREQUIPA",
+        "ProvinciaUbigeo": "CONDESUYOS",
+        "DistritoUbigeo": "CAYARANI"
+    },
+    {
+        "NumeroUbigeo": "40604",
+        "DepartamentoUbigeo": "AREQUIPA",
+        "ProvinciaUbigeo": "CONDESUYOS",
+        "DistritoUbigeo": "CHICHAS"
+    },
+    {
+        "NumeroUbigeo": "40605",
+        "DepartamentoUbigeo": "AREQUIPA",
+        "ProvinciaUbigeo": "CONDESUYOS",
+        "DistritoUbigeo": "IRAY"
+    },
+    {
+        "NumeroUbigeo": "40606",
+        "DepartamentoUbigeo": "AREQUIPA",
+        "ProvinciaUbigeo": "CONDESUYOS",
+        "DistritoUbigeo": "RIO GRANDE"
+    },
+    {
+        "NumeroUbigeo": "40607",
+        "DepartamentoUbigeo": "AREQUIPA",
+        "ProvinciaUbigeo": "CONDESUYOS",
+        "DistritoUbigeo": "SALAMANCA"
+    },
+    {
+        "NumeroUbigeo": "40608",
+        "DepartamentoUbigeo": "AREQUIPA",
+        "ProvinciaUbigeo": "CONDESUYOS",
+        "DistritoUbigeo": "YANAQUIHUA"
+    },
+    {
+        "NumeroUbigeo": "40701",
+        "DepartamentoUbigeo": "AREQUIPA",
+        "ProvinciaUbigeo": "ISLAY",
+        "DistritoUbigeo": "MOLLENDO"
+    },
+    {
+        "NumeroUbigeo": "40702",
+        "DepartamentoUbigeo": "AREQUIPA",
+        "ProvinciaUbigeo": "ISLAM",
+        "DistritoUbigeo": "COCACHACRA"
+    },
+    {
+        "NumeroUbigeo": "40703",
+        "DepartamentoUbigeo": "AREQUIPA",
+        "ProvinciaUbigeo": "ISLAY",
+        "DistritoUbigeo": "DEAN VALDIVIA"
+    },
+    {
+        "NumeroUbigeo": "40704",
+        "DepartamentoUbigeo": "AREQUIPA",
+        "ProvinciaUbigeo": "ISLAY",
+        "DistritoUbigeo": "ISLAY"
+    },
+    {
+        "NumeroUbigeo": "40705",
+        "DepartamentoUbigeo": "AREQUIPA",
+        "ProvinciaUbigeo": "ISLAY",
+        "DistritoUbigeo": "MEJIA"
+    },
+    {
+        "NumeroUbigeo": "40706",
+        "DepartamentoUbigeo": "AREQUIPA",
+        "ProvinciaUbigeo": "ISLAY",
+        "DistritoUbigeo": "PUNTA DE BOMBON"
+    },
+    {
+        "NumeroUbigeo": "40801",
+        "DepartamentoUbigeo": "AREQUIPA",
+        "ProvinciaUbigeo": "LA UNION",
+        "DistritoUbigeo": "COTAHUASI"
+    },
+    {
+        "NumeroUbigeo": "40802",
+        "DepartamentoUbigeo": "AREQUIPA",
+        "ProvinciaUbigeo": "LA UNION",
+        "DistritoUbigeo": "ALCA"
+    },
+    {
+        "NumeroUbigeo": "40803",
+        "DepartamentoUbigeo": "AREQUIPA",
+        "ProvinciaUbigeo": "LA UNION",
+        "DistritoUbigeo": "CHARCANA"
+    },
+    {
+        "NumeroUbigeo": "40804",
+        "DepartamentoUbigeo": "AREQUIPA",
+        "ProvinciaUbigeo": "LA UNION",
+        "DistritoUbigeo": "HUAYNACOTAS"
+    },
+    {
+        "NumeroUbigeo": "40805",
+        "DepartamentoUbigeo": "AREQUIPA",
+        "ProvinciaUbigeo": "LA UNION",
+        "DistritoUbigeo": "PAMPAMARCA"
+    },
+    {
+        "NumeroUbigeo": "40806",
+        "DepartamentoUbigeo": "AREQUIPA",
+        "ProvinciaUbigeo": "LA UNION",
+        "DistritoUbigeo": "PUYCA"
+    },
+    {
+        "NumeroUbigeo": "40807",
+        "DepartamentoUbigeo": "AREQUIPA",
+        "ProvinciaUbigeo": "LA UNION",
+        "DistritoUbigeo": "QUECHUALLA"
+    },
+    {
+        "NumeroUbigeo": "40808",
+        "DepartamentoUbigeo": "AREQUIPA",
+        "ProvinciaUbigeo": "LA UNION",
+        "DistritoUbigeo": "SAYLA"
+    },
+    {
+        "NumeroUbigeo": "40809",
+        "DepartamentoUbigeo": "AREQUIPA",
+        "ProvinciaUbigeo": "LA UNION",
+        "DistritoUbigeo": "TAURIA"
+    },
+    {
+        "NumeroUbigeo": "40810",
+        "DepartamentoUbigeo": "AREQUIPA",
+        "ProvinciaUbigeo": "LA UNION",
+        "DistritoUbigeo": "TOMEPAMPA"
+    },
+    {
+        "NumeroUbigeo": "40811",
+        "DepartamentoUbigeo": "AREQUIPA",
+        "ProvinciaUbigeo": "LA UNION",
+        "DistritoUbigeo": "TORO"
+    },
+    {
+        "NumeroUbigeo": "60101",
+        "DepartamentoUbigeo": "CAJAMARCA",
+        "ProvinciaUbigeo": "CAJAMARCA",
+        "DistritoUbigeo": "CAJAMARCA"
+    },
+    {
+        "NumeroUbigeo": "60102",
+        "DepartamentoUbigeo": "CAJAMARCA",
+        "ProvinciaUbigeo": "CAJAMARCA",
+        "DistritoUbigeo": "ASUNCION"
+    },
+    {
+        "NumeroUbigeo": "60103",
+        "DepartamentoUbigeo": "CAJAMARCA",
+        "ProvinciaUbigeo": "CAJAMARCA",
+        "DistritoUbigeo": "CHETILLA"
+    },
+    {
+        "NumeroUbigeo": "60104",
+        "DepartamentoUbigeo": "CAJAMARCA",
+        "ProvinciaUbigeo": "CAJAMARCA",
+        "DistritoUbigeo": "COSPAN"
+    },
+    {
+        "NumeroUbigeo": "60105",
+        "DepartamentoUbigeo": "CAJAMARCA",
+        "ProvinciaUbigeo": "CAJAMARCA",
+        "DistritoUbigeo": "ENCAÑADA"
+    },
+    {
+        "NumeroUbigeo": "60106",
+        "DepartamentoUbigeo": "CAJAMARCA",
+        "ProvinciaUbigeo": "CAJAMARCA",
+        "DistritoUbigeo": "JESUS"
+    },
+    {
+        "NumeroUbigeo": "60107",
+        "DepartamentoUbigeo": "CAJAMARCA",
+        "ProvinciaUbigeo": "CAJAMARCA",
+        "DistritoUbigeo": "LLACANORA"
+    },
+    {
+        "NumeroUbigeo": "60108",
+        "DepartamentoUbigeo": "CAJAMARCA",
+        "ProvinciaUbigeo": "CAJAMARCA",
+        "DistritoUbigeo": "LOS BAÑOS DEL INCA"
+    },
+    {
+        "NumeroUbigeo": "60109",
+        "DepartamentoUbigeo": "CAJAMARCA",
+        "ProvinciaUbigeo": "CAJAMARCA",
+        "DistritoUbigeo": "MAGDALENA"
+    },
+    {
+        "NumeroUbigeo": "60110",
+        "DepartamentoUbigeo": "CAJAMARCA",
+        "ProvinciaUbigeo": "CAJAMARCA",
+        "DistritoUbigeo": "MATARA"
+    },
+    {
+        "NumeroUbigeo": "60111",
+        "DepartamentoUbigeo": "CAJAMARCA",
+        "ProvinciaUbigeo": "CAJAMARCA",
+        "DistritoUbigeo": "NAMORA"
+    },
+    {
+        "NumeroUbigeo": "60112",
+        "DepartamentoUbigeo": "CAJAMARCA",
+        "ProvinciaUbigeo": "CAJAMARCA",
+        "DistritoUbigeo": "SAN JUAN"
+    },
+    {
+        "NumeroUbigeo": "60201",
+        "DepartamentoUbigeo": "CAJAMARCA",
+        "ProvinciaUbigeo": "CAJABAMBA",
+        "DistritoUbigeo": "CAJABAMBA"
+    },
+    {
+        "NumeroUbigeo": "60202",
+        "DepartamentoUbigeo": "CAJAMARCA",
+        "ProvinciaUbigeo": "CAJABAMBA",
+        "DistritoUbigeo": "CACHACHI"
+    },
+    {
+        "NumeroUbigeo": "60203",
+        "DepartamentoUbigeo": "CAJAMARCA",
+        "ProvinciaUbigeo": "CAJABAMBA",
+        "DistritoUbigeo": "CONDEBAMBA"
+    },
+    {
+        "NumeroUbigeo": "60204",
+        "DepartamentoUbigeo": "CAJAMARCA",
+        "ProvinciaUbigeo": "CAJABAMBA",
+        "DistritoUbigeo": "SITACOCHA"
+    },
+    {
+        "NumeroUbigeo": "60301",
+        "DepartamentoUbigeo": "CAJAMARCA",
+        "ProvinciaUbigeo": "CELENDIN",
+        "DistritoUbigeo": "CELENDIN"
+    },
+    {
+        "NumeroUbigeo": "60302",
+        "DepartamentoUbigeo": "CAJAMARCA",
+        "ProvinciaUbigeo": "CELENDIN",
+        "DistritoUbigeo": "CHUMIJCH"
+    },
+    {
+        "NumeroUbigeo": "60303",
+        "DepartamentoUbigeo": "CAJAMARCA",
+        "ProvinciaUbigeo": "CELENDIN",
+        "DistritoUbigeo": "CORTEGANA"
+    },
+    {
+        "NumeroUbigeo": "60304",
+        "DepartamentoUbigeo": "CAJAMARCA",
+        "ProvinciaUbigeo": "CELENDIN",
+        "DistritoUbigeo": "HIJASMIN"
+    },
+    {
+        "NumeroUbigeo": "60305",
+        "DepartamentoUbigeo": "CAJAMARCA",
+        "ProvinciaUbigeo": "CELENDIN",
+        "DistritoUbigeo": "JORGE CHAVEZ"
+    },
+    {
+        "NumeroUbigeo": "60306",
+        "DepartamentoUbigeo": "CAJAMARCA",
+        "ProvinciaUbigeo": "CELENDIN",
+        "DistritoUbigeo": "JOSE CALVEZ"
+    },
+    {
+        "NumeroUbigeo": "60307",
+        "DepartamentoUbigeo": "CAJAMARCA",
+        "ProvinciaUbigeo": "CELENDIN",
+        "DistritoUbigeo": "MIGUEL IGLESIAS"
+    },
+    {
+        "NumeroUbigeo": "60308",
+        "DepartamentoUbigeo": "CAJAMARCA",
+        "ProvinciaUbigeo": "CELENDIN",
+        "DistritoUbigeo": "OXAMARCA"
+    },
+    {
+        "NumeroUbigeo": "60309",
+        "DepartamentoUbigeo": "CAJAMARCA",
+        "ProvinciaUbigeo": "CELENDIN",
+        "DistritoUbigeo": "SOROCHUCO"
+    },
+    {
+        "NumeroUbigeo": "60310",
+        "DepartamentoUbigeo": "CAJAMARCA",
+        "ProvinciaUbigeo": "CELENDIN",
+        "DistritoUbigeo": "SUCRE"
+    },
+    {
+        "NumeroUbigeo": "60311",
+        "DepartamentoUbigeo": "CAJAMARCA",
+        "ProvinciaUbigeo": "CELENDIN",
+        "DistritoUbigeo": "UTCO"
+    },
+    {
+        "NumeroUbigeo": "60312",
+        "DepartamentoUbigeo": "CAJAMARCA",
+        "ProvinciaUbigeo": "CELENDIN",
+        "DistritoUbigeo": "LA LIBERTAD DE PALLAN"
+    },
+    {
+        "NumeroUbigeo": "60401",
+        "DepartamentoUbigeo": "CAJAMARCA",
+        "ProvinciaUbigeo": "CHOTA",
+        "DistritoUbigeo": "CHOTA"
+    },
+    {
+        "NumeroUbigeo": "60402",
+        "DepartamentoUbigeo": "CAJAMARCA",
+        "ProvinciaUbigeo": "CHOTA",
+        "DistritoUbigeo": "ANGUIA"
+    },
+    {
+        "NumeroUbigeo": "60403",
+        "DepartamentoUbigeo": "CAJAMARCA",
+        "ProvinciaUbigeo": "CHOTA",
+        "DistritoUbigeo": "CHADIN"
+    },
+    {
+        "NumeroUbigeo": "60404",
+        "DepartamentoUbigeo": "CAJAMARCA",
+        "ProvinciaUbigeo": "CHOTA",
+        "DistritoUbigeo": "CHIGUIRIP"
+    },
+    {
+        "NumeroUbigeo": "60405",
+        "DepartamentoUbigeo": "CAJAMARCA",
+        "ProvinciaUbigeo": "CHOTA",
+        "DistritoUbigeo": "CHIMBAN"
+    },
+    {
+        "NumeroUbigeo": "60406",
+        "DepartamentoUbigeo": "CAJAMARCA",
+        "ProvinciaUbigeo": "CHOTA",
+        "DistritoUbigeo": "CHOROPAMPA"
+    },
+    {
+        "NumeroUbigeo": "60407",
+        "DepartamentoUbigeo": "CAJAMARCA",
+        "ProvinciaUbigeo": "CHOTA",
+        "DistritoUbigeo": "COCHABAMBA"
+    },
+    {
+        "NumeroUbigeo": "60408",
+        "DepartamentoUbigeo": "CAJAMARCA",
+        "ProvinciaUbigeo": "CHOTA",
+        "DistritoUbigeo": "CONCHAN"
+    },
+    {
+        "NumeroUbigeo": "60409",
+        "DepartamentoUbigeo": "CAJAMARCA",
+        "ProvinciaUbigeo": "CHOTA",
+        "DistritoUbigeo": "HUAMBOS"
+    },
+    {
+        "NumeroUbigeo": "60410",
+        "DepartamentoUbigeo": "CAJAMARCA",
+        "ProvinciaUbigeo": "CHOTA",
+        "DistritoUbigeo": "LAJAS"
+    },
+    {
+        "NumeroUbigeo": "60411",
+        "DepartamentoUbigeo": "CAJAMARCA",
+        "ProvinciaUbigeo": "CHOTA",
+        "DistritoUbigeo": "LLAMA"
+    },
+    {
+        "NumeroUbigeo": "60412",
+        "DepartamentoUbigeo": "CAJAMARCA",
+        "ProvinciaUbigeo": "CHOTA",
+        "DistritoUbigeo": "MIRACOSTA"
+    },
+    {
+        "NumeroUbigeo": "60413",
+        "DepartamentoUbigeo": "CAJAMARCA",
+        "ProvinciaUbigeo": "CHOTA",
+        "DistritoUbigeo": "PACCHA"
+    },
+    {
+        "NumeroUbigeo": "60414",
+        "DepartamentoUbigeo": "CAJAMARCA",
+        "ProvinciaUbigeo": "CHOTA",
+        "DistritoUbigeo": "PION"
+    },
+    {
+        "NumeroUbigeo": "60415",
+        "DepartamentoUbigeo": "CAJAMARCA",
+        "ProvinciaUbigeo": "CHOTA",
+        "DistritoUbigeo": "QUEROCOTO"
+    },
+    {
+        "NumeroUbigeo": "60416",
+        "DepartamentoUbigeo": "CAJAMARCA",
+        "ProvinciaUbigeo": "CHOTA",
+        "DistritoUbigeo": "SAN JUAN DE LICUAS"
+    },
+    {
+        "NumeroUbigeo": "60417",
+        "DepartamentoUbigeo": "CAJAMARCA",
+        "ProvinciaUbigeo": "CHOTA",
+        "DistritoUbigeo": "TACABAMBA"
+    },
+    {
+        "NumeroUbigeo": "60418",
+        "DepartamentoUbigeo": "CAJAMARCA",
+        "ProvinciaUbigeo": "CHOTA",
+        "DistritoUbigeo": "TOCMOCHE"
+    },
+    {
+        "NumeroUbigeo": "60419",
+        "DepartamentoUbigeo": "CAJAMARCA",
+        "ProvinciaUbigeo": "CHOTA",
+        "DistritoUbigeo": "CHALAMARCA"
+    },
+    {
+        "NumeroUbigeo": "60501",
+        "DepartamentoUbigeo": "CAJAMARCA",
+        "ProvinciaUbigeo": "CONTUMAZA",
+        "DistritoUbigeo": "CONTUMAZA"
+    },
+    {
+        "NumeroUbigeo": "60502",
+        "DepartamentoUbigeo": "CAJAMARCA",
+        "ProvinciaUbigeo": "CONTUMAZA",
+        "DistritoUbigeo": "CHILETE"
+    },
+    {
+        "NumeroUbigeo": "60503",
+        "DepartamentoUbigeo": "CAJAMARCA",
+        "ProvinciaUbigeo": "CONTUMAZA",
+        "DistritoUbigeo": "CUPISNIQUE"
+    },
+    {
+        "NumeroUbigeo": "60504",
+        "DepartamentoUbigeo": "CAJAMARCA",
+        "ProvinciaUbigeo": "CONTUMAZA",
+        "DistritoUbigeo": "GUZMANGO"
+    },
+    {
+        "NumeroUbigeo": "60505",
+        "DepartamentoUbigeo": "CAJAMARCA",
+        "ProvinciaUbigeo": "CONTUMAZA",
+        "DistritoUbigeo": "SAN BENITO"
+    },
+    {
+        "NumeroUbigeo": "60506",
+        "DepartamentoUbigeo": "CAJAMARCA",
+        "ProvinciaUbigeo": "CONTUMAZA",
+        "DistritoUbigeo": "SANTA CRUZ DE TOLED"
+    },
+    {
+        "NumeroUbigeo": "60507",
+        "DepartamentoUbigeo": "CAJAMARCA",
+        "ProvinciaUbigeo": "CONTUMAZA",
+        "DistritoUbigeo": "TANTARICA"
+    },
+    {
+        "NumeroUbigeo": "60508",
+        "DepartamentoUbigeo": "CAJAMARCA",
+        "ProvinciaUbigeo": "CONTUMAZA",
+        "DistritoUbigeo": "YONAN"
+    },
+    {
+        "NumeroUbigeo": "60601",
+        "DepartamentoUbigeo": "CAJAMARCA",
+        "ProvinciaUbigeo": "CUTERVO",
+        "DistritoUbigeo": "CUTERVO"
+    },
+    {
+        "NumeroUbigeo": "60602",
+        "DepartamentoUbigeo": "CAJAMARCA",
+        "ProvinciaUbigeo": "CUTERVO",
+        "DistritoUbigeo": "CALLAYUC"
+    },
+    {
+        "NumeroUbigeo": "60603",
+        "DepartamentoUbigeo": "CAJAMARCA",
+        "ProvinciaUbigeo": "CUTERVO",
+        "DistritoUbigeo": "CHOROS"
+    },
+    {
+        "NumeroUbigeo": "60604",
+        "DepartamentoUbigeo": "CAJAMARCA",
+        "ProvinciaUbigeo": "CUTERVO",
+        "DistritoUbigeo": "CUJILLO"
+    },
+    {
+        "NumeroUbigeo": "60605",
+        "DepartamentoUbigeo": "CAJAMARCA",
+        "ProvinciaUbigeo": "CUTERVO",
+        "DistritoUbigeo": "LA RAMADA"
+    },
+    {
+        "NumeroUbigeo": "60606",
+        "DepartamentoUbigeo": "CAJAMARCA",
+        "ProvinciaUbigeo": "CUTERVO",
+        "DistritoUbigeo": "PIMPINGOS"
+    },
+    {
+        "NumeroUbigeo": "60607",
+        "DepartamentoUbigeo": "CAJAMARCA",
+        "ProvinciaUbigeo": "CUTERVO",
+        "DistritoUbigeo": "QUEROCOTILLO"
+    },
+    {
+        "NumeroUbigeo": "60608",
+        "DepartamentoUbigeo": "CAJAMARCA",
+        "ProvinciaUbigeo": "CUTERVO",
+        "DistritoUbigeo": "SAN ANDRES DE CUTERVO"
+    },
+    {
+        "NumeroUbigeo": "60609",
+        "DepartamentoUbigeo": "CAJAMARCA",
+        "ProvinciaUbigeo": "CUTERVO",
+        "DistritoUbigeo": "SAN JUAN DE CUTERVO"
+    },
+    {
+        "NumeroUbigeo": "60610",
+        "DepartamentoUbigeo": "CAJAMARCA",
+        "ProvinciaUbigeo": "CUTERVO",
+        "DistritoUbigeo": "SAN LUIS DE LUCMA"
+    },
+    {
+        "NumeroUbigeo": "60611",
+        "DepartamentoUbigeo": "CAJAMARCA",
+        "ProvinciaUbigeo": "CUTERVO",
+        "DistritoUbigeo": "SANTA CRUZ"
+    },
+    {
+        "NumeroUbigeo": "60612",
+        "DepartamentoUbigeo": "CAJAMARCA",
+        "ProvinciaUbigeo": "CUTERVO",
+        "DistritoUbigeo": "SANTO DOMINGO DE LA"
+    },
+    {
+        "NumeroUbigeo": "60613",
+        "DepartamentoUbigeo": "CAJAMARCA",
+        "ProvinciaUbigeo": "CUTERVO",
+        "DistritoUbigeo": "SANTO TOMAS"
+    },
+    {
+        "NumeroUbigeo": "60614",
+        "DepartamentoUbigeo": "CAJAMARCA",
+        "ProvinciaUbigeo": "CUTERVO",
+        "DistritoUbigeo": "SOCOTA"
+    },
+    {
+        "NumeroUbigeo": "60615",
+        "DepartamentoUbigeo": "CAJAMARCA",
+        "ProvinciaUbigeo": "CUTERVO",
+        "DistritoUbigeo": "TORIBIO CASANOVA"
+    },
+    {
+        "NumeroUbigeo": "60701",
+        "DepartamentoUbigeo": "CAJAMARCA",
+        "ProvinciaUbigeo": "HUALGAYOC",
+        "DistritoUbigeo": "BAMBAMARCA"
+    },
+    {
+        "NumeroUbigeo": "60702",
+        "DepartamentoUbigeo": "CAJAMARCA",
+        "ProvinciaUbigeo": "HUALGAYOC",
+        "DistritoUbigeo": "CHUGUR"
+    },
+    {
+        "NumeroUbigeo": "60703",
+        "DepartamentoUbigeo": "CAJAMARCA",
+        "ProvinciaUbigeo": "HUALGAYOC",
+        "DistritoUbigeo": "HUALGAYOC"
+    },
+    {
+        "NumeroUbigeo": "60801",
+        "DepartamentoUbigeo": "CAJAMARCA",
+        "ProvinciaUbigeo": "JAEN",
+        "DistritoUbigeo": "JAEN"
+    },
+    {
+        "NumeroUbigeo": "60802",
+        "DepartamentoUbigeo": "CAJAMARCA",
+        "ProvinciaUbigeo": "JAEN",
+        "DistritoUbigeo": "BELLAVISTA"
+    },
+    {
+        "NumeroUbigeo": "60803",
+        "DepartamentoUbigeo": "CAJAMARCA",
+        "ProvinciaUbigeo": "JAEN",
+        "DistritoUbigeo": "CHONTALI"
+    },
+    {
+        "NumeroUbigeo": "60804",
+        "DepartamentoUbigeo": "CAJAMARCA",
+        "ProvinciaUbigeo": "JAEN",
+        "DistritoUbigeo": "COLASAY"
+    },
+    {
+        "NumeroUbigeo": "60805",
+        "DepartamentoUbigeo": "CAJAMARCA",
+        "ProvinciaUbigeo": "JAEN",
+        "DistritoUbigeo": "HIJABAL"
+    },
+    {
+        "NumeroUbigeo": "60806",
+        "DepartamentoUbigeo": "CAJAMARCA",
+        "ProvinciaUbigeo": "JAEN",
+        "DistritoUbigeo": "LAS PIRIAS"
+    },
+    {
+        "NumeroUbigeo": "60807",
+        "DepartamentoUbigeo": "CAJAMARCA",
+        "ProvinciaUbigeo": "JAEN",
+        "DistritoUbigeo": "POMAHUACA"
+    },
+    {
+        "NumeroUbigeo": "60808",
+        "DepartamentoUbigeo": "CAJAMARCA",
+        "ProvinciaUbigeo": "JAEN",
+        "DistritoUbigeo": "PUCARA"
+    },
+    {
+        "NumeroUbigeo": "60809",
+        "DepartamentoUbigeo": "CAJAMARCA",
+        "ProvinciaUbigeo": "JAEN",
+        "DistritoUbigeo": "SALLIQUE"
+    },
+    {
+        "NumeroUbigeo": "60810",
+        "DepartamentoUbigeo": "CAJAMARCA",
+        "ProvinciaUbigeo": "JAEN",
+        "DistritoUbigeo": "SAN FELIPE"
+    },
+    {
+        "NumeroUbigeo": "60811",
+        "DepartamentoUbigeo": "CAJAMARCA",
+        "ProvinciaUbigeo": "JAEN",
+        "DistritoUbigeo": "SAN JOSE DEL ALTO"
+    },
+    {
+        "NumeroUbigeo": "60812",
+        "DepartamentoUbigeo": "CAJAMARCA",
+        "ProvinciaUbigeo": "JAEN",
+        "DistritoUbigeo": "SANTA ROSA"
+    },
+    {
+        "NumeroUbigeo": "60901",
+        "DepartamentoUbigeo": "CAJAMARCA",
+        "ProvinciaUbigeo": "SAN IGNACIO",
+        "DistritoUbigeo": "SAN IGNACIO"
+    },
+    {
+        "NumeroUbigeo": "60902",
+        "DepartamentoUbigeo": "CAJAMARCA",
+        "ProvinciaUbigeo": "SAN IGNACIO",
+        "DistritoUbigeo": "CHIRINOS"
+    },
+    {
+        "NumeroUbigeo": "60903",
+        "DepartamentoUbigeo": "CAJAMARCA",
+        "ProvinciaUbigeo": "SAN IGNACIO",
+        "DistritoUbigeo": "HUARANGO"
+    },
+    {
+        "NumeroUbigeo": "60904",
+        "DepartamentoUbigeo": "CAJAMARCA",
+        "ProvinciaUbigeo": "SAN IGNACIO",
+        "DistritoUbigeo": "LA COIPA"
+    },
+    {
+        "NumeroUbigeo": "60905",
+        "DepartamentoUbigeo": "CAJAMARCA",
+        "ProvinciaUbigeo": "SAN IGNACIO",
+        "DistritoUbigeo": "NAMBALLE"
+    },
+    {
+        "NumeroUbigeo": "60906",
+        "DepartamentoUbigeo": "CAJAMARCA",
+        "ProvinciaUbigeo": "SAN IGNACIO",
+        "DistritoUbigeo": "SAN JOSE DE LOURDES"
+    },
+    {
+        "NumeroUbigeo": "60907",
+        "DepartamentoUbigeo": "CAJAMARCA",
+        "ProvinciaUbigeo": "SAN IGNACIO",
+        "DistritoUbigeo": "TABACONAS"
+    },
+    {
+        "NumeroUbigeo": "61001",
+        "DepartamentoUbigeo": "CAJAMARCA",
+        "ProvinciaUbigeo": "SAN MARCOS",
+        "DistritoUbigeo": "PEDRO GALVEZ"
+    },
+    {
+        "NumeroUbigeo": "61002",
+        "DepartamentoUbigeo": "CAJAMARCA",
+        "ProvinciaUbigeo": "SAN MARCOS",
+        "DistritoUbigeo": "CHANCAY"
+    },
+    {
+        "NumeroUbigeo": "61003",
+        "DepartamentoUbigeo": "CAJAMARCA",
+        "ProvinciaUbigeo": "SAN MARCOS",
+        "DistritoUbigeo": "EDUARDO VILLANUEVA"
+    },
+    {
+        "NumeroUbigeo": "61004",
+        "DepartamentoUbigeo": "CAJAMARCA",
+        "ProvinciaUbigeo": "SAN MARCOS",
+        "DistritoUbigeo": "GREGORIO PITA"
+    },
+    {
+        "NumeroUbigeo": "61005",
+        "DepartamentoUbigeo": "CAJAMARCA",
+        "ProvinciaUbigeo": "SAN MARCOS",
+        "DistritoUbigeo": "ICHOCAN"
+    },
+    {
+        "NumeroUbigeo": "61006",
+        "DepartamentoUbigeo": "CAJAMARCA",
+        "ProvinciaUbigeo": "SAN MARCOS",
+        "DistritoUbigeo": "JOSE MANUEL QUIROZ"
+    },
+    {
+        "NumeroUbigeo": "61007",
+        "DepartamentoUbigeo": "CAJAMARCA",
+        "ProvinciaUbigeo": "SAN MARCOS",
+        "DistritoUbigeo": "JOSE SABOGAL"
+    },
+    {
+        "NumeroUbigeo": "61101",
+        "DepartamentoUbigeo": "CAJAMARCA",
+        "ProvinciaUbigeo": "SAN MIGUEL",
+        "DistritoUbigeo": "SAN MIGUEL"
+    },
+    {
+        "NumeroUbigeo": "61102",
+        "DepartamentoUbigeo": "CAJAMARCA",
+        "ProvinciaUbigeo": "SAN MIGUEL",
+        "DistritoUbigeo": "BOLIVAR"
+    },
+    {
+        "NumeroUbigeo": "61103",
+        "DepartamentoUbigeo": "CAJAMARCA",
+        "ProvinciaUbigeo": "SAN MIGUEL",
+        "DistritoUbigeo": "CALQUIS"
+    },
+    {
+        "NumeroUbigeo": "61104",
+        "DepartamentoUbigeo": "CAJAMARCA",
+        "ProvinciaUbigeo": "SAN MIGUEL",
+        "DistritoUbigeo": "CATILLUC"
+    },
+    {
+        "NumeroUbigeo": "61105",
+        "DepartamentoUbigeo": "CAJAMARCA",
+        "ProvinciaUbigeo": "SAN MIGUEL",
+        "DistritoUbigeo": "EL PRADO"
+    },
+    {
+        "NumeroUbigeo": "61106",
+        "DepartamentoUbigeo": "CAJAMARCA",
+        "ProvinciaUbigeo": "SAN MIGUEL",
+        "DistritoUbigeo": "LA FLORIDA"
+    },
+    {
+        "NumeroUbigeo": "61107",
+        "DepartamentoUbigeo": "CAJAMARCA",
+        "ProvinciaUbigeo": "SAN MIGUEL",
+        "DistritoUbigeo": "LLAPA"
+    },
+    {
+        "NumeroUbigeo": "61108",
+        "DepartamentoUbigeo": "CAJAMARCA",
+        "ProvinciaUbigeo": "SAN MIGUEL",
+        "DistritoUbigeo": "NANCHOC"
+    },
+    {
+        "NumeroUbigeo": "61109",
+        "DepartamentoUbigeo": "CAJAMARCA",
+        "ProvinciaUbigeo": "SAN MIGUEL",
+        "DistritoUbigeo": "NIEPOS"
+    },
+    {
+        "NumeroUbigeo": "61110",
+        "DepartamentoUbigeo": "CAJAMARCA",
+        "ProvinciaUbigeo": "SAN MIGUEL",
+        "DistritoUbigeo": "SAN GREGORIO"
+    },
+    {
+        "NumeroUbigeo": "61111",
+        "DepartamentoUbigeo": "CAJAMARCA",
+        "ProvinciaUbigeo": "SAN MIGUEL",
+        "DistritoUbigeo": "SAN SILVESTRE DE COCHAN"
+    },
+    {
+        "NumeroUbigeo": "61112",
+        "DepartamentoUbigeo": "CAJAMARCA",
+        "ProvinciaUbigeo": "SAN MIGUEL",
+        "DistritoUbigeo": "TONGOD"
+    },
+    {
+        "NumeroUbigeo": "61113",
+        "DepartamentoUbigeo": "CAJAMARCA",
+        "ProvinciaUbigeo": "SAN MIGUEL",
+        "DistritoUbigeo": "UNION AGUA BLANCA"
+    },
+    {
+        "NumeroUbigeo": "61201",
+        "DepartamentoUbigeo": "CAJAMARCA",
+        "ProvinciaUbigeo": "SAN PABLO",
+        "DistritoUbigeo": "SAN PABLO"
+    },
+    {
+        "NumeroUbigeo": "61202",
+        "DepartamentoUbigeo": "CAJAMARCA",
+        "ProvinciaUbigeo": "SAN PABLO",
+        "DistritoUbigeo": "SAN BERNARDINO"
+    },
+    {
+        "NumeroUbigeo": "61203",
+        "DepartamentoUbigeo": "CAJAMARCA",
+        "ProvinciaUbigeo": "SAN PABLO",
+        "DistritoUbigeo": "SAN LUIS"
+    },
+    {
+        "NumeroUbigeo": "61204",
+        "DepartamentoUbigeo": "CAJAMARCA",
+        "ProvinciaUbigeo": "SAN PABLO",
+        "DistritoUbigeo": "TUMBADEN"
+    },
+    {
+        "NumeroUbigeo": "61301",
+        "DepartamentoUbigeo": "CAJAMARCA",
+        "ProvinciaUbigeo": "SANTA CRUZ",
+        "DistritoUbigeo": "SANTA CRUZ"
+    },
+    {
+        "NumeroUbigeo": "61302",
+        "DepartamentoUbigeo": "CAJAMARCA",
+        "ProvinciaUbigeo": "SANTA CRUZ",
+        "DistritoUbigeo": "ANDABAMBA"
+    },
+    {
+        "NumeroUbigeo": "61303",
+        "DepartamentoUbigeo": "CAJAMARCA",
+        "ProvinciaUbigeo": "SANTA CRUZ",
+        "DistritoUbigeo": "CATACHE"
+    },
+    {
+        "NumeroUbigeo": "61304",
+        "DepartamentoUbigeo": "CAJAMARCA",
+        "ProvinciaUbigeo": "SANTA CRUZ",
+        "DistritoUbigeo": "CHANCAYBAÑOS"
+    },
+    {
+        "NumeroUbigeo": "61305",
+        "DepartamentoUbigeo": "CAJAMARCA",
+        "ProvinciaUbigeo": "SANTA CRUZ",
+        "DistritoUbigeo": "LA ESPERANZA"
+    },
+    {
+        "NumeroUbigeo": "61306",
+        "DepartamentoUbigeo": "CAJAMARCA",
+        "ProvinciaUbigeo": "SANTA CRUZ",
+        "DistritoUbigeo": "NINABAMBA"
+    },
+    {
+        "NumeroUbigeo": "61307",
+        "DepartamentoUbigeo": "CAJAMARCA",
+        "ProvinciaUbigeo": "SANTA CRUZ",
+        "DistritoUbigeo": "PULAN"
+    },
+    {
+        "NumeroUbigeo": "61308",
+        "DepartamentoUbigeo": "CAJAMARCA",
+        "ProvinciaUbigeo": "SANTA CRUZ",
+        "DistritoUbigeo": "SAUCEPAMPA"
+    },
+    {
+        "NumeroUbigeo": "61309",
+        "DepartamentoUbigeo": "CAJAMARCA",
+        "ProvinciaUbigeo": "SANTA CRUZ",
+        "DistritoUbigeo": "SEXI"
+    },
+    {
+        "NumeroUbigeo": "61310",
+        "DepartamentoUbigeo": "CAJAMARCA",
+        "ProvinciaUbigeo": "SANTA CRUZ",
+        "DistritoUbigeo": "UTICYACU"
+    },
+    {
+        "NumeroUbigeo": "61311",
+        "DepartamentoUbigeo": "CAJAMARCA",
+        "ProvinciaUbigeo": "SANTA CRUZ",
+        "DistritoUbigeo": "YAUYUCAN"
+    },
+    {
+        "NumeroUbigeo": "150101",
+        "DepartamentoUbigeo": "LIMA",
+        "ProvinciaUbigeo": "LIMA",
+        "DistritoUbigeo": "LIMA"
+    },
+    {
+        "NumeroUbigeo": "150102",
+        "DepartamentoUbigeo": "LIMA",
+        "ProvinciaUbigeo": "LIMA",
+        "DistritoUbigeo": "ANCON"
+    },
+    {
+        "NumeroUbigeo": "150103",
+        "DepartamentoUbigeo": "LIMA",
+        "ProvinciaUbigeo": "LIMA",
+        "DistritoUbigeo": "ATE"
+    },
+    {
+        "NumeroUbigeo": "150104",
+        "DepartamentoUbigeo": "LIMA",
+        "ProvinciaUbigeo": "LIMA",
+        "DistritoUbigeo": "BARRANCO"
+    },
+    {
+        "NumeroUbigeo": "150105",
+        "DepartamentoUbigeo": "LIMA",
+        "ProvinciaUbigeo": "LIMA",
+        "DistritoUbigeo": "BREÑA"
+    },
+    {
+        "NumeroUbigeo": "150106",
+        "DepartamentoUbigeo": "LIMA",
+        "ProvinciaUbigeo": "LIMA",
+        "DistritoUbigeo": "CARABAYLLO"
+    },
+    {
+        "NumeroUbigeo": "150107",
+        "DepartamentoUbigeo": "LIMA",
+        "ProvinciaUbigeo": "LIMA",
+        "DistritoUbigeo": "CHACLACAYO"
+    },
+    {
+        "NumeroUbigeo": "150108",
+        "DepartamentoUbigeo": "LIMA",
+        "ProvinciaUbigeo": "LIMA",
+        "DistritoUbigeo": "CHORRILLOS"
+    },
+    {
+        "NumeroUbigeo": "150109",
+        "DepartamentoUbigeo": "LIMA",
+        "ProvinciaUbigeo": "LIMA",
+        "DistritoUbigeo": "CIENEGUILLA"
+    },
+    {
+        "NumeroUbigeo": "150110",
+        "DepartamentoUbigeo": "LIMA",
+        "ProvinciaUbigeo": "LIMA",
+        "DistritoUbigeo": "COMAS"
+    },
+    {
+        "NumeroUbigeo": "150111",
+        "DepartamentoUbigeo": "LIMA",
+        "ProvinciaUbigeo": "LIMA",
+        "DistritoUbigeo": "EL AGUSTINO"
+    },
+    {
+        "NumeroUbigeo": "150112",
+        "DepartamentoUbigeo": "LIMA",
+        "ProvinciaUbigeo": "LIMA",
+        "DistritoUbigeo": "INDEPENDENCIA"
+    },
+    {
+        "NumeroUbigeo": "150113",
+        "DepartamentoUbigeo": "LIMA",
+        "ProvinciaUbigeo": "LIMA",
+        "DistritoUbigeo": "JESUS MARIA"
+    },
+    {
+        "NumeroUbigeo": "150114",
+        "DepartamentoUbigeo": "LIMA",
+        "ProvinciaUbigeo": "LIMA",
+        "DistritoUbigeo": "LA MOLINA"
+    },
+    {
+        "NumeroUbigeo": "150115",
+        "DepartamentoUbigeo": "LIMA",
+        "ProvinciaUbigeo": "LIMA",
+        "DistritoUbigeo": "LA VICTORIA"
+    },
+    {
+        "NumeroUbigeo": "150116",
+        "DepartamentoUbigeo": "LIMA",
+        "ProvinciaUbigeo": "LIMA",
+        "DistritoUbigeo": "LINCE"
+    },
+    {
+        "NumeroUbigeo": "150117",
+        "DepartamentoUbigeo": "LIMA",
+        "ProvinciaUbigeo": "LIMA",
+        "DistritoUbigeo": "LOS OLIVOS"
+    },
+    {
+        "NumeroUbigeo": "150118",
+        "DepartamentoUbigeo": "LIMA",
+        "ProvinciaUbigeo": "LIMA",
+        "DistritoUbigeo": "LURIGANCHO"
+    },
+    {
+        "NumeroUbigeo": "150119",
+        "DepartamentoUbigeo": "LIMA",
+        "ProvinciaUbigeo": "LIMA",
+        "DistritoUbigeo": "LURIN"
+    },
+    {
+        "NumeroUbigeo": "150120",
+        "DepartamentoUbigeo": "LIMA",
+        "ProvinciaUbigeo": "LIMA",
+        "DistritoUbigeo": "MAGDALENA DEL MAR"
+    },
+    {
+        "NumeroUbigeo": "150121",
+        "DepartamentoUbigeo": "LIMA",
+        "ProvinciaUbigeo": "LIMA",
+        "DistritoUbigeo": "MAGDALENA VIEJA"
+    },
+    {
+        "NumeroUbigeo": "150122",
+        "DepartamentoUbigeo": "LIMA",
+        "ProvinciaUbigeo": "LIMA",
+        "DistritoUbigeo": "MIRAFLORES"
+    },
+    {
+        "NumeroUbigeo": "150123",
+        "DepartamentoUbigeo": "LIMA",
+        "ProvinciaUbigeo": "LIMA",
+        "DistritoUbigeo": "PACHACAMAC"
+    },
+    {
+        "NumeroUbigeo": "150124",
+        "DepartamentoUbigeo": "LIMA",
+        "ProvinciaUbigeo": "LIMA",
+        "DistritoUbigeo": "PUCUSANA"
+    },
+    {
+        "NumeroUbigeo": "150125",
+        "DepartamentoUbigeo": "LIMA",
+        "ProvinciaUbigeo": "LIMA",
+        "DistritoUbigeo": "PUENTE PIEDRA"
+    },
+    {
+        "NumeroUbigeo": "150126",
+        "DepartamentoUbigeo": "LIMA",
+        "ProvinciaUbigeo": "LIMA",
+        "DistritoUbigeo": "PUNTA HERMOSA"
+    },
+    {
+        "NumeroUbigeo": "150127",
+        "DepartamentoUbigeo": "LIMA",
+        "ProvinciaUbigeo": "LIMA",
+        "DistritoUbigeo": "PUNTA NEGRA"
+    },
+    {
+        "NumeroUbigeo": "150128",
+        "DepartamentoUbigeo": "LIMA",
+        "ProvinciaUbigeo": "LIMA",
+        "DistritoUbigeo": "RIMAC"
+    },
+    {
+        "NumeroUbigeo": "150129",
+        "DepartamentoUbigeo": "LIMA",
+        "ProvinciaUbigeo": "LIMA",
+        "DistritoUbigeo": "SAN BARTOLO"
+    },
+    {
+        "NumeroUbigeo": "150130",
+        "DepartamentoUbigeo": "LIMA",
+        "ProvinciaUbigeo": "LIMA",
+        "DistritoUbigeo": "SAN BORJA"
+    },
+    {
+        "NumeroUbigeo": "150131",
+        "DepartamentoUbigeo": "LIMA",
+        "ProvinciaUbigeo": "LIMA",
+        "DistritoUbigeo": "SAN ISIDRO"
+    },
+    {
+        "NumeroUbigeo": "150132",
+        "DepartamentoUbigeo": "LIMA",
+        "ProvinciaUbigeo": "LIMA",
+        "DistritoUbigeo": "SAN JUAN DE LURIGANCHO"
+    },
+    {
+        "NumeroUbigeo": "150133",
+        "DepartamentoUbigeo": "LIMA",
+        "ProvinciaUbigeo": "LIMA",
+        "DistritoUbigeo": "SAN JUAN DE MIRAFLORES"
+    },
+    {
+        "NumeroUbigeo": "150134",
+        "DepartamentoUbigeo": "LIMA",
+        "ProvinciaUbigeo": "LIMA",
+        "DistritoUbigeo": "SAN LUIS"
+    },
+    {
+        "NumeroUbigeo": "150135",
+        "DepartamentoUbigeo": "LIMA",
+        "ProvinciaUbigeo": "LIMA",
+        "DistritoUbigeo": "SAN MARTIN DE PORRES"
+    },
+    {
+        "NumeroUbigeo": "150136",
+        "DepartamentoUbigeo": "LIMA",
+        "ProvinciaUbigeo": "LIMA",
+        "DistritoUbigeo": "SAN MIGUEL"
+    },
+    {
+        "NumeroUbigeo": "150137",
+        "DepartamentoUbigeo": "LIMA",
+        "ProvinciaUbigeo": "LIMA",
+        "DistritoUbigeo": "SANTA ANITA"
+    },
+    {
+        "NumeroUbigeo": "150138",
+        "DepartamentoUbigeo": "LIMA",
+        "ProvinciaUbigeo": "LIMA",
+        "DistritoUbigeo": "SANTA MARIA DEL MAR"
+    },
+    {
+        "NumeroUbigeo": "150139",
+        "DepartamentoUbigeo": "LIMA",
+        "ProvinciaUbigeo": "LIMA",
+        "DistritoUbigeo": "SANTA ROSA"
+    },
+    {
+        "NumeroUbigeo": "150140",
+        "DepartamentoUbigeo": "LIMA",
+        "ProvinciaUbigeo": "LIMA",
+        "DistritoUbigeo": "SANTIAGO DE SURCO"
+    },
+    {
+        "NumeroUbigeo": "150141",
+        "DepartamentoUbigeo": "LIMA",
+        "ProvinciaUbigeo": "LIMA",
+        "DistritoUbigeo": "SURQUILLO"
+    },
+    {
+        "NumeroUbigeo": "150142",
+        "DepartamentoUbigeo": "LIMA",
+        "ProvinciaUbigeo": "LIMA",
+        "DistritoUbigeo": "VILLA EL SALVADOR"
+    },
+    {
+        "NumeroUbigeo": "150143",
+        "DepartamentoUbigeo": "LIMA",
+        "ProvinciaUbigeo": "LIMA",
+        "DistritoUbigeo": "VILLA MARIA DEL TRIUNFO"
+    },
+    {
+        "NumeroUbigeo": "150201",
+        "DepartamentoUbigeo": "LIMA",
+        "ProvinciaUbigeo": "BARRANCA",
+        "DistritoUbigeo": "BARRANCA"
+    },
+    {
+        "NumeroUbigeo": "150202",
+        "DepartamentoUbigeo": "LIMA",
+        "ProvinciaUbigeo": "BARRANCA",
+        "DistritoUbigeo": "PARAMONGA"
+    },
+    {
+        "NumeroUbigeo": "150203",
+        "DepartamentoUbigeo": "LIMA",
+        "ProvinciaUbigeo": "BARRANCA",
+        "DistritoUbigeo": "PATIVILCA"
+    },
+    {
+        "NumeroUbigeo": "150204",
+        "DepartamentoUbigeo": "LIMA",
+        "ProvinciaUbigeo": "BARRANCA",
+        "DistritoUbigeo": "SUPE"
+    },
+    {
+        "NumeroUbigeo": "150205",
+        "DepartamentoUbigeo": "LIMA",
+        "ProvinciaUbigeo": "BARRANCA",
+        "DistritoUbigeo": "SUPE PUERTO"
+    },
+    {
+        "NumeroUbigeo": "150301",
+        "DepartamentoUbigeo": "LIMA",
+        "ProvinciaUbigeo": "CAJATAMBO",
+        "DistritoUbigeo": "CAJATAMBO"
+    },
+    {
+        "NumeroUbigeo": "150302",
+        "DepartamentoUbigeo": "LIMA",
+        "ProvinciaUbigeo": "CAJATAMBO",
+        "DistritoUbigeo": "COPA"
+    },
+    {
+        "NumeroUbigeo": "150303",
+        "DepartamentoUbigeo": "LIMA",
+        "ProvinciaUbigeo": "CAJATAMBO",
+        "DistritoUbigeo": "GORGOR"
+    },
+    {
+        "NumeroUbigeo": "150304",
+        "DepartamentoUbigeo": "LIMA",
+        "ProvinciaUbigeo": "CAJATAMBO",
+        "DistritoUbigeo": "HUANCAPON"
+    },
+    {
+        "NumeroUbigeo": "150305",
+        "DepartamentoUbigeo": "LIMA",
+        "ProvinciaUbigeo": "CAJATAMBO",
+        "DistritoUbigeo": "MANAS"
+    },
+    {
+        "NumeroUbigeo": "150401",
+        "DepartamentoUbigeo": "LIMA",
+        "ProvinciaUbigeo": "CANTA",
+        "DistritoUbigeo": "CANTA"
+    },
+    {
+        "NumeroUbigeo": "150402",
+        "DepartamentoUbigeo": "LIMA",
+        "ProvinciaUbigeo": "CANTA",
+        "DistritoUbigeo": "ARAHUAY"
+    },
+    {
+        "NumeroUbigeo": "150403",
+        "DepartamentoUbigeo": "LIMA",
+        "ProvinciaUbigeo": "CANTA",
+        "DistritoUbigeo": "HUAMANTANGA"
+    },
+    {
+        "NumeroUbigeo": "150404",
+        "DepartamentoUbigeo": "LIMA",
+        "ProvinciaUbigeo": "CANTA",
+        "DistritoUbigeo": "HUAROS"
+    },
+    {
+        "NumeroUbigeo": "150405",
+        "DepartamentoUbigeo": "LIMA",
+        "ProvinciaUbigeo": "CANTA",
+        "DistritoUbigeo": "LACHAQUI"
+    },
+    {
+        "NumeroUbigeo": "150406",
+        "DepartamentoUbigeo": "LIMA",
+        "ProvinciaUbigeo": "CANTA",
+        "DistritoUbigeo": "SAN BUENAVENTURA"
+    },
+    {
+        "NumeroUbigeo": "150407",
+        "DepartamentoUbigeo": "LIMA",
+        "ProvinciaUbigeo": "CANTA",
+        "DistritoUbigeo": "SANTA ROSA DE QUIVES"
+    },
+    {
+        "NumeroUbigeo": "150501",
+        "DepartamentoUbigeo": "LIMA",
+        "ProvinciaUbigeo": "CAÑETE",
+        "DistritoUbigeo": "SAN VICENTE DE CAÑETE"
+    },
+    {
+        "NumeroUbigeo": "150502",
+        "DepartamentoUbigeo": "LIMA",
+        "ProvinciaUbigeo": "CAÑETE",
+        "DistritoUbigeo": "ASIA"
+    },
+    {
+        "NumeroUbigeo": "150503",
+        "DepartamentoUbigeo": "LIMA",
+        "ProvinciaUbigeo": "CAÑETE",
+        "DistritoUbigeo": "CALANGO"
+    },
+    {
+        "NumeroUbigeo": "150504",
+        "DepartamentoUbigeo": "LIMA",
+        "ProvinciaUbigeo": "CAÑETE",
+        "DistritoUbigeo": "CERRO AZUL"
+    },
+    {
+        "NumeroUbigeo": "150505",
+        "DepartamentoUbigeo": "LIMA",
+        "ProvinciaUbigeo": "CAÑETE",
+        "DistritoUbigeo": "CHILCA"
+    },
+    {
+        "NumeroUbigeo": "150506",
+        "DepartamentoUbigeo": "LIMA",
+        "ProvinciaUbigeo": "CAÑETE",
+        "DistritoUbigeo": "COAYLLO"
+    },
+    {
+        "NumeroUbigeo": "150507",
+        "DepartamentoUbigeo": "LIMA",
+        "ProvinciaUbigeo": "CAÑETE",
+        "DistritoUbigeo": "IMPERIAL"
+    },
+    {
+        "NumeroUbigeo": "150508",
+        "DepartamentoUbigeo": "LIMA",
+        "ProvinciaUbigeo": "CAÑETE",
+        "DistritoUbigeo": "LUNAHUANA"
+    },
+    {
+        "NumeroUbigeo": "150509",
+        "DepartamentoUbigeo": "LIMA",
+        "ProvinciaUbigeo": "CAÑETE",
+        "DistritoUbigeo": "MALA"
+    },
+    {
+        "NumeroUbigeo": "150510",
+        "DepartamentoUbigeo": "LIMA",
+        "ProvinciaUbigeo": "CAÑETE",
+        "DistritoUbigeo": "NUEVO IMPERIAL"
+    },
+    {
+        "NumeroUbigeo": "150511",
+        "DepartamentoUbigeo": "LIMA",
+        "ProvinciaUbigeo": "CAÑETE",
+        "DistritoUbigeo": "PACARAN"
+    },
+    {
+        "NumeroUbigeo": "150512",
+        "DepartamentoUbigeo": "LIMA",
+        "ProvinciaUbigeo": "CAÑETE",
+        "DistritoUbigeo": "QUILMANA"
+    },
+    {
+        "NumeroUbigeo": "150513",
+        "DepartamentoUbigeo": "LIMA",
+        "ProvinciaUbigeo": "CAÑETE",
+        "DistritoUbigeo": "SAN ANTONIO"
+    },
+    {
+        "NumeroUbigeo": "150514",
+        "DepartamentoUbigeo": "LIMA",
+        "ProvinciaUbigeo": "CAÑETE",
+        "DistritoUbigeo": "SAN LUIS"
+    },
+    {
+        "NumeroUbigeo": "150515",
+        "DepartamentoUbigeo": "LIMA",
+        "ProvinciaUbigeo": "CAÑETE",
+        "DistritoUbigeo": "SANTA CRUZ DE FLORES"
+    },
+    {
+        "NumeroUbigeo": "150516",
+        "DepartamentoUbigeo": "LIMA",
+        "ProvinciaUbigeo": "CAÑETE",
+        "DistritoUbigeo": "ZUÑIGA"
+    },
+    {
+        "NumeroUbigeo": "150601",
+        "DepartamentoUbigeo": "LIMA",
+        "ProvinciaUbigeo": "HUARAL",
+        "DistritoUbigeo": "HUARAL"
+    },
+    {
+        "NumeroUbigeo": "150602",
+        "DepartamentoUbigeo": "LIMA",
+        "ProvinciaUbigeo": "HUARAL",
+        "DistritoUbigeo": "ATAVILLOS ALTO"
+    },
+    {
+        "NumeroUbigeo": "150603",
+        "DepartamentoUbigeo": "LIMA",
+        "ProvinciaUbigeo": "HUARAL",
+        "DistritoUbigeo": "ATAVILLOS BAJO"
+    },
+    {
+        "NumeroUbigeo": "150604",
+        "DepartamentoUbigeo": "LIMA",
+        "ProvinciaUbigeo": "HUARAL",
+        "DistritoUbigeo": "AUCALLAMA"
+    },
+    {
+        "NumeroUbigeo": "150605",
+        "DepartamentoUbigeo": "LIMA",
+        "ProvinciaUbigeo": "HUARAL",
+        "DistritoUbigeo": "CHANCAY"
+    },
+    {
+        "NumeroUbigeo": "150606",
+        "DepartamentoUbigeo": "LIMA",
+        "ProvinciaUbigeo": "HUARAL",
+        "DistritoUbigeo": "IHUARI"
+    },
+    {
+        "NumeroUbigeo": "150607",
+        "DepartamentoUbigeo": "LIMA",
+        "ProvinciaUbigeo": "HUARAL",
+        "DistritoUbigeo": "LAMPIAN"
+    },
+    {
+        "NumeroUbigeo": "150608",
+        "DepartamentoUbigeo": "LIMA",
+        "ProvinciaUbigeo": "HUARAL",
+        "DistritoUbigeo": "PACARAOS"
+    },
+    {
+        "NumeroUbigeo": "150609",
+        "DepartamentoUbigeo": "LIMA",
+        "ProvinciaUbigeo": "HUARAL",
+        "DistritoUbigeo": "SAN MIGUEL DE ACOS"
+    },
+    {
+        "NumeroUbigeo": "150610",
+        "DepartamentoUbigeo": "LIMA",
+        "ProvinciaUbigeo": "HUARAL",
+        "DistritoUbigeo": "SANTA CRUZ DE ANDAMARCA"
+    },
+    {
+        "NumeroUbigeo": "150611",
+        "DepartamentoUbigeo": "LIMA",
+        "ProvinciaUbigeo": "HUARAL",
+        "DistritoUbigeo": "SUMBILCA"
+    },
+    {
+        "NumeroUbigeo": "150612",
+        "DepartamentoUbigeo": "LIMA",
+        "ProvinciaUbigeo": "HUARAL",
+        "DistritoUbigeo": "VEINTISIETE DE NOVIEMBRE"
+    },
+    {
+        "NumeroUbigeo": "150701",
+        "DepartamentoUbigeo": "LIMA",
+        "ProvinciaUbigeo": "HUAROCHIRI",
+        "DistritoUbigeo": "MATUCANA"
+    },
+    {
+        "NumeroUbigeo": "150702",
+        "DepartamentoUbigeo": "LIMA",
+        "ProvinciaUbigeo": "HUAROCHIRI",
+        "DistritoUbigeo": "ANTIOQUIA"
+    },
+    {
+        "NumeroUbigeo": "150703",
+        "DepartamentoUbigeo": "LIMA",
+        "ProvinciaUbigeo": "HUAROCHIRI",
+        "DistritoUbigeo": "CALLAHUANCA"
+    },
+    {
+        "NumeroUbigeo": "150704",
+        "DepartamentoUbigeo": "LIMA",
+        "ProvinciaUbigeo": "HUAROCHIRI",
+        "DistritoUbigeo": "CARAMPOMA"
+    },
+    {
+        "NumeroUbigeo": "150705",
+        "DepartamentoUbigeo": "LIMA",
+        "ProvinciaUbigeo": "HUAROCHIRI",
+        "DistritoUbigeo": "CHICLA"
+    },
+    {
+        "NumeroUbigeo": "150706",
+        "DepartamentoUbigeo": "LIMA",
+        "ProvinciaUbigeo": "HUAROCHIRI",
+        "DistritoUbigeo": "CUENCA"
+    },
+    {
+        "NumeroUbigeo": "150707",
+        "DepartamentoUbigeo": "LIMA",
+        "ProvinciaUbigeo": "HUAROCHIRI",
+        "DistritoUbigeo": "HUACHUPAMPA"
+    },
+    {
+        "NumeroUbigeo": "150708",
+        "DepartamentoUbigeo": "LIMA",
+        "ProvinciaUbigeo": "HUAROCHIRI",
+        "DistritoUbigeo": "HUANZA"
+    },
+    {
+        "NumeroUbigeo": "150709",
+        "DepartamentoUbigeo": "LIMA",
+        "ProvinciaUbigeo": "HUAROCHIRI",
+        "DistritoUbigeo": "HUAROCHIRI"
+    },
+    {
+        "NumeroUbigeo": "150710",
+        "DepartamentoUbigeo": "LIMA",
+        "ProvinciaUbigeo": "HUAROCHIRI",
+        "DistritoUbigeo": "LAHUAYTAMBO"
+    },
+    {
+        "NumeroUbigeo": "150711",
+        "DepartamentoUbigeo": "LIMA",
+        "ProvinciaUbigeo": "HUAROCHIRI",
+        "DistritoUbigeo": "LANGA"
+    },
+    {
+        "NumeroUbigeo": "150712",
+        "DepartamentoUbigeo": "LIMA",
+        "ProvinciaUbigeo": "HUAROCHIRI",
+        "DistritoUbigeo": "LARAOS"
+    },
+    {
+        "NumeroUbigeo": "150713",
+        "DepartamentoUbigeo": "LIMA",
+        "ProvinciaUbigeo": "HUAROCHIRI",
+        "DistritoUbigeo": "MARIATANA"
+    },
+    {
+        "NumeroUbigeo": "150714",
+        "DepartamentoUbigeo": "LIMA",
+        "ProvinciaUbigeo": "HUAROCHIRI",
+        "DistritoUbigeo": "RICARDO PALMA"
+    },
+    {
+        "NumeroUbigeo": "150715",
+        "DepartamentoUbigeo": "LIMA",
+        "ProvinciaUbigeo": "HUAROCHIRI",
+        "DistritoUbigeo": "SAN ANDRES DE TUPICOCHA"
+    },
+    {
+        "NumeroUbigeo": "150716",
+        "DepartamentoUbigeo": "LIMA",
+        "ProvinciaUbigeo": "HUAROCHIRI",
+        "DistritoUbigeo": "SAN ANTONIO"
+    },
+    {
+        "NumeroUbigeo": "150717",
+        "DepartamentoUbigeo": "LIMA",
+        "ProvinciaUbigeo": "HUAROCHIRI",
+        "DistritoUbigeo": "SAN BARTOLOME"
+    },
+    {
+        "NumeroUbigeo": "150718",
+        "DepartamentoUbigeo": "LIMA",
+        "ProvinciaUbigeo": "HUAROCHIRI",
+        "DistritoUbigeo": "SAN DAMIAN"
+    },
+    {
+        "NumeroUbigeo": "150719",
+        "DepartamentoUbigeo": "LIMA",
+        "ProvinciaUbigeo": "HUAROCHIRI",
+        "DistritoUbigeo": "SAN JUAN DE IRIS"
+    },
+    {
+        "NumeroUbigeo": "150720",
+        "DepartamentoUbigeo": "LIMA",
+        "ProvinciaUbigeo": "HUAROCHIRI",
+        "DistritoUbigeo": "SAN JUAN DE TANTARANCHE"
+    },
+    {
+        "NumeroUbigeo": "150721",
+        "DepartamentoUbigeo": "LIMA",
+        "ProvinciaUbigeo": "HUAROCHIRI",
+        "DistritoUbigeo": "SAN LORENZO DE QUINTI"
+    },
+    {
+        "NumeroUbigeo": "150722",
+        "DepartamentoUbigeo": "LIMA",
+        "ProvinciaUbigeo": "HUAROCHIRI",
+        "DistritoUbigeo": "SAN MATEO"
+    },
+    {
+        "NumeroUbigeo": "150723",
+        "DepartamentoUbigeo": "LIMA",
+        "ProvinciaUbigeo": "HUAROCHIRI",
+        "DistritoUbigeo": "SAN MATEO DE OTAO"
+    },
+    {
+        "NumeroUbigeo": "150724",
+        "DepartamentoUbigeo": "LIMA",
+        "ProvinciaUbigeo": "HUAROCHIRI",
+        "DistritoUbigeo": "SAN PEDRO DE CASTA"
+    },
+    {
+        "NumeroUbigeo": "150725",
+        "DepartamentoUbigeo": "LIMA",
+        "ProvinciaUbigeo": "HUAROCHIRI",
+        "DistritoUbigeo": "SAN PEDRO DE HUANCAYRE"
+    },
+    {
+        "NumeroUbigeo": "150726",
+        "DepartamentoUbigeo": "LIMA",
+        "ProvinciaUbigeo": "HUAROCHIRI",
+        "DistritoUbigeo": "SANGALLAYA"
+    },
+    {
+        "NumeroUbigeo": "150727",
+        "DepartamentoUbigeo": "LIMA",
+        "ProvinciaUbigeo": "HUAROCHIRI",
+        "DistritoUbigeo": "SANTA CRUZ DE COCACHACRA"
+    },
+    {
+        "NumeroUbigeo": "150728",
+        "DepartamentoUbigeo": "LIMA",
+        "ProvinciaUbigeo": "HUAROCHIRI",
+        "DistritoUbigeo": "SANTA EULALIA"
+    },
+    {
+        "NumeroUbigeo": "150729",
+        "DepartamentoUbigeo": "LIMA",
+        "ProvinciaUbigeo": "HUAROCHIRI",
+        "DistritoUbigeo": "SANTIAGO DE ANCHUCAYA"
+    },
+    {
+        "NumeroUbigeo": "150730",
+        "DepartamentoUbigeo": "LIMA",
+        "ProvinciaUbigeo": "HUAROCHIRI",
+        "DistritoUbigeo": "SANTIAGO DE TUNA"
+    },
+    {
+        "NumeroUbigeo": "150731",
+        "DepartamentoUbigeo": "LIMA",
+        "ProvinciaUbigeo": "HUAROCHIRI",
+        "DistritoUbigeo": "SANTO DOMINGO DE LOS"
+    },
+    {
+        "NumeroUbigeo": "150732",
+        "DepartamentoUbigeo": "LIMA",
+        "ProvinciaUbigeo": "HUAROCHIRI",
+        "DistritoUbigeo": "SURCO"
+    },
+    {
+        "NumeroUbigeo": "150801",
+        "DepartamentoUbigeo": "LIMA",
+        "ProvinciaUbigeo": "HUAURA",
+        "DistritoUbigeo": "HUACHO"
+    },
+    {
+        "NumeroUbigeo": "150802",
+        "DepartamentoUbigeo": "LIMA",
+        "ProvinciaUbigeo": "HUAURA",
+        "DistritoUbigeo": "AMBAR"
+    },
+    {
+        "NumeroUbigeo": "150803",
+        "DepartamentoUbigeo": "LIMA",
+        "ProvinciaUbigeo": "HUAURA",
+        "DistritoUbigeo": "CALETA DE CARQUIN"
+    },
+    {
+        "NumeroUbigeo": "150804",
+        "DepartamentoUbigeo": "LIMA",
+        "ProvinciaUbigeo": "HUAURA",
+        "DistritoUbigeo": "CHECRAS"
+    },
+    {
+        "NumeroUbigeo": "150805",
+        "DepartamentoUbigeo": "LIMA",
+        "ProvinciaUbigeo": "HUAURA",
+        "DistritoUbigeo": "HUALMAY"
+    },
+    {
+        "NumeroUbigeo": "150806",
+        "DepartamentoUbigeo": "LIMA",
+        "ProvinciaUbigeo": "HUAURA",
+        "DistritoUbigeo": "HUAURA"
+    },
+    {
+        "NumeroUbigeo": "150807",
+        "DepartamentoUbigeo": "LIMA",
+        "ProvinciaUbigeo": "HUAURA",
+        "DistritoUbigeo": "LEONCIO PRADO"
+    },
+    {
+        "NumeroUbigeo": "150808",
+        "DepartamentoUbigeo": "LIMA",
+        "ProvinciaUbigeo": "HUAURA",
+        "DistritoUbigeo": "PACCHO"
+    },
+    {
+        "NumeroUbigeo": "150809",
+        "DepartamentoUbigeo": "LIMA",
+        "ProvinciaUbigeo": "HUAURA",
+        "DistritoUbigeo": "SANTA LEONOR"
+    },
+    {
+        "NumeroUbigeo": "150810",
+        "DepartamentoUbigeo": "LIMA",
+        "ProvinciaUbigeo": "HUAURA",
+        "DistritoUbigeo": "SANTA MARIA"
+    },
+    {
+        "NumeroUbigeo": "150811",
+        "DepartamentoUbigeo": "LIMA",
+        "ProvinciaUbigeo": "HUAURA",
+        "DistritoUbigeo": "SAYAN"
+    },
+    {
+        "NumeroUbigeo": "150812",
+        "DepartamentoUbigeo": "LIMA",
+        "ProvinciaUbigeo": "HUAURA",
+        "DistritoUbigeo": "VEGUETA"
+    },
+    {
+        "NumeroUbigeo": "150901",
+        "DepartamentoUbigeo": "LIMA",
+        "ProvinciaUbigeo": "OYON",
+        "DistritoUbigeo": "OYON"
+    },
+    {
+        "NumeroUbigeo": "150902",
+        "DepartamentoUbigeo": "LIMA",
+        "ProvinciaUbigeo": "OYON",
+        "DistritoUbigeo": "ANDAJES"
+    },
+    {
+        "NumeroUbigeo": "150903",
+        "DepartamentoUbigeo": "LIMA",
+        "ProvinciaUbigeo": "OYON",
+        "DistritoUbigeo": "CAUJUL"
+    },
+    {
+        "NumeroUbigeo": "150904",
+        "DepartamentoUbigeo": "LIMA",
+        "ProvinciaUbigeo": "OYON",
+        "DistritoUbigeo": "COCHAMARCA"
+    },
+    {
+        "NumeroUbigeo": "150905",
+        "DepartamentoUbigeo": "LIMA",
+        "ProvinciaUbigeo": "OYON",
+        "DistritoUbigeo": "NAVAN"
+    },
+    {
+        "NumeroUbigeo": "150906",
+        "DepartamentoUbigeo": "LIMA",
+        "ProvinciaUbigeo": "OYON",
+        "DistritoUbigeo": "PACHANGARA"
+    },
+    {
+        "NumeroUbigeo": "151001",
+        "DepartamentoUbigeo": "LIMA",
+        "ProvinciaUbigeo": "YAUYOS",
+        "DistritoUbigeo": "YAUYOS"
+    },
+    {
+        "NumeroUbigeo": "151002",
+        "DepartamentoUbigeo": "LIMA",
+        "ProvinciaUbigeo": "YAUYOS",
+        "DistritoUbigeo": "ALIS"
+    },
+    {
+        "NumeroUbigeo": "151003",
+        "DepartamentoUbigeo": "LIMA",
+        "ProvinciaUbigeo": "YAUYOS",
+        "DistritoUbigeo": "AYAUCA"
+    },
+    {
+        "NumeroUbigeo": "151004",
+        "DepartamentoUbigeo": "LIMA",
+        "ProvinciaUbigeo": "YAUYOS",
+        "DistritoUbigeo": "AYAVIRI"
+    },
+    {
+        "NumeroUbigeo": "151005",
+        "DepartamentoUbigeo": "LIMA",
+        "ProvinciaUbigeo": "YAUYOS",
+        "DistritoUbigeo": "AZANGARO"
+    },
+    {
+        "NumeroUbigeo": "151006",
+        "DepartamentoUbigeo": "LIMA",
+        "ProvinciaUbigeo": "YAUYOS",
+        "DistritoUbigeo": "CACRA"
+    },
+    {
+        "NumeroUbigeo": "151007",
+        "DepartamentoUbigeo": "LIMA",
+        "ProvinciaUbigeo": "YAUYOS",
+        "DistritoUbigeo": "CARANIA"
+    },
+    {
+        "NumeroUbigeo": "151008",
+        "DepartamentoUbigeo": "LIMA",
+        "ProvinciaUbigeo": "YAUYOS",
+        "DistritoUbigeo": "CATAHUASI"
+    },
+    {
+        "NumeroUbigeo": "151009",
+        "DepartamentoUbigeo": "LIMA",
+        "ProvinciaUbigeo": "YAUYOS",
+        "DistritoUbigeo": "CHOCOS"
+    },
+    {
+        "NumeroUbigeo": "151010",
+        "DepartamentoUbigeo": "LIMA",
+        "ProvinciaUbigeo": "YAUYOS",
+        "DistritoUbigeo": "COCHAS"
+    },
+    {
+        "NumeroUbigeo": "151011",
+        "DepartamentoUbigeo": "LIMA",
+        "ProvinciaUbigeo": "YAUYOS",
+        "DistritoUbigeo": "COLONIA"
+    },
+    {
+        "NumeroUbigeo": "151012",
+        "DepartamentoUbigeo": "LIMA",
+        "ProvinciaUbigeo": "YAUYOS",
+        "DistritoUbigeo": "HONGOS"
+    },
+    {
+        "NumeroUbigeo": "151013",
+        "DepartamentoUbigeo": "LIMA",
+        "ProvinciaUbigeo": "YAUYOS",
+        "DistritoUbigeo": "HUAMPARA"
+    },
+    {
+        "NumeroUbigeo": "151014",
+        "DepartamentoUbigeo": "LIMA",
+        "ProvinciaUbigeo": "YAUYOS",
+        "DistritoUbigeo": "HUANCAYA"
+    },
+    {
+        "NumeroUbigeo": "151015",
+        "DepartamentoUbigeo": "LIMA",
+        "ProvinciaUbigeo": "YAUYOS",
+        "DistritoUbigeo": "HUANGASCAR"
+    },
+    {
+        "NumeroUbigeo": "151016",
+        "DepartamentoUbigeo": "LIMA",
+        "ProvinciaUbigeo": "YAUYOS",
+        "DistritoUbigeo": "HUANTAN"
+    },
+    {
+        "NumeroUbigeo": "151017",
+        "DepartamentoUbigeo": "LIMA",
+        "ProvinciaUbigeo": "YAUYOS",
+        "DistritoUbigeo": "HUAÑEC"
+    },
+    {
+        "NumeroUbigeo": "151018",
+        "DepartamentoUbigeo": "LIMA",
+        "ProvinciaUbigeo": "YAUYOS",
+        "DistritoUbigeo": "LARAOS"
+    },
+    {
+        "NumeroUbigeo": "151019",
+        "DepartamentoUbigeo": "LIMA",
+        "ProvinciaUbigeo": "YAUYOS",
+        "DistritoUbigeo": "LINCHA"
+    },
+    {
+        "NumeroUbigeo": "151020",
+        "DepartamentoUbigeo": "LIMA",
+        "ProvinciaUbigeo": "YAUYOS",
+        "DistritoUbigeo": "MADEAN"
+    },
+    {
+        "NumeroUbigeo": "151021",
+        "DepartamentoUbigeo": "LIMA",
+        "ProvinciaUbigeo": "YAUYOS",
+        "DistritoUbigeo": "MIRAFLORES"
+    },
+    {
+        "NumeroUbigeo": "151022",
+        "DepartamentoUbigeo": "LIMA",
+        "ProvinciaUbigeo": "YAUYOS",
+        "DistritoUbigeo": "OMAS"
+    },
+    {
+        "NumeroUbigeo": "151023",
+        "DepartamentoUbigeo": "LIMA",
+        "ProvinciaUbigeo": "YAUYOS",
+        "DistritoUbigeo": "PUTINZA"
+    },
+    {
+        "NumeroUbigeo": "151024",
+        "DepartamentoUbigeo": "LIMA",
+        "ProvinciaUbigeo": "YAUYOS",
+        "DistritoUbigeo": "QUINCHES"
+    },
+    {
+        "NumeroUbigeo": "151025",
+        "DepartamentoUbigeo": "LIMA",
+        "ProvinciaUbigeo": "YAUYOS",
+        "DistritoUbigeo": "QUINOCAY"
+    },
+    {
+        "NumeroUbigeo": "151026",
+        "DepartamentoUbigeo": "LIMA",
+        "ProvinciaUbigeo": "YAUYOS",
+        "DistritoUbigeo": "SAN JOAQUIN"
+    },
+    {
+        "NumeroUbigeo": "151027",
+        "DepartamentoUbigeo": "LIMA",
+        "ProvinciaUbigeo": "YAUYOS",
+        "DistritoUbigeo": "SAN PEDRO DE PILAS"
+    },
+    {
+        "NumeroUbigeo": "151028",
+        "DepartamentoUbigeo": "LIMA",
+        "ProvinciaUbigeo": "YAUYOS",
+        "DistritoUbigeo": "TANTA"
+    },
+    {
+        "NumeroUbigeo": "151029",
+        "DepartamentoUbigeo": "LIMA",
+        "ProvinciaUbigeo": "YAUYOS",
+        "DistritoUbigeo": "TAURIPAMPA"
+    },
+    {
+        "NumeroUbigeo": "151030",
+        "DepartamentoUbigeo": "LIMA",
+        "ProvinciaUbigeo": "YAUYOS",
+        "DistritoUbigeo": "TOMAS"
+    },
+    {
+        "NumeroUbigeo": "151031",
+        "DepartamentoUbigeo": "LIMA",
+        "ProvinciaUbigeo": "YAUYOS",
+        "DistritoUbigeo": "TUPE"
+    },
+    {
+        "NumeroUbigeo": "151032",
+        "DepartamentoUbigeo": "LIMA",
+        "ProvinciaUbigeo": "YAUYOS",
+        "DistritoUbigeo": "VIÑAC"
+    },
+    {
+        "NumeroUbigeo": "151033",
+        "DepartamentoUbigeo": "LIMA",
+        "ProvinciaUbigeo": "YAUYOS",
+        "DistritoUbigeo": "VITIS"
+    }
+]
