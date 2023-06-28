@@ -40,6 +40,7 @@ import codecs
 import pandas as pd
 import datetime
 
+
 sys.stdout = codecs.getwriter('utf-8')(sys.stdout.buffer)
 
 def capitalize_address(address):
@@ -47,6 +48,8 @@ def capitalize_address(address):
     capitalized_words = [word.title() for word in words]
     capitalized_address = ', '.join(capitalized_words)
     return capitalized_address
+
+
 
 def convert_to_json(file_path):
     addresses = []
