@@ -1,0 +1,2672 @@
+INSERT INTO dbo.Ubigeo(NumeroUbigeo,DepartamentoUbigeo,ProvinciaUbigeo,DistritoUbigeo)
+VALUES
+(
+    '140101',
+    'LAMBAYEQUE',
+    'CHICLAYO',
+    'CHICLAYO'
+),
+(
+    '140102',
+    'LAMBAYEQUE',
+    'CHICLAYO',
+    'CHONGOYAPE'
+),
+(
+    '140103',
+    'LAMBAYEQUE',
+    'CHICLAYO',
+    'ETEN'
+),
+(
+    '140104',
+    'LAMBAYEQUE',
+    'CHICLAYO',
+    'ETEN PUERTO'
+),
+(
+    '140105',
+    'LAMBAYEQUE',
+    'CHICLAYO',
+    'JOSE LEONARDO ORTIZ'
+),
+(
+    '140106',
+    'LAMBAYEQUE',
+    'CHICLAYO',
+    'LA VICTORIA'
+),
+(
+    '140107',
+    'LAMBAYEQUE',
+    'CHICLAYO',
+    'LAGUNAS'
+),
+(
+    '140108',
+    'LAMBAYEQUE',
+    'CHICLAYO',
+    'MONSEFU'
+),
+(
+    '140109',
+    'LAMBAYEQUE',
+    'CHICLAYO',
+    'NUEVA ARICA'
+),
+(
+    '140110',
+    'LAMBAYEQUE',
+    'CHICLAYO',
+    'OYOTUN'
+),
+(
+    '140111',
+    'LAMBAYEQUE',
+    'CHICLAYO',
+    'PICSI'
+),
+(
+    '140112',
+    'LAMBAYEQUE',
+    'CHICLAYO',
+    'PIMENTEL'
+),
+(
+    '140113',
+    'LAMBAYEQUE',
+    'CHICLAYO',
+    'REQUE'
+),
+(
+    '140114',
+    'LAMBAYEQUE',
+    'CHICLAYO',
+    'SANTA ROSA'
+),
+(
+    '140115',
+    'LAMBAYEQUE',
+    'CHICLAYO',
+    'SAÑA'
+),
+(
+    '140116',
+    'LAMBAYEQUE',
+    'CHICLAYO',
+    'CAYALTI'
+),
+(
+    '140117',
+    'LAMBAYEQUE',
+    'CHICLAYO',
+    'PATAPO'
+),
+(
+    '140118',
+    'LAMBAYEQUE',
+    'CHICLAYO',
+    'POMALCA'
+),
+(
+    '140119',
+    'LAMBAYEQUE',
+    'CHICLAYO',
+    'PUCALA'
+),
+(
+    '140120',
+    'LAMBAYEQUE',
+    'CHICLAYO',
+    'TUMAN'
+),
+(
+    '140201',
+    'LAMBAYEQUE',
+    'FERREÑAFE',
+    'FERREÑAFE'
+),
+(
+    '140202',
+    'LAMBAYEQUE',
+    'FERREÑAFE',
+    'CAÑARIS'
+),
+(
+    '140203',
+    'LAMBAYEQUE',
+    'FERREÑAFE',
+    'INCAHUASI'
+),
+(
+    '140204',
+    'LAMBAYEQUE',
+    'FERREÑAFE',
+    'MANUEL ANTONIO MESONES'
+),
+(
+    '140205',
+    'LAMBAYEQUE',
+    'FERREÑAFE',
+    'PITIPO'
+),
+(
+    '140206',
+    'LAMBAYEQUE',
+    'FERREÑAFE',
+    'PUEBLO NUEVO'
+),
+(
+    '140301',
+    'LAMBAYEQUE',
+    'LAMBAYEQUE',
+    'LAMBAYEQUE'
+),
+(
+    '140302',
+    'LAMBAYEQUE',
+    'LAMBAYEQUE',
+    'CHOCHOPE'
+),
+(
+    '140303',
+    'LAMBAYEQUE',
+    'LAMBAYEQUE',
+    'ILLIMO'
+),
+(
+    '140304',
+    'LAMBAYEQUE',
+    'LAMBAYEQUE',
+    'JAYANCA'
+),
+(
+    '140305',
+    'LAMBAYEQUE',
+    'LAMBAYEQUE',
+    'MOCHUMI'
+),
+(
+    '140306',
+    'LAMBAYEQUE',
+    'LAMBAYEQUE',
+    'MORROPE'
+),
+(
+    '140307',
+    'LAMBAYEQUE',
+    'LAMBAYEQUE',
+    'MOTUPE'
+),
+(
+    '140308',
+    'LAMBAYEQUE',
+    'LAMBAYEQUE',
+    'OLMOS'
+),
+(
+    '140309',
+    'LAMBAYEQUE',
+    'LAMBAYEQUE',
+    'PACORA'
+),
+(
+    '140310',
+    'LAMBAYEQUE',
+    'LAMBAYEQUE',
+    'SALAS'
+),
+(
+    '140311',
+    'LAMBAYEQUE',
+    'LAMBAYEQUE',
+    'SAN JOSE'
+),
+(
+    '140312',
+    'LAMBAYEQUE',
+    'LAMBAYEQUE',
+    'TUCUME'
+),
+(
+    '40101',
+    'AREQUIPA',
+    'AREQUIPA',
+    'AREQUIPA'
+),
+(
+    '40102',
+    'AREQUIPA',
+    'AREQUIPA',
+    'ALTO SELVA ALEGRE'
+),
+(
+    '40103',
+    'AREQUIPA',
+    'AREQUIPA',
+    'CAYMA'
+),
+(
+    '40104',
+    'AREQUIPA',
+    'AREQUIPA',
+    'CERRO COLORADO'
+),
+(
+    '40105',
+    'AREQUIPA',
+    'AREQUIPA',
+    'CHARACATO'
+),
+(
+    '40106',
+    'AREQUIPA',
+    'AREQUIPA',
+    'CHIGUATA'
+),
+(
+    '40107',
+    'AREQUIPA',
+    'AREQUIPA',
+    'JACOBO HUNTER'
+),
+(
+    '40108',
+    'AREQUIPA',
+    'AREQUIPA',
+    'LA JOYA'
+),
+(
+    '40109',
+    'AREQUIPA',
+    'AREQUIPA',
+    'MARIANO MELGAR'
+),
+(
+    '40110',
+    'AREQUIPA',
+    'AREQUIPA',
+    'MIRAFLORES'
+),
+(
+    '40111',
+    'AREQUIPA',
+    'AREQUIPA',
+    'MOLLEBAYA'
+),
+(
+    '40112',
+    'AREQUIPA',
+    'AREQUIPA',
+    'PAUCARPATA'
+),
+(
+    '40113',
+    'AREQUIPA',
+    'AREQUIPA',
+    'POCSI'
+),
+(
+    '40114',
+    'AREQUIPA',
+    'AREQUIPA',
+    'POLOBAYA'
+),
+(
+    '40115',
+    'AREQUIPA',
+    'AREQUIPA',
+    'QUEQUEÑA'
+),
+(
+    '40116',
+    'AREQUIPA',
+    'AREQUIPA',
+    'SABANDIA'
+),
+(
+    '40117',
+    'AREQUIPA',
+    'AREQUIPA',
+    'SACHACA'
+),
+(
+    '40118',
+    'AREQUIPA',
+    'AREQUIPA',
+    'SAN JUAN DE SIGUAS'
+),
+(
+    '40119',
+    'AREQUIPA',
+    'AREQUIPA',
+    'SAN JUAN DE TARUCANI'
+),
+(
+    '40120',
+    'AREQUIPA',
+    'AREQUIPA',
+    'SANTA ISABEL DE SIGUAS'
+),
+(
+    '40121',
+    'AREQUIPA',
+    'AREQUIPA',
+    'SANTA RITA DE SIGUAS'
+),
+(
+    '40122',
+    'AREQUIPA',
+    'AREQUIPA',
+    'SOCABAYA'
+),
+(
+    '40123',
+    'AREQUIPA',
+    'AREQUIPA',
+    'TIABAYA'
+),
+(
+    '40124',
+    'AREQUIPA',
+    'AREQUIPA',
+    'UCHUMAYO'
+),
+(
+    '40125',
+    'AREQUIPA',
+    'AREQUIPA',
+    'VITOR'
+),
+(
+    '40126',
+    'AREQUIPA',
+    'AREQUIPA',
+    'YANAHUARA'
+),
+(
+    '40127',
+    'AREQUIPA',
+    'AREQUIPA',
+    'YARABAMBA'
+),
+(
+    '40128',
+    'AREQUIPA',
+    'AREQUIPA',
+    'YURA'
+),
+(
+    '40129',
+    'AREQUIPA',
+    'AREQUIPA',
+    'JOSE LUIS BUSTAMANTE Y'
+),
+(
+    '40201',
+    'AREQUIPA',
+    'CAMANA',
+    'CAMANA'
+),
+(
+    '40202',
+    'AREQUIPA',
+    'CAMANA',
+    'JOSE MARIA QUIMPER'
+),
+(
+    '40203',
+    'AREQUIPA',
+    'CAMANA',
+    'MARIANO NICOLAS VALCARCEL'
+),
+(
+    '40204',
+    'AREQUIPA',
+    'CAMANA',
+    'MARISCAL CACERES'
+),
+(
+    '40205',
+    'AREQUIPA',
+    'CAMANA',
+    'NICOLAS DE PIEROLA'
+),
+(
+    '40206',
+    'AREQUIPA',
+    'CAMANA',
+    'OCOÑA'
+),
+(
+    '40207',
+    'AREQUIPA',
+    'CAMANA',
+    'QUILCA'
+),
+(
+    '40208',
+    'AREQUIPA',
+    'CAMANA',
+    'SAMUEL PASTOR'
+),
+(
+    '40301',
+    'AREQUIPA',
+    'CARAVELI',
+    'CARAVELI'
+),
+(
+    '40302',
+    'AREQUIPA',
+    'CARAVELI',
+    'ACARI'
+),
+(
+    '40303',
+    'AREQUIPA',
+    'CARAVELI',
+    'ATICO'
+),
+(
+    '40304',
+    'AREQUIPA',
+    'CARAVELI',
+    'ATIQUIPA'
+),
+(
+    '40305',
+    'AREQUIPA',
+    'CARAVELI',
+    'BELLA UNION'
+),
+(
+    '40306',
+    'AREQUIPA',
+    'CARAVELI',
+    'CAHUACHO'
+),
+(
+    '40307',
+    'AREQUIPA',
+    'CARAVELI',
+    'CHALA'
+),
+(
+    '40308',
+    'AREQUIPA',
+    'CARAVELI',
+    'CHAPARRA'
+),
+(
+    '40309',
+    'AREQUIPA',
+    'CARAVELI',
+    'HUANUHUANU'
+),
+(
+    '40310',
+    'AREQUIPA',
+    'CARAVELI',
+    'JAQUI'
+),
+(
+    '40311',
+    'AREQUIPA',
+    'CARAVELI',
+    'LOMAS'
+),
+(
+    '40312',
+    'AREQUIPA',
+    'CARAVELI',
+    'QUICACHA'
+),
+(
+    '40313',
+    'AREQUIPA',
+    'CARAVELI',
+    'YAUCA'
+),
+(
+    '40401',
+    'AREQUIPA',
+    'CASTILLA',
+    'APLAO'
+),
+(
+    '40402',
+    'AREQUIPA',
+    'CASTILLA',
+    'ANDAGUA'
+),
+(
+    '40403',
+    'AREQUIPA',
+    'CASTILLA',
+    'AYO'
+),
+(
+    '40404',
+    'AREQUIPA',
+    'CASTILLA',
+    'CHACHAS'
+),
+(
+    '40405',
+    'AREQUIPA',
+    'CASTILLA',
+    'CHILCAYMARCA'
+),
+(
+    '40406',
+    'AREQUIPA',
+    'CASTILLA',
+    'CHOCO'
+),
+(
+    '40407',
+    'AREQUIPA',
+    'CASTILLA',
+    'HUANCARQUI'
+),
+(
+    '40408',
+    'AREQUIPA',
+    'CASTILLA',
+    'MACHAGUAY'
+),
+(
+    '40409',
+    'AREQUIPA',
+    'CASTILLA',
+    'ORCOPAMPA'
+),
+(
+    '40410',
+    'AREQUIPA',
+    'CASTILLA',
+    'PAMPACOLCA'
+),
+(
+    '40411',
+    'AREQUIPA',
+    'CASTILLA',
+    'TIPAN'
+),
+(
+    '40412',
+    'AREQUIPA',
+    'CASTILLA',
+    'UÑON'
+),
+(
+    '40413',
+    'AREQUIPA',
+    'CASTILLA',
+    'URACA'
+),
+(
+    '40414',
+    'AREQUIPA',
+    'CASTILLA',
+    'VIRACO'
+),
+(
+    '40501',
+    'AREQUIPA',
+    'CAYLLOMA',
+    'CHIVAY'
+),
+(
+    '40502',
+    'AREQUIPA',
+    'CAYLLOMA',
+    'ACHOMA'
+),
+(
+    '40503',
+    'AREQUIPA',
+    'CAYLLOMA',
+    'CABANACONDE'
+),
+(
+    '40504',
+    'AREQUIPA',
+    'CAYLLOMA',
+    'CALLALLI'
+),
+(
+    '40505',
+    'AREQUIPA',
+    'CAYLLOMA',
+    'CAYLLOMA'
+),
+(
+    '40506',
+    'AREQUIPA',
+    'CAYLLOMA',
+    'COPORAQUE'
+),
+(
+    '40507',
+    'AREQUIPA',
+    'CAYLLOMA',
+    'HUAMBO'
+),
+(
+    '40508',
+    'AREQUIPA',
+    'CAYLLOMA',
+    'HUANCA'
+),
+(
+    '40509',
+    'AREQUIPA',
+    'CAYLLOMA',
+    'ICHUPAMPA'
+),
+(
+    '40510',
+    'AREQUIPA',
+    'CAYLLOMA',
+    'LARI'
+),
+(
+    '40511',
+    'AREQUIPA',
+    'CAYLLOMA',
+    'LLUTA'
+),
+(
+    '40512',
+    'AREQUIPA',
+    'CAYLLOMA',
+    'MACA'
+),
+(
+    '40513',
+    'AREQUIPA',
+    'CAYLLOMA',
+    'MADRIGAL'
+),
+(
+    '40514',
+    'AREQUIPA',
+    'CAYLLOMA',
+    'SAN ANTONIO DE CHUCA'
+),
+(
+    '40515',
+    'AREQUIPA',
+    'CAYLLOMA',
+    'SIBAYO'
+),
+(
+    '40516',
+    'AREQUIPA',
+    'CAYLLOMA',
+    'TAPAY'
+),
+(
+    '40517',
+    'AREQUIPA',
+    'CAYLLOMA',
+    'TISCO'
+),
+(
+    '40518',
+    'AREQUIPA',
+    'CAYLLOMA',
+    'TUTI'
+),
+(
+    '40519',
+    'AREQUIPA',
+    'CAYLLOMA',
+    'YANQUE'
+),
+(
+    '40520',
+    'AREQUIPA',
+    'CAYLLOMA',
+    'MAJES'
+),
+(
+    '40601',
+    'AREQUIPA',
+    'CONDESUYOS',
+    'CHUQUIBAMBA'
+),
+(
+    '40602',
+    'AREQUIPA',
+    'CONDESUYOS',
+    'ANDARAY'
+),
+(
+    '40603',
+    'AREQUIPA',
+    'CONDESUYOS',
+    'CAYARANI'
+),
+(
+    '40604',
+    'AREQUIPA',
+    'CONDESUYOS',
+    'CHICHAS'
+),
+(
+    '40605',
+    'AREQUIPA',
+    'CONDESUYOS',
+    'IRAY'
+),
+(
+    '40606',
+    'AREQUIPA',
+    'CONDESUYOS',
+    'RIO GRANDE'
+),
+(
+    '40607',
+    'AREQUIPA',
+    'CONDESUYOS',
+    'SALAMANCA'
+),
+(
+    '40608',
+    'AREQUIPA',
+    'CONDESUYOS',
+    'YANAQUIHUA'
+),
+(
+    '40701',
+    'AREQUIPA',
+    'ISLAY',
+    'MOLLENDO'
+),
+(
+    '40702',
+    'AREQUIPA',
+    'ISLAM',
+    'COCACHACRA'
+),
+(
+    '40703',
+    'AREQUIPA',
+    'ISLAY',
+    'DEAN VALDIVIA'
+),
+(
+    '40704',
+    'AREQUIPA',
+    'ISLAY',
+    'ISLAY'
+),
+(
+    '40705',
+    'AREQUIPA',
+    'ISLAY',
+    'MEJIA'
+),
+(
+    '40706',
+    'AREQUIPA',
+    'ISLAY',
+    'PUNTA DE BOMBON'
+),
+(
+    '40801',
+    'AREQUIPA',
+    'LA UNION',
+    'COTAHUASI'
+),
+(
+    '40802',
+    'AREQUIPA',
+    'LA UNION',
+    'ALCA'
+),
+(
+    '40803',
+    'AREQUIPA',
+    'LA UNION',
+    'CHARCANA'
+),
+(
+    '40804',
+    'AREQUIPA',
+    'LA UNION',
+    'HUAYNACOTAS'
+),
+(
+    '40805',
+    'AREQUIPA',
+    'LA UNION',
+    'PAMPAMARCA'
+),
+(
+    '40806',
+    'AREQUIPA',
+    'LA UNION',
+    'PUYCA'
+),
+(
+    '40807',
+    'AREQUIPA',
+    'LA UNION',
+    'QUECHUALLA'
+),
+(
+    '40808',
+    'AREQUIPA',
+    'LA UNION',
+    'SAYLA'
+),
+(
+    '40809',
+    'AREQUIPA',
+    'LA UNION',
+    'TAURIA'
+),
+(
+    '40810',
+    'AREQUIPA',
+    'LA UNION',
+    'TOMEPAMPA'
+),
+(
+    '40811',
+    'AREQUIPA',
+    'LA UNION',
+    'TORO'
+),
+(
+    '60101',
+    'CAJAMARCA',
+    'CAJAMARCA',
+    'CAJAMARCA'
+),
+(
+    '60102',
+    'CAJAMARCA',
+    'CAJAMARCA',
+    'ASUNCION'
+),
+(
+    '60103',
+    'CAJAMARCA',
+    'CAJAMARCA',
+    'CHETILLA'
+),
+(
+    '60104',
+    'CAJAMARCA',
+    'CAJAMARCA',
+    'COSPAN'
+),
+(
+    '60105',
+    'CAJAMARCA',
+    'CAJAMARCA',
+    'ENCAÑADA'
+),
+(
+    '60106',
+    'CAJAMARCA',
+    'CAJAMARCA',
+    'JESUS'
+),
+(
+    '60107',
+    'CAJAMARCA',
+    'CAJAMARCA',
+    'LLACANORA'
+),
+(
+    '60108',
+    'CAJAMARCA',
+    'CAJAMARCA',
+    'LOS BAÑOS DEL INCA'
+),
+(
+    '60109',
+    'CAJAMARCA',
+    'CAJAMARCA',
+    'MAGDALENA'
+),
+(
+    '60110',
+    'CAJAMARCA',
+    'CAJAMARCA',
+    'MATARA'
+),
+(
+    '60111',
+    'CAJAMARCA',
+    'CAJAMARCA',
+    'NAMORA'
+),
+(
+    '60112',
+    'CAJAMARCA',
+    'CAJAMARCA',
+    'SAN JUAN'
+),
+(
+    '60201',
+    'CAJAMARCA',
+    'CAJABAMBA',
+    'CAJABAMBA'
+),
+(
+    '60202',
+    'CAJAMARCA',
+    'CAJABAMBA',
+    'CACHACHI'
+),
+(
+    '60203',
+    'CAJAMARCA',
+    'CAJABAMBA',
+    'CONDEBAMBA'
+),
+(
+    '60204',
+    'CAJAMARCA',
+    'CAJABAMBA',
+    'SITACOCHA'
+),
+(
+    '60301',
+    'CAJAMARCA',
+    'CELENDIN',
+    'CELENDIN'
+),
+(
+    '60302',
+    'CAJAMARCA',
+    'CELENDIN',
+    'CHUMIJCH'
+),
+(
+    '60303',
+    'CAJAMARCA',
+    'CELENDIN',
+    'CORTEGANA'
+),
+(
+    '60304',
+    'CAJAMARCA',
+    'CELENDIN',
+    'HIJASMIN'
+),
+(
+    '60305',
+    'CAJAMARCA',
+    'CELENDIN',
+    'JORGE CHAVEZ'
+),
+(
+    '60306',
+    'CAJAMARCA',
+    'CELENDIN',
+    'JOSE CALVEZ'
+),
+(
+    '60307',
+    'CAJAMARCA',
+    'CELENDIN',
+    'MIGUEL IGLESIAS'
+),
+(
+    '60308',
+    'CAJAMARCA',
+    'CELENDIN',
+    'OXAMARCA'
+),
+(
+    '60309',
+    'CAJAMARCA',
+    'CELENDIN',
+    'SOROCHUCO'
+),
+(
+    '60310',
+    'CAJAMARCA',
+    'CELENDIN',
+    'SUCRE'
+),
+(
+    '60311',
+    'CAJAMARCA',
+    'CELENDIN',
+    'UTCO'
+),
+(
+    '60312',
+    'CAJAMARCA',
+    'CELENDIN',
+    'LA LIBERTAD DE PALLAN'
+),
+(
+    '60401',
+    'CAJAMARCA',
+    'CHOTA',
+    'CHOTA'
+),
+(
+    '60402',
+    'CAJAMARCA',
+    'CHOTA',
+    'ANGUIA'
+),
+(
+    '60403',
+    'CAJAMARCA',
+    'CHOTA',
+    'CHADIN'
+),
+(
+    '60404',
+    'CAJAMARCA',
+    'CHOTA',
+    'CHIGUIRIP'
+),
+(
+    '60405',
+    'CAJAMARCA',
+    'CHOTA',
+    'CHIMBAN'
+),
+(
+    '60406',
+    'CAJAMARCA',
+    'CHOTA',
+    'CHOROPAMPA'
+),
+(
+    '60407',
+    'CAJAMARCA',
+    'CHOTA',
+    'COCHABAMBA'
+),
+(
+    '60408',
+    'CAJAMARCA',
+    'CHOTA',
+    'CONCHAN'
+),
+(
+    '60409',
+    'CAJAMARCA',
+    'CHOTA',
+    'HUAMBOS'
+),
+(
+    '60410',
+    'CAJAMARCA',
+    'CHOTA',
+    'LAJAS'
+),
+(
+    '60411',
+    'CAJAMARCA',
+    'CHOTA',
+    'LLAMA'
+),
+(
+    '60412',
+    'CAJAMARCA',
+    'CHOTA',
+    'MIRACOSTA'
+),
+(
+    '60413',
+    'CAJAMARCA',
+    'CHOTA',
+    'PACCHA'
+),
+(
+    '60414',
+    'CAJAMARCA',
+    'CHOTA',
+    'PION'
+),
+(
+    '60415',
+    'CAJAMARCA',
+    'CHOTA',
+    'QUEROCOTO'
+),
+(
+    '60416',
+    'CAJAMARCA',
+    'CHOTA',
+    'SAN JUAN DE LICUAS'
+),
+(
+    '60417',
+    'CAJAMARCA',
+    'CHOTA',
+    'TACABAMBA'
+),
+(
+    '60418',
+    'CAJAMARCA',
+    'CHOTA',
+    'TOCMOCHE'
+),
+(
+    '60419',
+    'CAJAMARCA',
+    'CHOTA',
+    'CHALAMARCA'
+),
+(
+    '60501',
+    'CAJAMARCA',
+    'CONTUMAZA',
+    'CONTUMAZA'
+),
+(
+    '60502',
+    'CAJAMARCA',
+    'CONTUMAZA',
+    'CHILETE'
+),
+(
+    '60503',
+    'CAJAMARCA',
+    'CONTUMAZA',
+    'CUPISNIQUE'
+),
+(
+    '60504',
+    'CAJAMARCA',
+    'CONTUMAZA',
+    'GUZMANGO'
+),
+(
+    '60505',
+    'CAJAMARCA',
+    'CONTUMAZA',
+    'SAN BENITO'
+),
+(
+    '60506',
+    'CAJAMARCA',
+    'CONTUMAZA',
+    'SANTA CRUZ DE TOLED'
+),
+(
+    '60507',
+    'CAJAMARCA',
+    'CONTUMAZA',
+    'TANTARICA'
+),
+(
+    '60508',
+    'CAJAMARCA',
+    'CONTUMAZA',
+    'YONAN'
+),
+(
+    '60601',
+    'CAJAMARCA',
+    'CUTERVO',
+    'CUTERVO'
+),
+(
+    '60602',
+    'CAJAMARCA',
+    'CUTERVO',
+    'CALLAYUC'
+),
+(
+    '60603',
+    'CAJAMARCA',
+    'CUTERVO',
+    'CHOROS'
+),
+(
+    '60604',
+    'CAJAMARCA',
+    'CUTERVO',
+    'CUJILLO'
+),
+(
+    '60605',
+    'CAJAMARCA',
+    'CUTERVO',
+    'LA RAMADA'
+),
+(
+    '60606',
+    'CAJAMARCA',
+    'CUTERVO',
+    'PIMPINGOS'
+),
+(
+    '60607',
+    'CAJAMARCA',
+    'CUTERVO',
+    'QUEROCOTILLO'
+),
+(
+    '60608',
+    'CAJAMARCA',
+    'CUTERVO',
+    'SAN ANDRES DE CUTERVO'
+),
+(
+    '60609',
+    'CAJAMARCA',
+    'CUTERVO',
+    'SAN JUAN DE CUTERVO'
+),
+(
+    '60610',
+    'CAJAMARCA',
+    'CUTERVO',
+    'SAN LUIS DE LUCMA'
+),
+(
+    '60611',
+    'CAJAMARCA',
+    'CUTERVO',
+    'SANTA CRUZ'
+),
+(
+    '60612',
+    'CAJAMARCA',
+    'CUTERVO',
+    'SANTO DOMINGO DE LA'
+),
+(
+    '60613',
+    'CAJAMARCA',
+    'CUTERVO',
+    'SANTO TOMAS'
+),
+(
+    '60614',
+    'CAJAMARCA',
+    'CUTERVO',
+    'SOCOTA'
+),
+(
+    '60615',
+    'CAJAMARCA',
+    'CUTERVO',
+    'TORIBIO CASANOVA'
+),
+(
+    '60701',
+    'CAJAMARCA',
+    'HUALGAYOC',
+    'BAMBAMARCA'
+),
+(
+    '60702',
+    'CAJAMARCA',
+    'HUALGAYOC',
+    'CHUGUR'
+),
+(
+    '60703',
+    'CAJAMARCA',
+    'HUALGAYOC',
+    'HUALGAYOC'
+),
+(
+    '60801',
+    'CAJAMARCA',
+    'JAEN',
+    'JAEN'
+),
+(
+    '60802',
+    'CAJAMARCA',
+    'JAEN',
+    'BELLAVISTA'
+),
+(
+    '60803',
+    'CAJAMARCA',
+    'JAEN',
+    'CHONTALI'
+),
+(
+    '60804',
+    'CAJAMARCA',
+    'JAEN',
+    'COLASAY'
+),
+(
+    '60805',
+    'CAJAMARCA',
+    'JAEN',
+    'HIJABAL'
+),
+(
+    '60806',
+    'CAJAMARCA',
+    'JAEN',
+    'LAS PIRIAS'
+),
+(
+    '60807',
+    'CAJAMARCA',
+    'JAEN',
+    'POMAHUACA'
+),
+(
+    '60808',
+    'CAJAMARCA',
+    'JAEN',
+    'PUCARA'
+),
+(
+    '60809',
+    'CAJAMARCA',
+    'JAEN',
+    'SALLIQUE'
+),
+(
+    '60810',
+    'CAJAMARCA',
+    'JAEN',
+    'SAN FELIPE'
+),
+(
+    '60811',
+    'CAJAMARCA',
+    'JAEN',
+    'SAN JOSE DEL ALTO'
+),
+(
+    '60812',
+    'CAJAMARCA',
+    'JAEN',
+    'SANTA ROSA'
+),
+(
+    '60901',
+    'CAJAMARCA',
+    'SAN IGNACIO',
+    'SAN IGNACIO'
+),
+(
+    '60902',
+    'CAJAMARCA',
+    'SAN IGNACIO',
+    'CHIRINOS'
+),
+(
+    '60903',
+    'CAJAMARCA',
+    'SAN IGNACIO',
+    'HUARANGO'
+),
+(
+    '60904',
+    'CAJAMARCA',
+    'SAN IGNACIO',
+    'LA COIPA'
+),
+(
+    '60905',
+    'CAJAMARCA',
+    'SAN IGNACIO',
+    'NAMBALLE'
+),
+(
+    '60906',
+    'CAJAMARCA',
+    'SAN IGNACIO',
+    'SAN JOSE DE LOURDES'
+),
+(
+    '60907',
+    'CAJAMARCA',
+    'SAN IGNACIO',
+    'TABACONAS'
+),
+(
+    '61001',
+    'CAJAMARCA',
+    'SAN MARCOS',
+    'PEDRO GALVEZ'
+),
+(
+    '61002',
+    'CAJAMARCA',
+    'SAN MARCOS',
+    'CHANCAY'
+),
+(
+    '61003',
+    'CAJAMARCA',
+    'SAN MARCOS',
+    'EDUARDO VILLANUEVA'
+),
+(
+    '61004',
+    'CAJAMARCA',
+    'SAN MARCOS',
+    'GREGORIO PITA'
+),
+(
+    '61005',
+    'CAJAMARCA',
+    'SAN MARCOS',
+    'ICHOCAN'
+),
+(
+    '61006',
+    'CAJAMARCA',
+    'SAN MARCOS',
+    'JOSE MANUEL QUIROZ'
+),
+(
+    '61007',
+    'CAJAMARCA',
+    'SAN MARCOS',
+    'JOSE SABOGAL'
+),
+(
+    '61101',
+    'CAJAMARCA',
+    'SAN MIGUEL',
+    'SAN MIGUEL'
+),
+(
+    '61102',
+    'CAJAMARCA',
+    'SAN MIGUEL',
+    'BOLIVAR'
+),
+(
+    '61103',
+    'CAJAMARCA',
+    'SAN MIGUEL',
+    'CALQUIS'
+),
+(
+    '61104',
+    'CAJAMARCA',
+    'SAN MIGUEL',
+    'CATILLUC'
+),
+(
+    '61105',
+    'CAJAMARCA',
+    'SAN MIGUEL',
+    'EL PRADO'
+),
+(
+    '61106',
+    'CAJAMARCA',
+    'SAN MIGUEL',
+    'LA FLORIDA'
+),
+(
+    '61107',
+    'CAJAMARCA',
+    'SAN MIGUEL',
+    'LLAPA'
+),
+(
+    '61108',
+    'CAJAMARCA',
+    'SAN MIGUEL',
+    'NANCHOC'
+),
+(
+    '61109',
+    'CAJAMARCA',
+    'SAN MIGUEL',
+    'NIEPOS'
+),
+(
+    '61110',
+    'CAJAMARCA',
+    'SAN MIGUEL',
+    'SAN GREGORIO'
+),
+(
+    '61111',
+    'CAJAMARCA',
+    'SAN MIGUEL',
+    'SAN SILVESTRE DE COCHAN'
+),
+(
+    '61112',
+    'CAJAMARCA',
+    'SAN MIGUEL',
+    'TONGOD'
+),
+(
+    '61113',
+    'CAJAMARCA',
+    'SAN MIGUEL',
+    'UNION AGUA BLANCA'
+),
+(
+    '61201',
+    'CAJAMARCA',
+    'SAN PABLO',
+    'SAN PABLO'
+),
+(
+    '61202',
+    'CAJAMARCA',
+    'SAN PABLO',
+    'SAN BERNARDINO'
+),
+(
+    '61203',
+    'CAJAMARCA',
+    'SAN PABLO',
+    'SAN LUIS'
+),
+(
+    '61204',
+    'CAJAMARCA',
+    'SAN PABLO',
+    'TUMBADEN'
+),
+(
+    '61301',
+    'CAJAMARCA',
+    'SANTA CRUZ',
+    'SANTA CRUZ'
+),
+(
+    '61302',
+    'CAJAMARCA',
+    'SANTA CRUZ',
+    'ANDABAMBA'
+),
+(
+    '61303',
+    'CAJAMARCA',
+    'SANTA CRUZ',
+    'CATACHE'
+),
+(
+    '61304',
+    'CAJAMARCA',
+    'SANTA CRUZ',
+    'CHANCAYBAÑOS'
+),
+(
+    '61305',
+    'CAJAMARCA',
+    'SANTA CRUZ',
+    'LA ESPERANZA'
+),
+(
+    '61306',
+    'CAJAMARCA',
+    'SANTA CRUZ',
+    'NINABAMBA'
+),
+(
+    '61307',
+    'CAJAMARCA',
+    'SANTA CRUZ',
+    'PULAN'
+),
+(
+    '61308',
+    'CAJAMARCA',
+    'SANTA CRUZ',
+    'SAUCEPAMPA'
+),
+(
+    '61309',
+    'CAJAMARCA',
+    'SANTA CRUZ',
+    'SEXI'
+),
+(
+    '61310',
+    'CAJAMARCA',
+    'SANTA CRUZ',
+    'UTICYACU'
+),
+(
+    '61311',
+    'CAJAMARCA',
+    'SANTA CRUZ',
+    'YAUYUCAN'
+),
+(
+    '150101',
+    'LIMA',
+    'LIMA',
+    'LIMA'
+),
+(
+    '150102',
+    'LIMA',
+    'LIMA',
+    'ANCON'
+),
+(
+    '150103',
+    'LIMA',
+    'LIMA',
+    'ATE'
+),
+(
+    '150104',
+    'LIMA',
+    'LIMA',
+    'BARRANCO'
+),
+(
+    '150105',
+    'LIMA',
+    'LIMA',
+    'BREÑA'
+),
+(
+    '150106',
+    'LIMA',
+    'LIMA',
+    'CARABAYLLO'
+),
+(
+    '150107',
+    'LIMA',
+    'LIMA',
+    'CHACLACAYO'
+),
+(
+    '150108',
+    'LIMA',
+    'LIMA',
+    'CHORRILLOS'
+),
+(
+    '150109',
+    'LIMA',
+    'LIMA',
+    'CIENEGUILLA'
+),
+(
+    '150110',
+    'LIMA',
+    'LIMA',
+    'COMAS'
+),
+(
+    '150111',
+    'LIMA',
+    'LIMA',
+    'EL AGUSTINO'
+),
+(
+    '150112',
+    'LIMA',
+    'LIMA',
+    'INDEPENDENCIA'
+),
+(
+    '150113',
+    'LIMA',
+    'LIMA',
+    'JESUS MARIA'
+),
+(
+    '150114',
+    'LIMA',
+    'LIMA',
+    'LA MOLINA'
+),
+(
+    '150115',
+    'LIMA',
+    'LIMA',
+    'LA VICTORIA'
+),
+(
+    '150116',
+    'LIMA',
+    'LIMA',
+    'LINCE'
+),
+(
+    '150117',
+    'LIMA',
+    'LIMA',
+    'LOS OLIVOS'
+),
+(
+    '150118',
+    'LIMA',
+    'LIMA',
+    'LURIGANCHO'
+),
+(
+    '150119',
+    'LIMA',
+    'LIMA',
+    'LURIN'
+),
+(
+    '150120',
+    'LIMA',
+    'LIMA',
+    'MAGDALENA DEL MAR'
+),
+(
+    '150121',
+    'LIMA',
+    'LIMA',
+    'MAGDALENA VIEJA'
+),
+(
+    '150122',
+    'LIMA',
+    'LIMA',
+    'MIRAFLORES'
+),
+(
+    '150123',
+    'LIMA',
+    'LIMA',
+    'PACHACAMAC'
+),
+(
+    '150124',
+    'LIMA',
+    'LIMA',
+    'PUCUSANA'
+),
+(
+    '150125',
+    'LIMA',
+    'LIMA',
+    'PUENTE PIEDRA'
+),
+(
+    '150126',
+    'LIMA',
+    'LIMA',
+    'PUNTA HERMOSA'
+),
+(
+    '150127',
+    'LIMA',
+    'LIMA',
+    'PUNTA NEGRA'
+),
+(
+    '150128',
+    'LIMA',
+    'LIMA',
+    'RIMAC'
+),
+(
+    '150129',
+    'LIMA',
+    'LIMA',
+    'SAN BARTOLO'
+),
+(
+    '150130',
+    'LIMA',
+    'LIMA',
+    'SAN BORJA'
+),
+(
+    '150131',
+    'LIMA',
+    'LIMA',
+    'SAN ISIDRO'
+),
+(
+    '150132',
+    'LIMA',
+    'LIMA',
+    'SAN JUAN DE LURIGANCHO'
+),
+(
+    '150133',
+    'LIMA',
+    'LIMA',
+    'SAN JUAN DE MIRAFLORES'
+),
+(
+    '150134',
+    'LIMA',
+    'LIMA',
+    'SAN LUIS'
+),
+(
+    '150135',
+    'LIMA',
+    'LIMA',
+    'SAN MARTIN DE PORRES'
+),
+(
+    '150136',
+    'LIMA',
+    'LIMA',
+    'SAN MIGUEL'
+),
+(
+    '150137',
+    'LIMA',
+    'LIMA',
+    'SANTA ANITA'
+),
+(
+    '150138',
+    'LIMA',
+    'LIMA',
+    'SANTA MARIA DEL MAR'
+),
+(
+    '150139',
+    'LIMA',
+    'LIMA',
+    'SANTA ROSA'
+),
+(
+    '150140',
+    'LIMA',
+    'LIMA',
+    'SANTIAGO DE SURCO'
+),
+(
+    '150141',
+    'LIMA',
+    'LIMA',
+    'SURQUILLO'
+),
+(
+    '150142',
+    'LIMA',
+    'LIMA',
+    'VILLA EL SALVADOR'
+),
+(
+    '150143',
+    'LIMA',
+    'LIMA',
+    'VILLA MARIA DEL TRIUNFO'
+),
+(
+    '150201',
+    'LIMA',
+    'BARRANCA',
+    'BARRANCA'
+),
+(
+    '150202',
+    'LIMA',
+    'BARRANCA',
+    'PARAMONGA'
+),
+(
+    '150203',
+    'LIMA',
+    'BARRANCA',
+    'PATIVILCA'
+),
+(
+    '150204',
+    'LIMA',
+    'BARRANCA',
+    'SUPE'
+),
+(
+    '150205',
+    'LIMA',
+    'BARRANCA',
+    'SUPE PUERTO'
+),
+(
+    '150301',
+    'LIMA',
+    'CAJATAMBO',
+    'CAJATAMBO'
+),
+(
+    '150302',
+    'LIMA',
+    'CAJATAMBO',
+    'COPA'
+),
+(
+    '150303',
+    'LIMA',
+    'CAJATAMBO',
+    'GORGOR'
+),
+(
+    '150304',
+    'LIMA',
+    'CAJATAMBO',
+    'HUANCAPON'
+),
+(
+    '150305',
+    'LIMA',
+    'CAJATAMBO',
+    'MANAS'
+),
+(
+    '150401',
+    'LIMA',
+    'CANTA',
+    'CANTA'
+),
+(
+    '150402',
+    'LIMA',
+    'CANTA',
+    'ARAHUAY'
+),
+(
+    '150403',
+    'LIMA',
+    'CANTA',
+    'HUAMANTANGA'
+),
+(
+    '150404',
+    'LIMA',
+    'CANTA',
+    'HUAROS'
+),
+(
+    '150405',
+    'LIMA',
+    'CANTA',
+    'LACHAQUI'
+),
+(
+    '150406',
+    'LIMA',
+    'CANTA',
+    'SAN BUENAVENTURA'
+),
+(
+    '150407',
+    'LIMA',
+    'CANTA',
+    'SANTA ROSA DE QUIVES'
+),
+(
+    '150501',
+    'LIMA',
+    'CAÑETE',
+    'SAN VICENTE DE CAÑETE'
+),
+(
+    '150502',
+    'LIMA',
+    'CAÑETE',
+    'ASIA'
+),
+(
+    '150503',
+    'LIMA',
+    'CAÑETE',
+    'CALANGO'
+),
+(
+    '150504',
+    'LIMA',
+    'CAÑETE',
+    'CERRO AZUL'
+),
+(
+    '150505',
+    'LIMA',
+    'CAÑETE',
+    'CHILCA'
+),
+(
+    '150506',
+    'LIMA',
+    'CAÑETE',
+    'COAYLLO'
+),
+(
+    '150507',
+    'LIMA',
+    'CAÑETE',
+    'IMPERIAL'
+),
+(
+    '150508',
+    'LIMA',
+    'CAÑETE',
+    'LUNAHUANA'
+),
+(
+    '150509',
+    'LIMA',
+    'CAÑETE',
+    'MALA'
+),
+(
+    '150510',
+    'LIMA',
+    'CAÑETE',
+    'NUEVO IMPERIAL'
+),
+(
+    '150511',
+    'LIMA',
+    'CAÑETE',
+    'PACARAN'
+),
+(
+    '150512',
+    'LIMA',
+    'CAÑETE',
+    'QUILMANA'
+),
+(
+    '150513',
+    'LIMA',
+    'CAÑETE',
+    'SAN ANTONIO'
+),
+(
+    '150514',
+    'LIMA',
+    'CAÑETE',
+    'SAN LUIS'
+),
+(
+    '150515',
+    'LIMA',
+    'CAÑETE',
+    'SANTA CRUZ DE FLORES'
+),
+(
+    '150516',
+    'LIMA',
+    'CAÑETE',
+    'ZUÑIGA'
+),
+(
+    '150601',
+    'LIMA',
+    'HUARAL',
+    'HUARAL'
+),
+(
+    '150602',
+    'LIMA',
+    'HUARAL',
+    'ATAVILLOS ALTO'
+),
+(
+    '150603',
+    'LIMA',
+    'HUARAL',
+    'ATAVILLOS BAJO'
+),
+(
+    '150604',
+    'LIMA',
+    'HUARAL',
+    'AUCALLAMA'
+),
+(
+    '150605',
+    'LIMA',
+    'HUARAL',
+    'CHANCAY'
+),
+(
+    '150606',
+    'LIMA',
+    'HUARAL',
+    'IHUARI'
+),
+(
+    '150607',
+    'LIMA',
+    'HUARAL',
+    'LAMPIAN'
+),
+(
+    '150608',
+    'LIMA',
+    'HUARAL',
+    'PACARAOS'
+),
+(
+    '150609',
+    'LIMA',
+    'HUARAL',
+    'SAN MIGUEL DE ACOS'
+),
+(
+    '150610',
+    'LIMA',
+    'HUARAL',
+    'SANTA CRUZ DE ANDAMARCA'
+),
+(
+    '150611',
+    'LIMA',
+    'HUARAL',
+    'SUMBILCA'
+),
+(
+    '150612',
+    'LIMA',
+    'HUARAL',
+    'VEINTISIETE DE NOVIEMBRE'
+),
+(
+    '150701',
+    'LIMA',
+    'HUAROCHIRI',
+    'MATUCANA'
+),
+(
+    '150702',
+    'LIMA',
+    'HUAROCHIRI',
+    'ANTIOQUIA'
+),
+(
+    '150703',
+    'LIMA',
+    'HUAROCHIRI',
+    'CALLAHUANCA'
+),
+(
+    '150704',
+    'LIMA',
+    'HUAROCHIRI',
+    'CARAMPOMA'
+),
+(
+    '150705',
+    'LIMA',
+    'HUAROCHIRI',
+    'CHICLA'
+),
+(
+    '150706',
+    'LIMA',
+    'HUAROCHIRI',
+    'CUENCA'
+),
+(
+    '150707',
+    'LIMA',
+    'HUAROCHIRI',
+    'HUACHUPAMPA'
+),
+(
+    '150708',
+    'LIMA',
+    'HUAROCHIRI',
+    'HUANZA'
+),
+(
+    '150709',
+    'LIMA',
+    'HUAROCHIRI',
+    'HUAROCHIRI'
+),
+(
+    '150710',
+    'LIMA',
+    'HUAROCHIRI',
+    'LAHUAYTAMBO'
+),
+(
+    '150711',
+    'LIMA',
+    'HUAROCHIRI',
+    'LANGA'
+),
+(
+    '150712',
+    'LIMA',
+    'HUAROCHIRI',
+    'LARAOS'
+),
+(
+    '150713',
+    'LIMA',
+    'HUAROCHIRI',
+    'MARIATANA'
+),
+(
+    '150714',
+    'LIMA',
+    'HUAROCHIRI',
+    'RICARDO PALMA'
+),
+(
+    '150715',
+    'LIMA',
+    'HUAROCHIRI',
+    'SAN ANDRES DE TUPICOCHA'
+),
+(
+    '150716',
+    'LIMA',
+    'HUAROCHIRI',
+    'SAN ANTONIO'
+),
+(
+    '150717',
+    'LIMA',
+    'HUAROCHIRI',
+    'SAN BARTOLOME'
+),
+(
+    '150718',
+    'LIMA',
+    'HUAROCHIRI',
+    'SAN DAMIAN'
+),
+(
+    '150719',
+    'LIMA',
+    'HUAROCHIRI',
+    'SAN JUAN DE IRIS'
+),
+(
+    '150720',
+    'LIMA',
+    'HUAROCHIRI',
+    'SAN JUAN DE TANTARANCHE'
+),
+(
+    '150721',
+    'LIMA',
+    'HUAROCHIRI',
+    'SAN LORENZO DE QUINTI'
+),
+(
+    '150722',
+    'LIMA',
+    'HUAROCHIRI',
+    'SAN MATEO'
+),
+(
+    '150723',
+    'LIMA',
+    'HUAROCHIRI',
+    'SAN MATEO DE OTAO'
+),
+(
+    '150724',
+    'LIMA',
+    'HUAROCHIRI',
+    'SAN PEDRO DE CASTA'
+),
+(
+    '150725',
+    'LIMA',
+    'HUAROCHIRI',
+    'SAN PEDRO DE HUANCAYRE'
+),
+(
+    '150726',
+    'LIMA',
+    'HUAROCHIRI',
+    'SANGALLAYA'
+),
+(
+    '150727',
+    'LIMA',
+    'HUAROCHIRI',
+    'SANTA CRUZ DE COCACHACRA'
+),
+(
+    '150728',
+    'LIMA',
+    'HUAROCHIRI',
+    'SANTA EULALIA'
+),
+(
+    '150729',
+    'LIMA',
+    'HUAROCHIRI',
+    'SANTIAGO DE ANCHUCAYA'
+),
+(
+    '150730',
+    'LIMA',
+    'HUAROCHIRI',
+    'SANTIAGO DE TUNA'
+),
+(
+    '150731',
+    'LIMA',
+    'HUAROCHIRI',
+    'SANTO DOMINGO DE LOS'
+),
+(
+    '150732',
+    'LIMA',
+    'HUAROCHIRI',
+    'SURCO'
+),
+(
+    '150801',
+    'LIMA',
+    'HUAURA',
+    'HUACHO'
+),
+(
+    '150802',
+    'LIMA',
+    'HUAURA',
+    'AMBAR'
+),
+(
+    '150803',
+    'LIMA',
+    'HUAURA',
+    'CALETA DE CARQUIN'
+),
+(
+    '150804',
+    'LIMA',
+    'HUAURA',
+    'CHECRAS'
+),
+(
+    '150805',
+    'LIMA',
+    'HUAURA',
+    'HUALMAY'
+),
+(
+    '150806',
+    'LIMA',
+    'HUAURA',
+    'HUAURA'
+),
+(
+    '150807',
+    'LIMA',
+    'HUAURA',
+    'LEONCIO PRADO'
+),
+(
+    '150808',
+    'LIMA',
+    'HUAURA',
+    'PACCHO'
+),
+(
+    '150809',
+    'LIMA',
+    'HUAURA',
+    'SANTA LEONOR'
+),
+(
+    '150810',
+    'LIMA',
+    'HUAURA',
+    'SANTA MARIA'
+),
+(
+    '150811',
+    'LIMA',
+    'HUAURA',
+    'SAYAN'
+),
+(
+    '150812',
+    'LIMA',
+    'HUAURA',
+    'VEGUETA'
+),
+(
+    '150901',
+    'LIMA',
+    'OYON',
+    'OYON'
+),
+(
+    '150902',
+    'LIMA',
+    'OYON',
+    'ANDAJES'
+),
+(
+    '150903',
+    'LIMA',
+    'OYON',
+    'CAUJUL'
+),
+(
+    '150904',
+    'LIMA',
+    'OYON',
+    'COCHAMARCA'
+),
+(
+    '150905',
+    'LIMA',
+    'OYON',
+    'NAVAN'
+),
+(
+    '150906',
+    'LIMA',
+    'OYON',
+    'PACHANGARA'
+),
+(
+    '151001',
+    'LIMA',
+    'YAUYOS',
+    'YAUYOS'
+),
+(
+    '151002',
+    'LIMA',
+    'YAUYOS',
+    'ALIS'
+),
+(
+    '151003',
+    'LIMA',
+    'YAUYOS',
+    'AYAUCA'
+),
+(
+    '151004',
+    'LIMA',
+    'YAUYOS',
+    'AYAVIRI'
+),
+(
+    '151005',
+    'LIMA',
+    'YAUYOS',
+    'AZANGARO'
+),
+(
+    '151006',
+    'LIMA',
+    'YAUYOS',
+    'CACRA'
+),
+(
+    '151007',
+    'LIMA',
+    'YAUYOS',
+    'CARANIA'
+),
+(
+    '151008',
+    'LIMA',
+    'YAUYOS',
+    'CATAHUASI'
+),
+(
+    '151009',
+    'LIMA',
+    'YAUYOS',
+    'CHOCOS'
+),
+(
+    '151010',
+    'LIMA',
+    'YAUYOS',
+    'COCHAS'
+),
+(
+    '151011',
+    'LIMA',
+    'YAUYOS',
+    'COLONIA'
+),
+(
+    '151012',
+    'LIMA',
+    'YAUYOS',
+    'HONGOS'
+),
+(
+    '151013',
+    'LIMA',
+    'YAUYOS',
+    'HUAMPARA'
+),
+(
+    '151014',
+    'LIMA',
+    'YAUYOS',
+    'HUANCAYA'
+),
+(
+    '151015',
+    'LIMA',
+    'YAUYOS',
+    'HUANGASCAR'
+),
+(
+    '151016',
+    'LIMA',
+    'YAUYOS',
+    'HUANTAN'
+),
+(
+    '151017',
+    'LIMA',
+    'YAUYOS',
+    'HUAÑEC'
+),
+(
+    '151018',
+    'LIMA',
+    'YAUYOS',
+    'LARAOS'
+),
+(
+    '151019',
+    'LIMA',
+    'YAUYOS',
+    'LINCHA'
+),
+(
+    '151020',
+    'LIMA',
+    'YAUYOS',
+    'MADEAN'
+),
+(
+    '151021',
+    'LIMA',
+    'YAUYOS',
+    'MIRAFLORES'
+),
+(
+    '151022',
+    'LIMA',
+    'YAUYOS',
+    'OMAS'
+),
+(
+    '151023',
+    'LIMA',
+    'YAUYOS',
+    'PUTINZA'
+),
+(
+    '151024',
+    'LIMA',
+    'YAUYOS',
+    'QUINCHES'
+),
+(
+    '151025',
+    'LIMA',
+    'YAUYOS',
+    'QUINOCAY'
+),
+(
+    '151026',
+    'LIMA',
+    'YAUYOS',
+    'SAN JOAQUIN'
+),
+(
+    '151027',
+    'LIMA',
+    'YAUYOS',
+    'SAN PEDRO DE PILAS'
+),
+(
+    '151028',
+    'LIMA',
+    'YAUYOS',
+    'TANTA'
+),
+(
+    '151029',
+    'LIMA',
+    'YAUYOS',
+    'TAURIPAMPA'
+),
+(
+    '151030',
+    'LIMA',
+    'YAUYOS',
+    'TOMAS'
+),
+(
+    '151031',
+    'LIMA',
+    'YAUYOS',
+    'TUPE'
+),
+(
+    '151032',
+    'LIMA',
+    'YAUYOS',
+    'VIÑAC'
+),
+(
+    '151033',
+    'LIMA',
+    'YAUYOS',
+    'VITIS'
+);
